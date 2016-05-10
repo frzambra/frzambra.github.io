@@ -10,7 +10,13 @@ tag:
   - Dynamic
   - VCI
   - SPI
+show_meta: true
+comments: true
 mathjax: true
+gistembed: true
+published: true
+noindex: false
+nofollow: false
 ---
 
 
