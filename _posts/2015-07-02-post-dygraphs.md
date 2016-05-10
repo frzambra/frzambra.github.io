@@ -28,20 +28,18 @@ It is possible to observe that the lowest values in all time-scales (1 to 12) ar
 ## Standarized Precipitation Index(SPI) for UdeC weather station.
 
 {::nomarkdown}
-<iframe src="/../htmlwidgets/dygraphs_spi.html" width=800 height=400 frameborder="0" allowtransparency="true"> </iframe>
+<iframe src="/../htmlwidgets/dygraphs_spi.html" width=700 height=400 frameborder="0" allowtransparency="true"> </iframe>
 {:/nomarkdown}
 
-La segunda figura que se presenta a continuación muestra los valores del índice de sequía de condición de la vegetación (VCI), el que representa una medida del estado de la vegetación con respecto a su comportamiento histórico para igual periodo dede el año 2000. Además, junto al VCI se muestran las curvas del índice de vegetación de diferencia normalizada (NDVI), máximo, mínimo y medido. Los valores más bajos del VCI se encuentran para este caso a fines del 2008 y principios del 2009.
+The second dynamic plot below shows the values of Vegetation Condition Index (VCI). This index is a measure of the vegetation status compared to its historic behavior.  In this case, the historic data consider the period from the year 2000 to the year 2012. Also, in the same plot the curves of Normalized Difference Vegetation Index (NDVI) are presented. The NDVI index it is a measure of vegetation development.  The $NDVI_{max}$ correspond to the historical maximum values of NDVI which are associated with good weather conditions. In contrast, the  $NDVI_{min}$ correspond to the historical minimum NDVI values, associated with bad weather conditions as low rainfall and high temperature.
 
-La ecuación que refleja el calculo del índice VCI a partir de los valores de NDVI es la siguiente:
+The equation used for the calculation of VCI is the next:
 
 $$
 VCI = \frac{NDVI-NDVI_{min}}{NDVI_{max}-NDVI_{min}}
 $$
 
-Esto se puede ver y corroborar con los datos de la figura siguiente:
-
-### VCI en un punto de la región del Bío-Bío
+### VCI puntual value in the Bío-Bío region of Chile
 
 {::nomarkdown}
 <iframe src="/../htmlwidgets/dygraphs_vci.html" width=100% height=400 allowtransparency="true"> </iframe>
