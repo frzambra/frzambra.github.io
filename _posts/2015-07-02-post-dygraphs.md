@@ -2,7 +2,8 @@
 layout: post
 title: "Dynamic time-series of drought indices"
 date: 2015-07-02
-description: "En este primer post voy a mostrar series temporales en forma dinámica, esto se hizo utilizando el paquete **dygraphs** de 'R'."
+slug: prueba
+description: "En este primer post voy a mostrar series temporales en forma dinámica, esto se hizo utilizando el paquete **dygraphs** de R."
 tag:
   - Time-series
   - html widget
