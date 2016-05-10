@@ -10,7 +10,7 @@ title:               Francisco Zambrano Bigiarini
 #tagline:             'foo's website
 description:         Francisco Zambrano's blog...
 url: https://frzambra.github.io/
-baseurl: "/lanyon-plus"
+baseurl: "/"
 urlimg: https://frzambra.github.io/images/
 markdown: kramdown
 paginate: 5
@@ -74,30 +74,32 @@ links:
   - title: <i class="fa fa-archive"></i> Archive
     url: /archive/
   - title: <i class="iconside iconm-wordpress"></i> Old Blog
-    url: https://foo.wordpress.com
+    url: https://r-recursos-naturales.blogspot.com/
     external: true
   - title: <i class="iconside iconm-envelop"></i> Contact
     url: /contact/
   - title: <i class="iconside iconm-twitter"></i> Twitter
-    url: https://twitter.com/abcd
+    url: https://twitter.com/frzambra
     external: true
   - title: <i class="iconside iconm-feed2"></i> Feed
     url: /feed.xml
 
 # Google Custom Search:
-#google_search: xyz123abc
+google_search: 002642212482439923032:bdda2imeoa4
 
 # Twitter stream widget:
 # Replace xyz123abc with your twitter widget id from https://twitter.com/settings/widgets
-#twitter_widget_id: xyz123abc
+twitter_widget_id: 730135969593098240
 
 # Add disqus username for Disqus comment board:
-disqus_shortname: foo
+disqus_shortname: frzambraBlog
 
 # Analytics and webmaster tools stuff goes here
-#google_analytics:   xyz123abc
+google_analytics:   UA-64677575-1
 
 #### For dummy website only - remove if you wish ####
-github_repo: https://github.com/dyndna/lanyon-plus
+github_repo: https://frzambra.github.io/frzambra
 version: 1.1.0
 ## END ##
+
+            
