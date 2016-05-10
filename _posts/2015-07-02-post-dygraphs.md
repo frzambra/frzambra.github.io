@@ -23,7 +23,9 @@ Se puede observar que los valores más bajo en todos los indicadores (SPI-1 a SP
 
 ### SPI Estación UdeC Chillán 
 
+{::nomarkdown}
 <iframe src="/../htmlwidgets/dygraphs_spi.html" width=100% height=400 allowtransparency="true"> </iframe>
+{:/nomarkdown}
 
 La segunda figura que se presenta a continuación muestra los valores del índice de sequía de condición de la vegetación (VCI), el que representa una medida del estado de la vegetación con respecto a su comportamiento histórico para igual periodo dede el año 2000. Además, junto al VCI se muestran las curvas del índice de vegetación de diferencia normalizada (NDVI), máximo, mínimo y medido. Los valores más bajos del VCI se encuentran para este caso a fines del 2008 y principios del 2009.
 
