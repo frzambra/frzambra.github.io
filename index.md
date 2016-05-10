@@ -5,7 +5,13 @@ title: Personal Homepage of foo boo
 description: "Blogging on ...."
 ---
 
-## Personal web page of Francisco Zambrano
+## [Personal web page of Francisco Zambrano]
+
+Here you could read about:
+
+* some examples and visualizations on the use of [R](https://www.r-project.com)
+* personal interest
+* climate, vegetation, drought
 
 My last two tweet...
 
