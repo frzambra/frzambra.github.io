@@ -18,7 +18,6 @@ gistembed: true
 published: true
 noindex: false
 nofollow: false
-summaryfeed: false
 ---
 
 In this first post I'm going to show dynamic time-series using the htmlwidget **dygraph** in R.
