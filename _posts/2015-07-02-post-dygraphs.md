@@ -22,7 +22,7 @@ The first dynamic plot show values for the standardized drought index (SPI), cal
 
 It is possible to observe that the lowest values in all time-scales (1 to 12) are from the year 1998 to 1999, period in which a [severe drought][sequia_wiki] event occurred over Chile.
 
-## Standarized Precipitation Index(SPI) for UdeC weather station.
+# Standarized Precipitation Index(SPI) for the weather station on UdeC.
 
 {::nomarkdown}
 <iframe src="/../htmlwidgets/dygraphs_spi.html" width=600 height=300 frameborder="0" allowtransparency="true" scrolling=no> </iframe>
@@ -36,10 +36,10 @@ $$
 VCI = \frac{NDVI-NDVI_{min}}{NDVI_{max}-NDVI_{min}}
 $$
 
-### VCI puntual value in the Bío-Bío region of Chile
+### Puntual values of VCI in a location on the Bío-Bío region of Chile
 
 {::nomarkdown}
-<iframe src="/../htmlwidgets/dygraphs_vci.html" width=100% height=400 allowtransparency="true"> </iframe>
+<iframe src="/../htmlwidgets/dygraphs_vci.html" width=600 height=300 frameborder="0" allowtransparency="true" scrolling=no> </iframe>
 {:/nomarkdown}
 
 [sequia_wiki]: https://es.wikipedia.org/wiki/Sequ%C3%ADa_en_Chile_de_1998-1999
