@@ -1,10 +1,27 @@
 ---
 layout: default
 permalink: index.html
-title: Personal Homepage of Francisco Zambrano Bigiarini
+title: Personal Homepage of foo boo
 description: "Blogging on ...."
 ---
 
+## Personal web page of Francisco Zambrano
+
+My last two tweet...
+
+{% if site.twitter_widget_id %}
+<div class="text-tweets">
+<div class="tweets">
+<a class="twitter-timeline"
+  data-dnt="true"
+  width="600"
+  height="250"
+  href="https://twitter.com/{{ site.owner.twitter }}"
+  data-widget-id="{{ site.twitter_widget_id }}"
+  data-tweet-limit="2"
+  data-chrome="noheader nofooter noborders noscrollbar transparent">
+  Recent Tweets</a>
+</div>
 <script>
     !function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");
 </script>
@@ -54,17 +71,3 @@ Twitter stream will show up here if `twitter_widget_id` is present is `_config.y
     <a class="pagination-item newer" href="{{ site.url }}/tags"><i class="fa fa-tags"> Tags</i></a>
 </div>
 </h3>
-
-{% if site.twitter_widget_id %}
-<div class="text-tweets">
-<div class="tweets">
-<a class="twitter-timeline"
-  data-dnt="true"
-  width="600"
-  height="250"
-  href="https://twitter.com/{{ site.owner.twitter }}"
-  data-widget-id="{{ site.twitter_widget_id }}"
-  data-tweet-limit="2"
-  data-chrome="noheader nofooter noborders noscrollbar transparent">
-  Recent Tweets</a>
-</div>
