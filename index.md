@@ -1,11 +1,11 @@
 ---
 layout: default
 permalink: index.html
-title: Personal Homepage of foo boo
+title: Personal Homepage of frzambra
 description: "Blogging on ...."
 ---
 
-## [Personal web page of Francisco Zambrano]
+## [Personal web page of Francisco Zambrano](https://frzambra.github.io)
 
 Here you could read about:
 
