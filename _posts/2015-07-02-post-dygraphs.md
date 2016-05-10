@@ -11,13 +11,9 @@ tag:
   - Dynamic
   - VCI
   - SPI
-show_meta: true
-comments: true
 mathjax: true
 gistembed: true
 published: true
-noindex: false
-nofollow: false
 ---
 
 In this first post I'm going to show dynamic time-series using the htmlwidget **dygraph** in R.
