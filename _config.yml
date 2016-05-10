@@ -10,7 +10,7 @@ title:               Francisco Zambrano Bigiarini
 #tagline:             'foo's website
 description:         Francisco Zambrano's blog...
 url: https://frzambra.github.io/
-baseurl: "/"
+baseurl: ""
 urlimg: https://frzambra.github.io/images/
 markdown: kramdown
 paginate: 5
