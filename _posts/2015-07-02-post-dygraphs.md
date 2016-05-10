@@ -2,7 +2,6 @@
 layout: post
 title: "Dynamic time-series of drought indices"
 date: 2015-07-02
-slug: "prueba""
 description: "In this first post I'm going to show dynamic time-series using the htmlwidget **dygraph** in R."
 tag:
   - Time-series
