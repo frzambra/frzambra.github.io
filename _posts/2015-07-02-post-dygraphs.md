@@ -30,7 +30,7 @@ It is possible to observe that the lowest values in all time-scales (1 to 12) ar
 
 The second dynamic plot below shows the values of Vegetation Condition Index (VCI). This index is a measure of the vegetation status compared to its historic behavior.  In this case, the historic data consider the period from the year 2000 to the year 2012. Also, in the same plot the curves of Normalized Difference Vegetation Index (NDVI) are presented. The NDVI index it is a measure of vegetation development.  The $NDVI_{max}$ correspond to the historical maximum values of NDVI which are associated with good weather conditions. In contrast, the  $NDVI_{min}$ correspond to the historical minimum NDVI values, associated with bad weather conditions as low rainfall and high temperature.
 
-The equation used for the calculation of VCI is the next:
+The equation used for the calculation of VCI is:
 
 $$
 VCI = \frac{NDVI-NDVI_{min}}{NDVI_{max}-NDVI_{min}}
