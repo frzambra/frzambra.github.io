@@ -5,7 +5,7 @@ title: Personal Homepage of frzambra
 description: "Blogging on ...."
 ---
 
-## [Personal web page of Francisco Zambrano](https://frzambra.github.io)
+## [Personal web page](https://frzambra.github.io)
 
 Here you could read about:
 
