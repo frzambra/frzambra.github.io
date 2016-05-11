@@ -20,9 +20,9 @@ tags:
 
 | <i class="fa fa-twitter"></i> | [@{{ site.owner.twitter }}](https://twitter.com/{{ site.owner.twitter }})  | 
 | - | :- |
-| <i class="fa fa-envelope"></i> | Francisco Zambrano<br>3310 Holdrege ST.<br>Lincoln, NE| 
+| <i class="fa fa-envelope"></i> | Francisco Zambrano<br>3310 Holdrege St.<br>Lincoln, NE| 
 | - | :- |
-| <i class="fa fa-car"></i>  | [Driving directions]({{ site.url }}/directions) | 
+| <i class="fa fa-car"></i>  | [Driving directions](https://www.google.com/maps/dir/40.828842,-96.6721234/Hardin+Hall,+Lincoln,+NE+68503/@40.8288434,-96.6743623,17z/data=!3m1!4b1!4m10!4m9!1m1!4e1!1m5!1m1!1s0x8796bea2ff803015:0x649a87437864306a!2m2!1d-96.6717378!2d40.8288281!3e0) | 
 | - | :- |
 | <i class="fa fa-paper-plane">  | frzambra@gmail.com | 
 | - | :- |
