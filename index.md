@@ -13,7 +13,7 @@ Here you could read about:
 * personal interest
 * climate, vegetation, drought
 
-My last two tweet...
+My last two tweets...
 
 {% if site.twitter_widget_id %}
 <div class="text-tweets">
