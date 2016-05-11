@@ -21,13 +21,13 @@ In this post, a classification map of landcover type is showed, the product clas
 
 A grouping of classes according to the type of vegetation was done. Finally, the map shows 10 classes: water, forest, scrubland, savannas, grasslands, wetlands, crops, urban, snow/ice and little vegetation.
 
-The map considers a geographical extension from 30 $\textdegree$ and 40 $\textdegree$ of South Latitude for the Chilean territory. This extension ranges from the Coquimbo Region to the Region of  Los Rios.
+The map considers a geographical extension from 30° and 40° of South Latitude for the Chilean territory. This extension ranges from the Coquimbo Region to the Region of  Los Rios.
 
 This scheme presents a good agreement with what is on land. It can be seen that identifies urban areas, which is mainly reflected in the cities of Santiago, Rancagua, Talca. Chillán; among the main ones.
  
 In addition, from Santiago to the north a larger area covered by the  class (shrubland) which is characteristic of this area with less vegetation. In the case of the valleys (near to rivers areas) can be seen croplands areas is observed. The central area is dominated by the classes crops, grassland, and forest. From the Bio-Bio region to the South, the classification presented is mainly forest, with less proportion of croplands and other classes.
 
-# LANDCOVER CHILE 2013 30°S-40°S                                    
+# Landcover of Chile year 2013 30°S-40°S                                    
 
 {::nomarkdown}
 <iframe src="/../htmlwidgets/landcover_2013.html" width=600 height=600 frameborder="0" allowtransparency="true" scrolling=no> </iframe>
