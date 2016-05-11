@@ -9,9 +9,9 @@ description: "Blogging on ...."
 
 Here you could read about:
 
-* some examples and visualizations on the use of [R](https://www.r-project.com)
-* personal interest
-* climate, vegetation, drought
+* some examples and visualizations on the use of [R](https://www.r-project.com),
+* personal interest,
+* climate, vegetation, drought.
 
 My last two tweets...
 
