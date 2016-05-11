@@ -15,14 +15,16 @@ gistembed: true
 published: true
 ---
 
-This application allows you to display maps by each region of Chile and compare between two dates the average at the community level of two drought indicators
+This application allows you to display maps by each region of Chile and compare between two dates the average at the community level of two drought indicators: (1) The Vegetation Condition Index (VCI) and (2) Standardized Vegetation Anomaly NDVI ( Anom. STD NDVI).
+
 <!--more-->
-: (1) The Vegetation Condition Index (VCI) and (2) Standardized Vegetation Anomaly NDVI ( Anom. STD NDVI). These indicators provide information on the response of vegetation to weather conditions. Years with good weather, with high precipitation and low temperature, are favorable for the crop development (high values of the index). In contrast, years with low rainfall and high temperatures (eg. Nina),  negatively affecting  the vegetation development (low values of the index), which produce a lack on crop yields and affecting agriculture and food security.
+
+These indicators provide information on the response of vegetation to weather conditions. Years with good weather, with high precipitation and low temperature, are favorable for the crop development (high values of the index). In contrast, years with low rainfall and high temperatures (eg. Nina),  negatively affecting  the vegetation development (low values of the index), which produce a lack on crop yields and affecting agriculture and food security.
 
 This application was made using mainly the packages Shiny and *raster, ggplot2, MapTools, sp * and was made possible thanks to the collaboration of [Joshua Kunst] [jkunst] an outstanding [R user in Chile] [userRChile].
 
 {::nomarkdown}
-<iframe src="https://frzambra.shinyapps.io/Monitor_Sequia" width=700 height=900 frameborder="0" allowtransparency="true" scrolling=yes> </iframe>
+<iframe src="https://frzambra.shinyapps.io/Monitor_Sequia" width=700 height=1300 frameborder="0" allowtransparency="true" scrolling=yes> </iframe>
 {:/nomarkdown}
 
 [jkunst]:http://jkunst.com/
