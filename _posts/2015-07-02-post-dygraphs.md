@@ -11,6 +11,7 @@ tag:
   - VCI
   - SPI
 mathjax: true
+comments: true
 gistembed: true
 published: true
 ---
@@ -36,7 +37,7 @@ $$
 VCI = \frac{NDVI-NDVI_{min}}{NDVI_{max}-NDVI_{min}}
 $$
 
-### Puntual values of VCI in a location on the Bío-Bío region of Chile
+# Puntual values of VCI in a location on the Bío-Bío region of Chile
 
 {::nomarkdown}
 <iframe src="/../htmlwidgets/dygraphs_vci.html" width=600 height=300 frameborder="0" allowtransparency="true" scrolling=no> </iframe>
