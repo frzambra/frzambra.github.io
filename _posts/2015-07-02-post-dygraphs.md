@@ -5,7 +5,7 @@ date: 2015-07-02
 description: "In this first post I'm going to show dynamic time-series using the htmlwidget **dygraph** in R."
 tag:
   - Time-series
-  - html widget
+  - htmlwidget
   - dygraphs
   - Dynamic
   - VCI
@@ -19,7 +19,7 @@ published: true
 In this first post I'm going to show dynamic time-series using the htmlwidget **dygraph** in R.
 <!--more-->
 
-The first dynamic plot show values for the standardized drought index (SPI), calculated from monthly precipitation data (mm) from the University of Concepcion weather station, located in the city of Chillan, Chile. These values represent monthly rainfall deficit for one-month (SPI-1), three-month (SPI-3), six-month (SPI-6) and twelve-month (SPI-12). Below the dynamic plot there is a box panel which allows adjusting the time range to zoom in and zoom out according to your interest.
+The first dynamic plot shows the values for the standardized precipitation index (SPI), calculated from monthly precipitation data (mm) for the weather station localted on the University of Concepcion in Chillan, Chile. These values represent monthly rainfall deficit for one-month (SPI-1), three-month (SPI-3), six-month (SPI-6) and twelve-month (SPI-12). Below the dynamic plot there is a box panel which allows adjusting the time range to zoom in and zoom out according to your interest.
 
 It is possible to observe that the lowest values in all time-scales (1 to 12) are from the year 1998 to 1999, period in which a [severe drought][sequia_wiki] event occurred over Chile.
 
