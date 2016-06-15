@@ -39,19 +39,19 @@ Hi, I'm from Chile an a very long and beautiful country in South America. If you
 
 My native language is Spanish, I believe is better to say chilean (if you've been in Chile you understand me). My English is not so good, sorry for my many mistakes, but I'm writing this blog in English for that, to improve my writing English.
 
-I was born in the South-Central part of Chile in a city named Chillan, which is in the Bi?o-Bi?o, Region. I lived during most part of my life there. 
+I was born in the South-Central part of Chile in a city named Chillan, which is in the Bi­o-Bi­o, Region. I lived during most part of my life there. 
 
 {Fotos de Chillan}
 
-The year 2009 I was working in Santiago for a project carried out by the University of Concepción. There, I worked with water users organizations from the water basins of the metropolitan Region. I lived there for five months. Next, I moved to Combarbala a northern, desert, beautiful, and lonely city of Chile, again, for professional reasons. To continue my work with the University of Concepcion, but this time with water users organizations in the North of Chile.
+The year 2009 I was working in Santiago for a project carried out by the University of ConcepciÃ³n. There, I worked with water users organizations from the water basins of the metropolitan Region. I lived there for five months. Next, I moved to Combarbala a northern, desert, beautiful, and lonely city of Chile, again, for professional reasons. To continue my work with the University of Concepcion, but this time with water users organizations in the North of Chile.
 
 {Fotos de Combarbala}
 
-On January 2010 I moved to central Chile, to the city of Quillota to get a job with the National Institute of Agricultural Development (INDAP), and I was working there for six months. Living there, on May 2016 my beloved son Matteo was born.
+On January 2010 I moved to central Chile, to the city of Quillota to get a job with the National Institute of Agricultural Development (INDAP), and I was working there for six months. Living there, on May 2016 my beloved son Matteo was born.  
 
 {Foto de Matteo}
 
-On July 2010, I moved again, getting back to Chillan to return to work with the University of Concepcion, this time to work with the water users organization of Ri?o Nuble.
+On July 2010, I moved again, getting back to Chillan to return to work with the University of Concepcion, this time to work with the water users organization of Ri­o Nuble.
 
 On December 2010, guess what? yes, I moved once again, to the North of Chile, the city of La Serena was the choice this time. This is a very beautiful city, with beaches and mountains, realy pretty. 
 
