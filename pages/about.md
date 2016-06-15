@@ -53,5 +53,5 @@ In La Serena, Matteo learned how to walk and had his first birthday. I lived the
 
 From January to March 2012, I was unemployed, until that on April 2012, started to work with the National Agricultural Research Institute (INIA) in the city of Chillan. On the year 2013, I start my Ph.D. studies on water resources and researching about agricultural drought in Chile.
 
-On 2013, I met Daniela and Emilia her  lovely little daughter. We fall in Love and married on 2015. Now she is pregnant from the unborn Luca, and going to have birth on august.
+On 2013, I met Daniela and Emilia her  lovely little daughter. We fall in Love and married on 2015. Now she is pregnant from the unborn Luca, and going to have birth on August.
 
