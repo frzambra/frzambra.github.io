@@ -43,7 +43,7 @@ I was born in the South-Central part of Chile in a city named Chillan, which is 
 
 {Fotos de Chillan}
 
-The year 2009 I was working in Santiago for a project carried out by the University of Concepción. There, I worked with water users organizations from the water basins of the metropolitan Region. I lived there for five months. Next, I moved to Combarbala a northern, desert, beautiful, and lonely city of Chile, again, for professional reasons. To continue my work with the University of Concepcion, but this time with water users organizations in the North of Chile.
+The year 2009 I was working in Santiago for a project carried out by the University of Concepcion. There, I worked with water users organizations from the water basins of the metropolitan Region. I lived there for five months. Next, I moved to Combarbala a northern, desert, beautiful, and lonely city of Chile, again, for professional reasons. To continue my work with the University of Concepcion, but this time with water users organizations in the North of Chile.
 
 {Fotos de Combarbala}
 
