@@ -27,7 +27,7 @@ videofeature: "https://www.youtube.com/embed/iG9CE55wbtY"
 <span class="social-icons" style="padding-top: 10px; padding-bottom: 1px;">
 <a href="{{ site.url }}/cv" title="Curriculum Vitae" class="social-icons"><i class="iconm iconm-profile" style="vertical-align: top;"></i></a>
 <!---
-<a href="{{ site.url }}/about/publications/" class="social-icons" title="Publications"><i class="iconm iconm-file-pdf"></i></a>
+ <a href="{{ site.url }}/about/publications/" class="social-icons" title="Publications"><i class="iconm iconm-file-pdf"></i></a>
 -->
 <a href="{{ site.owner.linkedin }}" class="social-icons" title="LinkedIn profile"><i class="iconm iconm-linkedin2"></i></a>
 </span>
@@ -43,7 +43,7 @@ I was born in the South-Central part of Chile in a city named Chillan, which is 
 
 {Fotos de Chillan}
 
-The year 2009 I was working in Santiago for a project carried out by the University of Concepción. There, I worked with water users organizations from the water basins of the metropolitan Region. I lived there for five months. Next, I moved to Combarbala a northern, desert, beautiful, and lonely city of Chile, again, for professional reasons. To continue my work with the University of ConcepciÃ³n, but this time with water users organizations in the North of Chile.
+The year 2009 I was working in Santiago for a project carried out by the University of Concepción. There, I worked with water users organizations from the water basins of the metropolitan Region. I lived there for five months. Next, I moved to Combarbala a northern, desert, beautiful, and lonely city of Chile, again, for professional reasons. To continue my work with the University of Concepcion, but this time with water users organizations in the North of Chile.
 
 {Fotos de Combarbala}
 
@@ -51,7 +51,7 @@ On January 2010 I moved to central Chile, to the city of Quillota to get a job w
 
 {Foto de Matteo}
 
-On July 2010, I moved again, getting back to ChillÃ¡n to return to work with the University of Concepcion, this time to work with the water users organization of RÃ?o Nuble.
+On July 2010, I moved again, getting back to Chillan to return to work with the University of Concepcion, this time to work with the water users organization of Ri?o Nuble.
 
 On December 2010, guess what? yes, I moved once again, to the North of Chile, the city of La Serena was the choice this time. This is a very beautiful city, with beaches and mountains, realy pretty. 
 
