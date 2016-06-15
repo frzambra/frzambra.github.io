@@ -39,7 +39,26 @@ Hi, I'm from Chile an a very long and beautiful country in South America. If you
 
 My native language is Spanish, I believe is better to say chilean (if you've been in Chile you understand me). My English is not so good, sorry for my many mistakes, but I'm writing this blog in English for that, to improve my writing English.
 
-I was born in the South-Central part of Chile in a city named Chillan, which is in the Bio-Bio­o, Region. I lived during most part of my life there. 
+I was born in the South-Central part of Chile in a city named Chillan, which is in the Bio-Bio, Region. I lived during most part of my life there. 
  
+{Fotos de Chillan}
+
+The year 2009 I was working in Santiago for a project carried out by the University of Concepcion. There, I worked with water users organizations from the water basins of the metropolitan Region. I lived there for five months. Next, I moved to Combarbala a northern, desert, beautiful, and lonely city of Chile, again, for professional reasons. To continue my work with the University of Concepcion, but this time with water users organizations in the North of Chile.
+
+{Fotos de Combarbala}
+
+On January 2010 I moved to central Chile, to the city of Quillota to get a job with the National Institute of Agricultural Development (INDAP), and I was working there for six months. Living there, on May 2016 my beloved son Matteo was born.  
+
+{Foto de Matteo}
+
+On July 2010, I moved again, getting back to Chillan to return to work with the University of Concepcion, this time, to work with the water users organization of Ri­o Nuble.
+
+On December 2010, guess what? yes, I moved once again, to the North of Chile, the city of La Serena was the choice this time. This is a very beautiful city, with beaches and mountains, really pretty. 
+
+{Fotos de la Serena}
+
+In La Serena, Matteo learned how to walk and has his first birthday. I lived for ten months there, at the end of December 2011, I left my work in La Serena and returned to Chillan, once again.
+
+From January to March 2012, I was unemployed, until that on April 2012, started to work with the National Agricultural Research Institute (INIA). On the year 2013, I start my Ph.D. studies on water resources researching about agricultural drought in Chile.
 
 *[volutpat]: Tooltip for abbreviation.
