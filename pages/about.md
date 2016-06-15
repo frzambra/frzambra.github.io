@@ -19,7 +19,7 @@ sitemap:
 tags:
   - "foo boo"
   - "city tx"
-videofeature: "https://www.youtube.com/embed/iG9CE55wbtY"
+videofeature: "https://www.youtube.com/embed/KCL6PNaw72g"
 ---
 
 <div class="post-author text-center">                       
@@ -37,4 +37,8 @@ Hi, I'm from Chile an a very long and beautiful country in South America. If you
 
 {% include youtube.html %}
 
+My native language is Spanish, I believe is better to say chilean (if you've been in Chile you understand me). My English is not so good, sorry for my many mistakes, but I'm writing this blog in English for that, to improve my writing English.
+
+I was born in the South-Central part of Chile in a city named Chillan, which is in the Bi­o-Bi­o, Region. I lived during most part of my life there. 
+ 
 *[volutpat]: Tooltip for abbreviation.
