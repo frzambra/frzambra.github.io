@@ -19,6 +19,7 @@ sitemap:
 tags:
   - "foo boo"
   - "city tx"
+videofeature: "https://www.youtube.com/embed/iG9CE55wbtY"
 ---
 
 <div class="post-author text-center">                       
@@ -32,12 +33,32 @@ tags:
 </span>
 </div>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. In ornare lectus a purus rutrum, a hendrerit quam condimentum. Donec vel ante maximus, vulputate libero ac, rhoncus justo. Phasellus purus nisl, auctor id tristique eu, maximus quis leo. Mauris ultricies ante quis vehicula accumsan. Nulla facilisi. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut mi elit, feugiat non scelerisque eget, ultrices nec est. Morbi a est iaculis, commodo quam congue, posuere quam. Phasellus venenatis finibus eros, vitae malesuada nisl gravida vitae.
+Hi, I'm from Chile an a very long and beautiful country in South America. If you want to known a little bit about the gorgeous landscapes of Chile, please look at the next video.
 
-Praesent ac sem quis diam fermentum fermentum. Nullam turpis metus, elementum sit amet venenatis sed, placerat eget erat. Ut convallis ipsum vitae volutpat tristique. Cras a tempor lorem, quis aliquet dui. Nunc vel leo erat. Donec posuere massa sed justo luctus, accumsan porttitor ligula laoreet. Suspendisse sit amet nisi ultrices, venenatis lorem vel, posuere turpis. Fusce eget dictum nisi. Proin eu diam nisi. Quisque ut quam quis sem tincidunt efficitur vitae nec ex. Pellentesque ut dolor eros. Ut faucibus semper ultricies. Vestibulum nec nisl in magna porttitor dictum.
+{% include youtube.html %}
 
-Donec egestas eros arcu, id fermentum orci faucibus ac. Pellentesque facilisis elit eu tellus ultrices pulvinar. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. In ut eros et mi dapibus condimentum. Sed ante metus, porttitor ut aliquet vitae, ullamcorper quis ex. Donec ac efficitur arcu, a malesuada dolor. Nulla magna arcu, semper quis augue sed, rhoncus porta urna. Duis dictum dapibus diam, ac sodales ipsum lobortis vel. Nulla ac dictum metus. Morbi sollicitudin tortor eu diam tristique, ut tincidunt tortor euismod. Integer non tincidunt metus. In tempus sem dapibus, venenatis mi placerat, condimentum orci. Nunc et tellus diam.
+My native language is Spanish, I believe is better to say chilean (if you've been in Chile you understand me). My English is not so good, sorry for my many mistakes, but I'm writing this blog in English for that, to improve my writing English.
 
-Nam imperdiet consequat lorem. Donec sagittis tortor eu dolor efficitur ullamcorper. Pellentesque dolor arcu, vestibulum quis laoreet at, tincidunt nec mauris. Praesent id laoreet arcu. Quisque blandit nunc at elit auctor, eget tempor nunc sodales. Cras venenatis lacinia tempus. Proin erat nisl, pharetra a massa volutpat, rhoncus pellentesque nisi. Mauris in elit dictum, egestas tellus et, laoreet velit. Nam auctor tempus augue sit amet fermentum. Nulla accumsan arcu quis efficitur aliquam. Nulla dapibus in neque eget facilisis. Nullam nisi augue, maximus at lectus sit amet, ornare malesuada ante. Morbi volutpat justo a urna pharetra elementum. Proin tempor ac felis ac consequat. Proin feugiat, nulla ac sagittis consequat, ante diam auctor tortor, in suscipit leo ante id dolor. Vivamus posuere pellentesque magna, sagittis blandit neque convallis sed.
+I was born in the South-Central part of Chile in a city named Chillan, which is in the Bi?o-Bi?o, Region. I lived during most part of my life there. 
+
+{Fotos de Chillan}
+
+The year 2009 I was working in Santiago for a project carried out by the University of ConcepciÛn. There, I worked with water users organizations from the water basins of the metropolitan Region. I lived there for five months. Next, I moved to Combarbala a northern, desert, beautiful, and lonely city of Chile, again, for professional reasons. To continue my work with the University of Concepci√≥n, but this time with water users organizations in the North of Chile.
+
+{Fotos de Combarbala}
+
+On January 2010 I moved to central Chile, to the city of Quillota to get a job with the National Institute of Agricultural Development (INDAP), and I was working there for six months. Living there, on May 2016 my beloved son Matteo was born.
+
+{Foto de Matteo}
+
+On July 2010, I moved again, getting back to Chill√°n to return to work with the University of Concepcion, this time to work with the water users organization of R√?o Nuble.
+
+On December 2010, guess what? yes, I moved once again, to the North of Chile, the city of La Serena was the choice this time. This is a very beautiful city, with beaches and mountains, realy pretty. 
+
+{Fotos de la Serena}
+
+In La Serena, Matteo learned how to walk and has his firt birthday. I lived for ten months there, at the end of December 2011, I left my work in La Serena and returned to Chillan, once again.
+
+From January to March 2012, I was unemployed, until that on April 2012, started to work with the National Agricultural Research Institute (INIA). On year 2013, I start my Ph.D. studies on water resources researching about agricultural drougth in Chile.
 
 *[volutpat]: Tooltip for abbreviation.
