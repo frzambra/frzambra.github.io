@@ -40,7 +40,7 @@ Hi, I'm from Chile an a very long and beautiful country in South America. If you
 My native language is Spanish, I believe is better to say chilean (if you've been in Chile you understand me). My English is not so good, sorry for my many mistakes, but I'm writing this blog in English for that, to improve my writing English.
 
 I was born in the South-Central part of Chile in a city named Chillan, which is in the Bi­o-Bi­o, Region. I lived during most part of my life there. 
-
+ 
 {Fotos de Chillan}
 
 The year 2009 I was working in Santiago for a project carried out by the University of Concepcion. There, I worked with water users organizations from the water basins of the metropolitan Region. I lived there for five months. Next, I moved to Combarbala a northern, desert, beautiful, and lonely city of Chile, again, for professional reasons. To continue my work with the University of Concepcion, but this time with water users organizations in the North of Chile.
