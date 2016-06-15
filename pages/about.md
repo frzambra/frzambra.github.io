@@ -41,7 +41,7 @@ My native language is Spanish, I believe is better to say chilean (if you've bee
 
 I was born in the South-Central part of Chile in a city named Chillan, which is in the Bio-Bio, Region. I lived during most part of my young life there. 
  
-The year 2009 I was working in Santiago for a project carried out by the University of Concepcion. There, I worked with water users organizations from the water basins of the metropolitan Region. I lived there for five months. Next, I moved to Combarbala a northern, desert, beautiful, and lonely city of Chile, again, for professional reasons. To continue my work with the University of Concepcion, but this time with water users organizations in the North of Chile.
+During the year 2009 I worked with the University of Concepcion. Firt, in Santiago for a project working with water users organizations from the water basins of the metropolitan Region. I lived there for five months. Next, I moved to Combarbala a northern, desert, beautiful, and lonely city of Chile. To work with water users organizations in the North of Chile.
 
 On January 2010, I moved to central Chile, to the city of Quillota to get a job with the National Institute of Agricultural Development (INDAP), and I worked there for six months. Living there, on May 2016 my beloved son Matteo was born.  
 
@@ -55,4 +55,3 @@ From January to March 2012, I was unemployed, until that on April 2012, started 
 
 On 2013, I met Daniela and Emilia her  lovely little daughter. We fall in Love and married on 2015. Now she is pregnant from the unborn Luca, and going to have birth on august.
 
-*[volutpat]: Tooltip for abbreviation.
