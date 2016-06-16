@@ -43,7 +43,7 @@ I was born in the South-Central part of Chile in a city named Chillan, which is 
  
 During the year 2009 I worked with the University of Concepcion. Firt, in Santiago for a project working with water users organizations from the water basins of the metropolitan Region. I lived there for five months. Next, I moved to Combarbala a northern, desert, beautiful, and lonely city of Chile. To work with water users organizations in the North of Chile.
 
-On January 2010, I moved to central Chile, to the city of Quillota to get a job with the National Institute of Agricultural Development (INDAP), and I worked there for six months. Living there, on May 2016 my beloved son Matteo was born.  
+On January 2010, I moved to central Chile, to the city of Quillota to get a job with the National Institute of Agricultural Development (INDAP), and I worked there for six months. Living there, on May 2010 my beloved son Matteo was born.  
 
 On July 2010, I moved again, getting back to Chillan to return to work with the University of Concepcion, this time, to work with the water users organization of Rio Nuble.
 
