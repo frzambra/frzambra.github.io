@@ -33,17 +33,12 @@ Searching and researching I found one of the first drought index based on remote
 
 Well, during 2013 I need to improve my knowledge about *R*, always I've been a self learner, but I know a very good course alway worth it. Then I get with [coursera](www.coursera.org), and I found the *Computing for Data Analysis* course made by the Johns Hopkins University, which was mainly an introduction to *R*, but a very good material, I was very surprised at the quality of the course. During 2013 I improve my R skills, I was working in the derivation of VCI index and simultaneously I started to work my first research article about VCI in Bio-Bio region. Also, I automatize all the process to get the VTCI index and worked in a report to present the VCI index to the Agriculture Ministry of Chile to be included in the Agroclimatic Risk Report.
 
-The first version of the article was presented to the [Remote Sensing of Environment](http://www.journals.elsevier.com/remote-sensing-of-environment) journal, which corresponds at one of the top remote sensing journals which impact factor now is 5.9, in February 2014. And on April 2014 was not recommended for publication, what was fine for me. However, the comments that the reviewer made was of great help to future improvements of the article.
+The first version of the manuscript was worked only with my advisor Dr. Mario Lillo, who always has trusted in my work and has the view to look beyond. His support has been a key, even in most part of the path the only support. This version of the article was presented to the [Remote Sensing of Environment](http://www.journals.elsevier.com/remote-sensing-of-environment) journal in February 2014, which corresponds at one of the top remote sensing journals which impact factor now is 5.9. And on April 2014 was not recommended for publication, that was fine for me, because I knew it was very dificult to be considered for publication, but totally worth the shot. The comments that the reviewer made were of great help to future improvements of the article.
 
 During 2014 I presented topics related to the article in several conferences in Chile and one on Mexico. 
 
 Another key point in the development of the article was that at the end of 2014 I invited to Dr. Koen Verbist from the International Hydrological Program (IHP) from UNESCO, who was working in Chile advising to the Agriculture Ministry of Chile about drought risk. His international experience about drought and the many suggestions and corrections that he made to the article were key to improve the manuscript.
 
-On march 2015, INIA fired me from my position working in Agriculture Risk (that is material for another post). But, this helps me to focus on my Ph.D. and made the final improves to the manuscript. Finally, it was submitted to Remote Sensing journal (MDPI) on March the 7th. It was hardly reviewed for reviewers and two editors, mainly because the English were not so good. 
+On march 2015, INIA fired me from my position working in Agriculture Risk (that is material for another post). But, this helps me to focus on my Ph.D. and made the final improves to the manuscript. Finally, it was submitted to Remote Sensing journal (MDPI) on March 7th. It was hardly reviewed for four reviewers and two editors. 
 
-Beyond all, this article helps me to improve my skills about *R*, to working with large datasets of remote sensing, and I learned to much about drought and agricultural drought in particular. This is the floor of my research, now I have the skills to work from here, working at bigger scale, and with a huge amount of data. That will be showed in my second article.
-
-
-
-
-
+Beyond all, this article helps me to improve my skills about *R*, to work with large datasets of remote sensing, and I learned to much about drought and agricultural drought in particular. This is the floor of my research, now I have the skills to work from here, working at bigger scale, and with a huge amount of data. That will be showed in my second article.
