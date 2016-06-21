@@ -42,11 +42,11 @@ Another key point in the development of the article was that at the end of 2014 
 Working with INIA I developed a template document, to show the VCI drought condition for each administrative over each one of the 15 Regions This template summarised the key information for the government to facilitate the decision taking when a particular region is facing drought condition. Also, I presented this template to the National Commission of Agricultural Emergency on January 22th.
 
 {::nomarkdown}
-<iframe src="http://agroclimatico.minagri.gob.cl/wp-content/uploads/sites/26/2015/01/monitoreo_sequia.pdf" width="100%" style="height: 50vh;"></iframe>
+<iframe src="http://agroclimatico.minagri.gob.cl/wp-content/uploads/sites/26/2015/01/monitoreo_sequia.pdf" width="100%" style="height: 50vh;" frameborder="0" allowtransparency="true"></iframe>
 {:/nomarkdown}
 
 From this moment, the ministry of agriculture of Chile started to include the VCI report in the agroclimat risk report made for them through INIA. E.G. [Reports for Bio-Bio Region, Chile](http://agroclimatico.minagri.gob.cl/informacion-nacional/region-del-biobio/)
 
 On march 2015, INIA fired me from my position working in Agriculture Risk (that is material for another post). But, this helps me to focus on my Ph.D. and made the final improves to the manuscript. Finally, it was submitted to Remote Sensing journal (MDPI) on March 7th. It was hardly reviewed for four reviewers and two editors. And on June 12th was accepted for publication.
 
-Beyond all, this article helps me to improve my skills about **R**, to work with large datasets of remote sensing, and I learned to much about drought and **agricultural drought** in particular. This is the floor of my research, now I have the skills to work from here, working at bigger scale, and with a huge amount of data. That will be showed in my second article.
+Beyond all, this article helps me to improve my skills about **R**, to work with large datasets of remote sensing, and I learned to much about drought and **agricultural drought** in particular. This is the floor of my research, now I have the skills to work from here, working at bigger scale, and with a huge amount of data. That will be shown in my second article.
