@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "My first research article, the story"
-date: 2016-06-31
+date: 2016-06-21
 description: "The story about what have meant to me my first research article, and what I've learnt in the process. "
 tag:
   - NDVI
