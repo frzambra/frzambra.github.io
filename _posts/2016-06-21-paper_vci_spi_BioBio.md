@@ -42,7 +42,7 @@ Another key point in the development of the article was that at the end of 2014 
 Working with INIA I developed a template document, to show the VCI drought condition for each administrative over each one of the 15 Regions This template summarised the key information for the government to facilitate the decision taking when a particular region is facing drought condition. Also, I presented this template to the National Commission of Agricultural Emergency on January 22th.
 
 {::nomarkdown}
-<iframe src="http://agroclimatico.minagri.gob.cl/wp-content/uploads/sites/26/2015/01/monitoreo_sequia.pdf" width="100%" style="height: 50vh;" frameborder="0" allowtransparency="true"></iframe>
+<iframe src="https://agroclimatico.minagri.gob.cl/wp-content/uploads/sites/26/2015/01/monitoreo_sequia.pdf" width="100%" style="height: 50vh;" frameborder="0" allowtransparency="true"></iframe>
 {:/nomarkdown}
 
 From this moment, the ministry of agriculture of Chile started to include the VCI report in the agroclimat risk report made for them through INIA. E.G. [Reports for Bio-Bio Region, Chile](http://agroclimatico.minagri.gob.cl/informacion-nacional/region-del-biobio/)
