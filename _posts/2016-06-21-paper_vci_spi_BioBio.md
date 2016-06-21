@@ -39,6 +39,12 @@ During 2014 I presented topics related to the article in several conferences in 
 
 Another key point in the development of the article was that at the end of 2014 I invited to Dr. Koen Verbist from the International Hydrological Program (IHP) from UNESCO, who was working in Chile advising to the Agriculture Ministry of Chile about drought risk. His international experience about drought and the many suggestions and corrections that he made to the article were key to improve the manuscript.
 
+Working with INIA I developed a template document, to show the VCI drought condition for each administrative over each one of the 15 Regions This template summarised the key information for the government to facilitate the decision taking when a particular region is facing drought condition. Also, I presented this template to the National Commission of Agricultural Emergency on January 22th.
+
+<iframe src="http://agroclimatico.minagri.gob.cl/wp-content/uploads/sites/26/2015/01/monitoreo_sequia.pdf" width="100%" style="height: 100vh;"></iframe>
+
+From this moment, the ministry of agriculture of Chile started to include the VCI report in the agroclimat risk report made for them through INIA. E.G. [Reports for Bio-Bio Region, Chile](http://agroclimatico.minagri.gob.cl/informacion-nacional/region-del-biobio/)
+
 On march 2015, INIA fired me from my position working in Agriculture Risk (that is material for another post). But, this helps me to focus on my Ph.D. and made the final improves to the manuscript. Finally, it was submitted to Remote Sensing journal (MDPI) on March 7th. It was hardly reviewed for four reviewers and two editors. And on June 12th was accepted for publication.
 
 Beyond all, this article helps me to improve my skills about **R**, to work with large datasets of remote sensing, and I learned to much about drought and **agricultural drought** in particular. This is the floor of my research, now I have the skills to work from here, working at bigger scale, and with a huge amount of data. That will be showed in my second article.
