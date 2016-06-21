@@ -36,13 +36,13 @@ exclude: ["lib", "config.rb", "Gemfile", "Capfile", "Gemfile.lock", "config", "l
 author:
   name:              Francisco Zambrano
   url:               https://twitter.com/frzambra
-  avatar:         foo.png
+  avatar:         foo.jpg
   #email:           
 
 # Owner/author information
 owner:
   name:           Foo Boo
-  avatar:         foo.png
+  avatar:         foo.jpg
   #email:          
   # Use the coder's toolbox at http://coderstoolbox.net/string/#!encoding=xml&action=encode&charset=us_ascii to encode your description into XML string
   description:
@@ -57,7 +57,7 @@ owner:
   tumblr:  
   google_plus:    https://plus.google.com/+frzambra
   # orcid and google scholar IDs are different than standard username.
-  orcid:   orcid.org/0000-0001-6896-8534 
+  orcid:   0000-0001-6896-8534 
   gscholar: xyz123abc
 
 ## sidebar links:

@@ -30,7 +30,7 @@ style: |
 </span>
 
 {:.text-center}
-[Publications]({{ site.url }}/about/publications/) \| [ORCID profile](https://orcid.org/{{ site.owner.orcid }}) \| [Google Scholar profile](https://scholar.google.com/citations?user={{ site.owner.gscholar }}&hl=en) 
+[Publications](https://www.researchgate.net/profile/Francisco_Zambrano_Bigiarini) \|[ORCID profile](https://orcid.org/{{ site.owner.orcid }}) \| [Google Scholar profile](https://scholar.google.com/citations?user={{ site.owner.gscholar }}&hl=en) 
 
 <!-- Alternaetly, user html5 embed tag -->
 <iframe src="{{ site.url }}/files/cv.pdf" width="100%" style="height: 100vh;"></iframe>
