@@ -45,7 +45,7 @@ Working with INIA I developed a template document, to show the VCI drought condi
 <iframe src="{{ site.url }}/files/monitoreo_sequia.pdf" width="100%" style="height: 50vh;" frameborder="0" allowtransparency="true"></iframe>
 {:/nomarkdown}
 
-From this moment, the ministry of agriculture of Chile started to include the VCI report in the agroclimatic risk report made for them through INIA. E.G. [Reports for Bio-Bio Region, Chile](http://agroclimatico.minagri.gob.cl/informacion-nacional/region-del-biobio/)
+Since then, the ministry of agriculture of Chile started to include the VCI report in the agroclimatic risk report made for them through INIA. E.G. [Reports for Bio-Bio Region, Chile](http://agroclimatico.minagri.gob.cl/informacion-nacional/region-del-biobio/)
 
 On march 2015, INIA fired me from my position working in Agriculture Risk (that is material for another post). But, this helps me to focus on my Ph.D. and made the final improves to the manuscript. Finally, it was submitted to Remote Sensing journal (MDPI) on March 7th. It was hardly reviewed for four reviewers and two editors. And on June 12th was accepted for publication.
 
