@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "My first research article, the history"
+title: "My first research article, the story"
 date: 2016-06-31
 description: "The story about what have meant to me my first research article, and what I've learnt in the process. "
 tag:
