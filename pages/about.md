@@ -42,17 +42,17 @@ I was born in the South-Central part of Chile in a city named Chillan, which is 
  
 During the year 2009 I worked with the University of Concepcion. First, in Santiago for a project working with water users organizations from the water basins of the metropolitan Region. I lived there for five months. Next, I moved to Combarbala a northern, desert, beautiful, and lonely city of Chile. To work with water users organizations in the North of Chile.
 
-On January 2010, I moved to central Chile, to the city of Quillota to get a job with the National Institute of Agricultural Development (INDAP), and I worked there for six months. Living there, on May 2010 my beloved son Matteo was born.  
+On January, 2010, I moved to central Chile, to the city of Quillota to get a job with the National Institute of Agricultural Development (INDAP), and I worked there for six months. Living there, on May, 2010 my beloved son Matteo was born.  
 
-On July 2010, I moved again, getting back to Chillan to return to work with the University of Concepcion, this time, to work with the water users organization of Rio Nuble.
+On July, 2010, I moved again, getting back to Chillan to return to work with the University of Concepcion, this time, to work with the water users organization of Rio Nuble.
 
-On December 2010, guess what? yes, I moved once again, to the North of Chile, the city of La Serena was the choice this time. This is a very beautiful city, with beaches and mountains, really pretty. 
+On December, 2010, guess what? yes, I moved once again, to the North of Chile, the city of La Serena was the choice this time. This is a very beautiful city, with beaches and mountains, really pretty. 
 
 In La Serena, Matteo learned how to walk and had his first birthday. I lived there for ten months, at the end of December 2011, I left my work in La Serena and returned to Chillan, once again.
 
-From January to March 2012, I was unemployed, until that on April 2012, started to work with the National Agricultural Research Institute (INIA) in the city of Chillan. On the year 2013, I start my Ph.D. studies on water resources and researching about agricultural drought in Chile.
+From January to March 2012, I was unemployed, until that on April, 2012, started to work with the National Agricultural Research Institute (INIA) in the city of Chillan. In the year 2013, I start my Ph.D. studies on water resources and researching about agricultural drought in Chile.
 
-On 2013, I met Daniela and Emilia her  lovely little daughter. We fall in Love and married on 2015. Now she is pregnant from my unborn son Luca, and going to have birth on August.
+In 2013, I met Daniela and Emilia her  lovely little daughter. We fall in Love and married on 2015. Now she is pregnant from my unborn son Luca, and going to have birth on August.
 
 {:.text-center img}
 ![Family]({{ site.urlimg }}/about/familia.jpg "Family2")
