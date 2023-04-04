@@ -1,0 +1,33 @@
+[
+  {
+    "listing": "/projects/index.html",
+    "items": [
+      "/projects/project_4/index.html",
+      "/projects/project_3/index.html",
+      "/projects/project_5/index.html",
+      "/projects/project_1/index.html",
+      "/projects/project_2/index.html"
+    ]
+  },
+  {
+    "listing": "/talks/index.html",
+    "items": [
+      "/talks/talk_1/index.html",
+      "/talks/talk_2/index.html"
+    ]
+  },
+  {
+    "listing": "/blog.html",
+    "items": []
+  },
+  {
+    "listing": "/publicaciones/index.html",
+    "items": [
+      "/publicaciones/pub_3/index.html",
+      "/publicaciones/pub_1/index.html",
+      "/publicaciones/pub_2/index.html",
+      "/publicaciones/pub_4/index.html",
+      "/publicaciones/pub_5/index.html"
+    ]
+  }
+]
