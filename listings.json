@@ -2,10 +2,10 @@
   {
     "listing": "/projects/index.html",
     "items": [
-      "/projects/project_4/index.html",
-      "/projects/project_3/index.html",
-      "/projects/project_5/index.html",
       "/projects/project_1/index.html",
+      "/projects/project_4/index.html",
+      "/projects/project_5/index.html",
+      "/projects/project_3/index.html",
       "/projects/project_2/index.html"
     ]
   },
@@ -24,9 +24,9 @@
     "listing": "/publicaciones/index.html",
     "items": [
       "/publicaciones/pub_3/index.html",
+      "/publicaciones/pub_1/index.html",
       "/publicaciones/pub_2/index.html",
       "/publicaciones/pub_4/index.html",
-      "/publicaciones/pub_1/index.html",
       "/publicaciones/pub_5/index.html"
     ]
   }
