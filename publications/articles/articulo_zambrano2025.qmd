@@ -1,0 +1,27 @@
+---
+title: "Prediction of the daily spatial variation of stem water potential in cherry orchards using weather and Sentinel-2 data"
+type: "article"
+author: "Zambrano et al."
+year: "2025"
+publication: "Agricultural Water Managament"
+doi: "https://doi.org/10.31223/X53H6S"
+#materials: "https://osf.io/sfhm2/"
+toc: false
+categories:
+  - verbal
+  - article
+---
+
+## Citation (APA 7)
+
+> Zambrano, F., Herrera, A., Olguín, M., Miranda, M., Garrido, J., & Miyasaka, A. (2024). Prediction of the daily spatial variation of stem water potential in cherry orchards using weather and Sentinel-2 data. Environmental Engineering. https://doi.org/10.31223/X53H6S
+
+
+## Abstract
+
+The  common  practice  for  irrigation  management  is  to apply the water lost by evapotranspiration. However,  we  could manage the irrigation by monitoring  the plant's water status by measuring  the
+stem  water  potential  (Ψ_s),  which  is  currently costly and time
+‐consuming.  The primary goal of this work is to predict the daily spatial variation of Ψ_s using machine learning models. We measured
+Ψ_s in  two  orchards planted with sweet cherry tree variety Regina, and we monitored  30 trees weekly and  biweekly  in  the  central  part  of  Chile,  during  two  seasons,  2022‐2023  and  2023‐2024,  and
+between  October  and  April.  To  predict  the Ψ_s, we used the random forest (RF), extreme gradient boosting (XGBoost),  and support vector machine (SVM) models. We selected vapor pressure deficit (VPD), reference    evapotranspiration    (ET0),   relative   humidity, and   temperature   as   weather predictors.  Also, we used as predictors  spectral vegetation  indices (VIs) and biophysical parameters
+derived from Sentinel‐2.  We compared two schemes, one for estimation and another for prediction. We discovered  that XGboost and RF worked best for both. The estimation had an R^2 of 0.76 and an RMSE of 0.24 MPa. The prediction,  on the other hand, had an R2 of 0.59 and an RMSE of 0.36 MPa. The   analysis   of   importance  variables  reveals  that  weather  predictors,  such  as  VPD,  ET_o,  and temperature,  have  a  higher  weight  in  the  model.  These  are  followed  by  VIs  that  use  short‐wave infrared  regions,  which  highlight  the  moisture  stress index (MSI) and the disease and water stress index (DWSI).

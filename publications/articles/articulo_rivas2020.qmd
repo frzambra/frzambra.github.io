@@ -1,0 +1,20 @@
+---
+title: "Water availability, quality, and use in rural communities of the Chilean Coastal Range"
+author: "Rivas et al."
+year: "2020"
+publication: "Journal of Soil and Water Conservation"
+doi: "https://doi.org/10.2489/jswc.75.1.75"
+materials: "https://www.tandfonline.com/doi/abs/10.2489/jswc.75.1.75"
+toc: false
+categories:
+  - verbal
+  - article
+---
+
+## Citation (APA 7)
+
+> Rivas, Y., Rivera, D., Gallardo, R., Lagos, E., Yevenes, M., Zambrano, F., & Mendoza, J. (2020). Water availability, quality, and use in rural communities of the Chilean Coastal Range. Journal of Soil and Water Conservation, 75(1), 75–90. https://doi.org/10.2489/jswc.75.1.75
+
+## Abstract
+
+Water availability, use, and quality in dispersed rural communities in a rural watershed within the Chilean Coastal Range were investigated through participatory research involving the local community, also called “citizen science.” Research included the quantification of recharge water and water use at the household level; monitoring of water quality of streams, community water intakes, and household faucets; and the determination of land use and water quality interactions. A group of mainly women along with the children of three local rural elementary schools were involved in the principal aspects of the research, from design to implementation and remediation options. The study area receives considerable, but highly variable, rainfall, and the hydrogeological setting does not offer enough interannual natural storage to cope with increasing demand and variable water viability. Our results also showed that chemical quality of the water is relatively good, except for the high concentration of iron (Fe; >0.3 mg L−1), manganese (Mn; >0.1 mg L−1), and turbidity (>5 nephlometric turbidity units [NTU]). From the microbiological point of view, the water is of poor quality. The low water quality could be related to the lack of maintenance of water collection systems, nonmaintenance of septic tanks, animal traffic, and low coverage of associated riparian vegetation. In the present approach the involvement of children in research helped to stimulate the improved management of both land and water resources by the community, and this practice could be applied in small rural watersheds in developed or developing countries.

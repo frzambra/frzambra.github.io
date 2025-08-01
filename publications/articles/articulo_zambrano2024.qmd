@@ -1,0 +1,22 @@
+---
+title: "Assessment of drought in continental Chile for 1981–2023 by climate variables of water supply and demand, soil moisture, and vegetation"
+author: "Zambrano et al."
+year: "2024"
+publication: "IGARSS 2024"
+doi: "https://doi.org/10.1109/IGARSS53475.2024.10641240"
+#materials: "https://osf.io/sfhm2/"
+toc: false
+categories:
+  - verbal
+  - article
+---
+
+## Citation (APA 7)
+
+> Zambrano, F., & Duran-Llacer, I. (2024). Assessment of drought in continental Chile for 1981–2023 by climate variables of water supply and demand, soil moisture, and vegetation. IGARSS 2024 - 2024 IEEE International Geoscience and Remote Sensing Symposium, 2764–2768. https://doi.org/10.1109/IGARSS53475.2024.10641240
+
+
+
+## Abstract
+
+A persistent drought is impacting Chile. It affects the hydrological system and vegetation development. Research studies have focused on the central part of the country. This is due to a persistent period of water scarcity. This scarcity has been found to be a megadrought. This megadrought was defined by the Standardized Precipitation Index (SPI) of twelve months in December. The SPI only considers precipitation as a drought indicator. It does not account for atmospheric evaporative demand (AED), soil moisture, or their combined vegetation productivity. We present a developing database (DDS4Chl) of drought indices for continental Chile since 1981. The indices measure water demand, supply and its impact on vegetation. We derived the SPI for water demand. We also derived the Evaporative Demand Drought Index (EDDI) for water supply. The Standardized Precipitation Evapotranspiration Index (SPEI) shows the combined effect of AED and precipitation. We estimate the standardized anomaly of cumulative soil moisture at one meter (zcSM) and the standardized anomaly of cumulative NDVI (zcNDVI) to show the impact of water demand and supply. We present the historical linear trend of the drought indices in continental Chile. Also we calculated the temporal correlation between the indices of water supply and demand, and soil moisture with the zcNDVI (proxy of vegetation productivity). The dought index for soil moisture acummulated at 12 months (zcSM-12) showed to be the best predictor of vegetation productivity around continental Chile.
