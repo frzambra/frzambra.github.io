@@ -1,0 +1,5 @@
+[1,"==> quarto preview projects.qmd --to html --no-watch-inputs --no-browse\n\n"]
+[1,"\u001B[1mpandoc \u001B[22m\n  to: html\n  output-file: projects.html\n  standalone: true\n  title-prefix: Francisco Zambrano\n  section-divs: true\n  html-math-method: katex\n  wrap: none\n  default-image-extension: png\n  toc: true\n  \n\u001B[1mmetadata\u001B[22m\n  document-css: false\n  link-citations: true\n  date-format: long\n  lang: en\n  theme:\n    - tango\n    - rjh.scss\n  mainfont: Merriweather, Georgia, serif\n  pagetitle: Francisco Zambrano - Projects\n  \n"]
+[1,"Output created: docs/projects.html\n\n\u001B[1m\u001B[34mPreparing to preview\u001B[39m\u001B[22m\n"]
+[1,"\n\u001B[32mWatching files for changes\u001B[39m\n\u001B[32mBrowse at \u001B[39m\u001B[4m\u001B[32mhttp://localhost:5090/projects.html\u001B[39m\u001B[24m\n"]
+[1,"\u001B[32mGET: /projects.html\u001B[39m\n"]

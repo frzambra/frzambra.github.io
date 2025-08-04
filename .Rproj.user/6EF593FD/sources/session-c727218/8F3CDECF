@@ -3,9 +3,9 @@
     "path": "~/Documentos/R-Projects/francisco-zambrano.cl/index.qmd",
     "project_path": "index.qmd",
     "type": "quarto_markdown",
-    "hash": "0",
+    "hash": "1370624999",
     "contents": "",
-    "dirty": true,
+    "dirty": false,
     "created": 1754051386208.0,
     "source_on_save": false,
     "relative_order": 1,
@@ -17,15 +17,15 @@
         "docOutlineVisible": "1",
         "rmdVisualCollapsedChunks": "",
         "rmdVisualModeLocation": "40:0",
-        "cursorPosition": "21,3",
-        "scrollLine": "5"
+        "cursorPosition": "21,22",
+        "scrollLine": "6"
     },
     "folds": "",
-    "lastKnownWriteTime": 1754316773,
+    "lastKnownWriteTime": 1754317232,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1754316775997,
+    "last_content_update": 1754317232031,
     "read_only": false,
     "read_only_alternatives": []
 }

@@ -1,0 +1,23 @@
+---
+title: "Comparison of crop water demand derived from sen-ET for orchards within the Aconcagua’s river basin in Chile"
+author: "Zambrano et al."
+year: "2024"
+publication: "IGARSS 2024"
+doi: "https://doi.org/10.1109/IGARSS53475.2024.10642732"
+materials: "https://ieeexplore.ieee.org/abstract/document/10642732"
+toc: false
+categories:
+  - verbal
+  - article
+---
+
+## Citation (APA 7)
+
+> Zambrano, F., Vidal-Páez, P., & Hernández, B. (2024). Comparison of crop water demand derived from sen-ET for orchards within the Aconcagua’s river basin in Chile. IGARSS 2024 - 2024 IEEE International Geoscience and Remote Sensing Symposium, 3631–3634. https://doi.org/10.1109/IGARSS53475.2024.10642732
+
+
+
+
+## Abstract
+
+Estimating the actual evapotranspiration of a crop (ET) is essential to determining the availability of water that plants need for proper growth. For this, remote sensors have an important role since they allow obtaining the daily ET of the crops. This research presents the estimate of ET, calculated using data from the Sentinel-2 and Sentinel-3 satellites, ERA-5 reanalysis data, land cover, and the Digital Elevation Model. For this, we used the algorithm Sen-ET. The ET was estimated in the five main orchards regarding the surface planted in the Aconcagua’s river basin (avocado, walnut, mandarin, grape vine, and peach). The period of time analyzed was from September 2022 to May 2023. We evaluate the spatio-temporal variation and calculate the total ET for the season per crop. Avocados reach the highest ET with 114.6 mm/season. The rest of the crops had between 95.4% and 83.3% of the demand for avocado. This study is the first approach to using sen-ET to evaluate the water requirements of crops in Chile. We need to advance further to improve the input data used (e.g., landcover) and validate the results.
