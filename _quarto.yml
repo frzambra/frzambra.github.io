@@ -4,6 +4,7 @@ project:
 
 website:
   title: "Francisco Zambrano"
+  favicon: img/fzb_selfie.ico
   site-url: "https://francisco-zambrano.com"
   open-graph: true
   navbar:
