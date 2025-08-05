@@ -16,8 +16,8 @@ website:
         text: Teaching
       - href: projects.qmd
         text: Projects
-      - href: about.qmd
-        text: About
+      # - href: about.qmd
+      #   text: About
     right:
       - icon: linkedin
         href: https://www.linkedin.com/in/frzambra/

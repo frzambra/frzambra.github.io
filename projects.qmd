@@ -1,46 +1,52 @@
 ---
 pagetitle: "Francisco Zambrano - Projects"
+include-after-body: abbrv_toc.html
+number-sections: true
+toc-depth: 1
 ---
 
-# Impact of climate change on avocado phenology and native sclerophyllous forest according to access to potential groundwater in the Aconcagua River basin
+# Impact of climate change on avocado phenology and native sclerophyllous forest according to access to potential groundwater in the Aconcagua River basin {toc-text='Crea Cienca 2030'}
 
 **Fund Name:** CREA Ciencia 2030  
 **Fund Agency:** National Research and Development Agency (ANID)  
-**Year:** 2021  
+**Year:** 2025  
 **Fund total amount:** 5 millions chilean pesos ($CLP)
 
-## Abstract 
+## Abstract {-}
 
 Climate change is having two primary impacts in Chile. First, through the sustained reduction in precipitation, and second, through rising temperatures. Rising temperatures have an impact, first, by increasing vegetation demand for water and second, by shifting vegetation phenological development stages. This has led to a significant reduction in water resources, affecting both ecosystems and agricultural production, especially in the Aconcagua River basin in Chile, where droughts have intensified. This threatens biodiversity and agricultural security, particularly in crops such as avocado, which require up to 18,000 m³/ha annually in certain areas.
 
 To address this problem, a comprehensive system is proposed that combines groundwater zoning with a phenological analysis of avocado orchards and native forests. The goal is to identify the areas most susceptible to water stress and improve water management, increasing the resilience of ecosystems and crops to climate change. Recent research has demonstrated the effectiveness of remote sensing techniques and geographic information systems for mapping groundwater zones; however, gaps persist in our understanding of how vegetation interacts with groundwater, an aspect this project seeks to address. Additionally, various studies have shown that climate change negatively impacts the phenological stages of avocado trees, which points to the importance of efficient water management. The objective of this study is to determine the relationship between potential groundwater zones and the phenology of avocado trees and native sclerophyllous forests in the Aconcagua Basin, using zonation techniques and phenological analysis using remote sensing and artificial intelligence. To this end, a zonation model will be developed using spatial statistics techniques and a predictive artificial intelligence model that will evaluate geomorphometric, hydrological, and spectral variables to categorize productive and unproductive wells and generate a groundwater probability map. The results will enable more effective water management in both agriculture and ecosystem conservation, providing critical information for water use planning in regions affected by scarcity. Furthermore, the results of this work will enable future applications for applied research projects (e.g., FONDEF) aimed at implementing solutions to contribute to water sustainability and the adaptation of agricultural systems and natural ecosystems to climate change.
 
+
 * * *
 
-#  A multi-scale drought observatory for Chile: an early warning system to mitigate agricultural and ecological impacts 
+#  A multi-scale drought observatory for Chile: an early warning system to mitigate agricultural and ecological impacts {toc-text='Drought Observatory - ODES'}
 
 **Fund Name:** Redes, Estrategia y Conocimiento  
 **Fund Agency:** National Research and Development Agency (ANID)  
 **Year:** 2021  
 **Fund total amount:** 300 millions chilean pesos ($CLP)
 
-## Abstract
+## Abstract {-}
 
 Since 2010, central Chile is experiencing a multi-dimensional crisis due to the pervasive impacts of the ongoing mega drought. Political institutions and stakeholders have responded reactively to socio-economic crises associated with the mega drought as they emerge (particularly in the agricultural and health sectors),. While governments should move towards risk-based management (Wilhite et al. 2014), they require robust decision-making tools to facilitate the transition. One such tool are early warning systems (EWS), which aim to reduce vulnerability and to improve response capacity of people at risk. However, the current observatory developed for Chile, the Chilean Agroclimatic Observatory (Verbist et al., 2016), was mainly designed for scientific research and has a poor user experience (UX).
 
 To this end, we propose the development of a multi-scale drought observatory for Chile that will help mitigate agricultural and ecological impacts. Using a macrosystems perspective (Heffernan et al. 2014), this observatory will integrate global climate and land satellite data with in-situ measurements from national weather stations. It will have two main components: i) monitoring climate and land variables and their impacts on agricultural and socio-ecological systems, and ii) a drought early warning system (DEWS). The drought monitoring and DEWS platforms will target three user groups – the general public, decision makers , and the scientific community - and
 will comply with FAIR data principles (Wilkinson et al. 2016), to enhance usability of all products. We will monitor drought-related variables at two spatial scales: the national scale (Fig. 1a) and at ii) the local scale, for which we selected the Aconcagua watershed (Fig 1b). Local-scale measurements will also be used to validate and improve drought monitoring at the national scale. We selected this watershed for two reasons: i)it has been highly impacted by drought, which have triggered several conflicts this year (2021)between agricultural interests and groups concerned with access to drinking water; and ii) this watershed will provide a preview of the future for other watersheds that have yet to experience the evolving, multi-dimensional impacts of similarly extreme droughts.
 
+[Click to go to webpage](https://odes-chile.org)
+
 * * *
 
-#  SatORi: Sistema Satelital para Optimización de riego 
+#  SatOri: Satellite System for Irrigation Optimization {toc-text='Irrigation Optimization - SatOri'}
 
 **Fund Name:** FONDEF IDeA I+D  
 **Fund Agency:** National Research and Development Agency (ANID)  
 **Year:** 2020  
 **Fund total amount:** 200 millions chilean pesos ($CLP)
 
-## Abstract
+## Abstract {-}
 
 Water scarcity due to climate change has severely impacted agriculture in central Chile, making efficient irrigation management a critical need. This project aims to develop SatOri, a low-cost, satellite-based decision-support service to optimize irrigation in kiwi and cherry orchards. The innovation integrates two key components: (1) determination of optimal deficit irrigation strategies (RDC) that reduce water use without compromising yield or fruit quality, and (2) estimation of canopy water status—specifically leaf turgor potential—through machine learning models based on multispectral and radar satellite data (Sentinel-1, Sentinel-2, Landsat 8).
 
@@ -48,16 +54,18 @@ The research involves field trials with varying irrigation treatments and contin
 
 By focusing on plant response rather than indirect climatic indicators, SatOri promises a scalable, farmer-friendly tool for adaptive irrigation under increasing water limitations—contributing to sustainable agriculture and climate resilience in Chile and beyond.
 
+[Click to go to webpage](https://s4tori.cl)
+
 * * *
 
-#  The impact of weather variability on wheat and maize production: an improved early warning model for agricultural drought 
+#  The impact of weather variability on wheat and maize production: an improved early warning model for agricultural drought {toc-text='Wheat/Maize AGB prediction'}
 
 **Fund Name:** FONDECYT de Iniciación en Investigación 2019  
 **Fund Agency:** National Research and Development Agency (ANID)  
 **Year:** 2019  
 **Fund total amount:** 100 millions chilean pesos ($CLP)
 
-## Abstract
+## Abstract {-}
 
 Global food security is negatively affected by drought. Climate projections show that drought frequency and intensity may increase in different parts of the globe. These increases are particularly hazardous for developing countries. Early season forecasts on drought occurrence and severity could help to better mitigate its negative consequences. Chile is facing what some authors have been calling a mega-drought. Recent studies showed a tendency toward a drier condition (1960-2016) in the central-southern part (30-48°) and indicated that the future projections condition could be potentially underestimated for this region. Recent analyses reveal that 52% of the area under wheat in Chile would face a serious decline in rainfall in 2030-2050. Hence, the country is under urgent need of taking action regarding
 adaptation measures. The early warning system is the first step for adaptation -if it is possible to anticipate the impact, then it will be feasible to do something to diminish the losses- for which are of
