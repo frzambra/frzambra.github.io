@@ -79,9 +79,8 @@ ul.task-list li input[type="checkbox"] {
     }
 
     const options = {
-      valueNames: ['listing-project','listing-website','listing-format','listing-language','listing-title','listing-author','listing-year','listing-publication','listing-doi','listing-materials','listing-toc','listing-categories','listing-path','listing-outputHref','listing-description','listing-filename','listing-file-modified','listing-reading-time','listing-word-count','listing-type','listing-book',{ data: ['index'] },{ data: ['categories'] }],
-      page: 10,
-    pagination: { item: "<li class='page-item'><a class='page page-link' href='#'></a></li>" },
+      valueNames: ['listing-project','listing-website','listing-format','listing-language','listing-title','listing-type','listing-author','listing-year','listing-publication','listing-doi','listing-materials','listing-toc','listing-categories','listing-path','listing-outputHref','listing-description','listing-filename','listing-file-modified','listing-reading-time','listing-word-count','listing-book',{ data: ['index'] },{ data: ['categories'] }],
+      
       searchColumns: ["listing-title","listing-author","listing-publication","listing-year"],
     };
 
@@ -167,10 +166,21 @@ window.Quarto = {
 </button>
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll me-auto">
-  <li class="nav-item">
-    <a class="nav-link active" href="./publications.html" aria-current="page"> 
-<span class="menu-text">Publications</span></a>
+  <li class="nav-item dropdown ">
+    <a class="nav-link dropdown-toggle" href="#" id="nav-menu-research" role="link" data-bs-toggle="dropdown" aria-expanded="false">
+ <span class="menu-text">Research</span>
+    </a>
+    <ul class="dropdown-menu" aria-labelledby="nav-menu-research">    
+        <li>
+    <a class="dropdown-item" href="./publications.html">
+ <span class="dropdown-text">Publications</span></a>
   </li>  
+        <li>
+    <a class="dropdown-item" href="./conferences.html">
+ <span class="dropdown-text">Conferences</span></a>
+  </li>  
+    </ul>
+  </li>
   <li class="nav-item">
     <a class="nav-link" href="./teaching.html"> 
 <span class="menu-text">Teaching</span></a>
@@ -203,7 +213,7 @@ window.Quarto = {
 <!-- sidebar -->
 <!-- margin-sidebar -->
     <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
-    <h5 class="quarto-listing-category-title">Categories</h5><div class="quarto-listing-category category-default"><div class="category" data-category="">All <span class="quarto-category-count">(14)</span></div><div class="category" data-category="YXJ0aWNsZQ==">article <span class="quarto-category-count">(14)</span></div><div class="category" data-category="dmVyYmFs">verbal <span class="quarto-category-count">(14)</span></div></div></div>
+    <h5 class="quarto-listing-category-title">Categories</h5><div class="quarto-listing-category category-default"><div class="category" data-category="">All <span class="quarto-category-count">(9)</span></div><div class="category" data-category="YXJ0aWNsZQ==">article <span class="quarto-category-count">(9)</span></div><div class="category" data-category="dmVyYmFs">verbal <span class="quarto-category-count">(9)</span></div></div></div>
 <!-- main -->
 <main class="content" id="quarto-document-content"><header id="title-block-header" class="quarto-title-block"></header>
 
@@ -282,112 +292,7 @@ window.Quarto = {
     
   </li>
 
-  <li data-index="2" data-categories="dmVyYmFsJTJDYXJ0aWNsZQ==" data-listing-file-modified-sort="1754056672132" data-listing-reading-time-sort="1" data-listing-word-count-sort="169">
-    <span class="listing-title lead">Analysis of Drought in Agriculture and Natural Vegetation Areas in Central Chile</span><br>
-    <span class="listing-author">Duran-Llacer et al.</span><br>
-    <span class="listing-publication fst-italic ">IGARSS 2024</span>
-    <span class="listing-year">(2024)</span><br>
-    <a href="./publications/articles/articulo_duran-llacer2024.html" class="btn btn-primary">
-      Details
-    </a>
-    
-    <a href="https://doi.org/10.1109/IGARSS53475.2024.10642727" class="btn btn-secondary" target="_blank" rel="noopener noreferrer">
-      DOI
-    </a>
-    
-    
-    
-    <a href="https://ieeexplore.ieee.org/abstract/document/10642727" class="btn btn-light" target="_blank" rel="noopener noreferrer">
-      <i class="bi bi-file-earmark-zip"></i> Materials
-    </a>
-    
-  </li>
-
-  <li data-index="3" data-categories="dmVyYmFsJTJDYXJ0aWNsZQ==" data-listing-file-modified-sort="1754317619880" data-listing-reading-time-sort="2" data-listing-word-count-sort="272">
-    <span class="listing-title lead">Assessment of drought in continental Chile for 1981–2023 by climate variables of water supply and demand, soil moisture, and vegetation</span><br>
-    <span class="listing-author">Zambrano et al.</span><br>
-    <span class="listing-publication fst-italic ">IGARSS 2024</span>
-    <span class="listing-year">(2024)</span><br>
-    <a href="./publications/articles/articulo_zambrano2024.html" class="btn btn-primary">
-      Details
-    </a>
-    
-    <a href="https://doi.org/10.1109/IGARSS53475.2024.10641240" class="btn btn-secondary" target="_blank" rel="noopener noreferrer">
-      DOI
-    </a>
-    
-    
-    
-    <a href="https://ieeexplore.ieee.org/document/10641240" class="btn btn-light" target="_blank" rel="noopener noreferrer">
-      <i class="bi bi-file-earmark-zip"></i> Materials
-    </a>
-    
-  </li>
-
-  <li data-index="4" data-categories="dmVyYmFsJTJDYXJ0aWNsZQ==" data-listing-file-modified-sort="1754055966628" data-listing-reading-time-sort="2" data-listing-word-count-sort="222">
-    <span class="listing-title lead">Comparison of crop water demand derived from sen-ET for orchards within the Aconcagua’s river basin in Chile</span><br>
-    <span class="listing-author">Zambrano et al.</span><br>
-    <span class="listing-publication fst-italic ">IGARSS 2024</span>
-    <span class="listing-year">(2024)</span><br>
-    <a href="./publications/articles/articulo_zambrano2024b.html" class="btn btn-primary">
-      Details
-    </a>
-    
-    <a href="https://doi.org/10.1109/IGARSS53475.2024.10642732" class="btn btn-secondary" target="_blank" rel="noopener noreferrer">
-      DOI
-    </a>
-    
-    
-    
-    <a href="https://ieeexplore.ieee.org/abstract/document/10642732" class="btn btn-light" target="_blank" rel="noopener noreferrer">
-      <i class="bi bi-file-earmark-zip"></i> Materials
-    </a>
-    
-  </li>
-
-  <li data-index="5" data-categories="dmVyYmFsJTJDYXJ0aWNsZQ==" data-listing-file-modified-sort="1754058466832" data-listing-reading-time-sort="2" data-listing-word-count-sort="225">
-    <span class="listing-title lead">Drought's trends over continental Chile using climatic variables of water demand and supply, soil moisture, and vegetation productivity</span><br>
-    <span class="listing-author">Zambrano et al.</span><br>
-    <span class="listing-publication fst-italic ">EGU General Assembly 2024</span>
-    <span class="listing-year">(2024)</span><br>
-    <a href="./publications/articles/articulo_zambrano2024c.html" class="btn btn-primary">
-      Details
-    </a>
-    
-    <a href="https://doi.org/10.5194/egusphere-egu24-19099" class="btn btn-secondary" target="_blank" rel="noopener noreferrer">
-      DOI
-    </a>
-    
-    
-    
-    <a href="https://meetingorganizer.copernicus.org/EGU24/EGU24-19099.html" class="btn btn-light" target="_blank" rel="noopener noreferrer">
-      <i class="bi bi-file-earmark-zip"></i> Materials
-    </a>
-    
-  </li>
-
-  <li data-index="6" data-categories="dmVyYmFsJTJDYXJ0aWNsZQ==" data-listing-file-modified-sort="1754058316269" data-listing-reading-time-sort="2" data-listing-word-count-sort="302">
-    <span class="listing-title lead">The response of Groundwater-Dependent Ecosystems to drought in central Chile</span><br>
-    <span class="listing-author">Duran-Llacer et al.</span><br>
-    <span class="listing-publication fst-italic ">EGU General Assembly 2024</span>
-    <span class="listing-year">(2024)</span><br>
-    <a href="./publications/articles/articulo_duran-llacer2024b.html" class="btn btn-primary">
-      Details
-    </a>
-    
-    <a href="https://doi.org/10.5194/egusphere-egu24-20738" class="btn btn-secondary" target="_blank" rel="noopener noreferrer">
-      DOI
-    </a>
-    
-    
-    
-    <a href="https://meetingorganizer.copernicus.org/EGU24/EGU24-20738.html" class="btn btn-light" target="_blank" rel="noopener noreferrer">
-      <i class="bi bi-file-earmark-zip"></i> Materials
-    </a>
-    
-  </li>
-
-  <li data-index="7" data-categories="dmVyYmFsJTJDYXJ0aWNsZQ==" data-listing-file-modified-sort="1754058949479" data-listing-reading-time-sort="1" data-listing-word-count-sort="151">
+  <li data-index="2" data-categories="dmVyYmFsJTJDYXJ0aWNsZQ==" data-listing-file-modified-sort="1754058949479" data-listing-reading-time-sort="1" data-listing-word-count-sort="151">
     <span class="listing-title lead">Four Decades of Satellite Data for Agricultural Drought Monitoring throughout the Growing Season in Central Chile</span><br>
     <span class="listing-author">Zambrano, Francisco</span><br>
     <span class="listing-publication fst-italic ">Integrated Drought Management, Volume 2</span>
@@ -408,7 +313,7 @@ window.Quarto = {
     
   </li>
 
-  <li data-index="8" data-categories="dmVyYmFsJTJDYXJ0aWNsZQ==" data-listing-file-modified-sort="1754058698336" data-listing-reading-time-sort="2" data-listing-word-count-sort="283">
+  <li data-index="3" data-categories="dmVyYmFsJTJDYXJ0aWNsZQ==" data-listing-file-modified-sort="1754058698336" data-listing-reading-time-sort="2" data-listing-word-count-sort="283">
     <span class="listing-title lead">The economics impacts of long-run droughts: Challenges, gaps, and way forward</span><br>
     <span class="listing-author">Fernández et al.</span><br>
     <span class="listing-publication fst-italic ">Journal of Environmental Management</span>
@@ -429,7 +334,7 @@ window.Quarto = {
     
   </li>
 
-  <li data-index="9" data-categories="dmVyYmFsJTJDYXJ0aWNsZQ==" data-listing-file-modified-sort="1754059091818" data-listing-reading-time-sort="2" data-listing-word-count-sort="241">
+  <li data-index="4" data-categories="dmVyYmFsJTJDYXJ0aWNsZQ==" data-listing-file-modified-sort="1754059091818" data-listing-reading-time-sort="2" data-listing-word-count-sort="241">
     <span class="listing-title lead">Time-Series of Vegetation Indices (VNIR/SWIR) Derived from Sentinel-2 (A/B) to Assess Turgor Pressure in Kiwifruit</span><br>
     <span class="listing-author">Jopia et al.</span><br>
     <span class="listing-publication fst-italic "> ISPRS International Journal of Geo-Information </span>
@@ -450,7 +355,7 @@ window.Quarto = {
     
   </li>
 
-  <li data-index="10" data-categories="dmVyYmFsJTJDYXJ0aWNsZQ==" data-listing-file-modified-sort="1754059274564" data-listing-reading-time-sort="2" data-listing-word-count-sort="283">
+  <li data-index="5" data-categories="dmVyYmFsJTJDYXJ0aWNsZQ==" data-listing-file-modified-sort="1754059274564" data-listing-reading-time-sort="2" data-listing-word-count-sort="283">
     <span class="listing-title lead">Water availability, quality, and use in rural communities of the Chilean Coastal Range</span><br>
     <span class="listing-author">Rivas et al.</span><br>
     <span class="listing-publication fst-italic ">Journal of Soil and Water Conservation</span>
@@ -471,7 +376,7 @@ window.Quarto = {
     
   </li>
 
-  <li data-index="11" data-categories="dmVyYmFsJTJDYXJ0aWNsZQ==" data-listing-file-modified-sort="1754059457617" data-listing-reading-time-sort="3" data-listing-word-count-sort="413">
+  <li data-index="6" data-categories="dmVyYmFsJTJDYXJ0aWNsZQ==" data-listing-file-modified-sort="1754059457617" data-listing-reading-time-sort="3" data-listing-word-count-sort="413">
     <span class="listing-title lead">Prediction of drought-induced reduction of agricultural productivity in Chile from MODIS, rainfall estimates, and climate oscillation indices</span><br>
     <span class="listing-author">Zambrano et al.</span><br>
     <span class="listing-publication fst-italic ">Remote Sensing of Environment</span>
@@ -492,7 +397,7 @@ window.Quarto = {
     
   </li>
 
-  <li data-index="12" data-categories="dmVyYmFsJTJDYXJ0aWNsZQ==" data-listing-file-modified-sort="1754059576444" data-listing-reading-time-sort="3" data-listing-word-count-sort="526">
+  <li data-index="7" data-categories="dmVyYmFsJTJDYXJ0aWNsZQ==" data-listing-file-modified-sort="1754059576444" data-listing-reading-time-sort="3" data-listing-word-count-sort="526">
     <span class="listing-title lead">Evaluating satellite-derived long-term historical precipitation datasets for drought monitoring in Chile</span><br>
     <span class="listing-author">Zambrano et al.</span><br>
     <span class="listing-publication fst-italic ">Atmospheric Research</span>
@@ -513,7 +418,7 @@ window.Quarto = {
     
   </li>
 
-  <li data-index="13" data-categories="dmVyYmFsJTJDYXJ0aWNsZQ==" data-listing-file-modified-sort="1754317526996" data-listing-reading-time-sort="2" data-listing-word-count-sort="345">
+  <li data-index="8" data-categories="dmVyYmFsJTJDYXJ0aWNsZQ==" data-listing-file-modified-sort="1754317526996" data-listing-reading-time-sort="2" data-listing-word-count-sort="345">
     <span class="listing-title lead">Sixteen Years of Agricultural Drought Assessment of the BioBío Region in Chile Using a 250 m Resolution Vegetation Condition Index (VCI)</span><br>
     <span class="listing-author">Zambrano et al.</span><br>
     <span class="listing-publication fst-italic ">Remote Sensing</span>
@@ -539,9 +444,6 @@ window.Quarto = {
 <div class="listing-no-matching d-none">
 No matching items
 </div>
-<nav id="articles-pagination" class="listing-pagination" aria-label="Page Navigation">
-  <ul class="pagination"></ul>
-</nav>
 </div>
 
 

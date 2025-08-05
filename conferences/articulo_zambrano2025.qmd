@@ -1,0 +1,20 @@
+---
+title: "Shifts in water supply and demand shape land cover change across Chile"
+author: "Zambrano et al."
+year: "2025"
+publication: "EGU General Assembly 2025"
+doi: "https://doi.org/10.5194/egusphere-egu25-20588"
+materials: "https://meetingorganizer.copernicus.org/EGU25/EGU25-20588.html"
+toc: false
+categories:
+  - verbal
+  - article
+---
+
+## Citation (APA 7)
+
+>  Zambrano, F., Vrieling, A., Meza, F., Duran-Llacer, I., Fernández, F., Venegas-González, A., Raab, N., and Craven, D.: Shifts in water supply and demand shape land cover change across Chile, EGU General Assembly 2025, Vienna, Austria, 27 Apr–2 May 2025, EGU25-20588, https://doi.org/10.5194/egusphere-egu25-20588, 2025. 
+
+## Abstract
+
+Globally, droughts are becoming longer, more frequent, and more severe, and their impacts are multidimensional. These impacts typically extend beyond the water balance, as long-term, cumulative changes in the water balance can lead to regime shifts in land cover. Here, we assess the effects of temporal changes in water supply and demand over multiple time scales on vegetation productivity and land cover changes in continental Chile, which has experienced a severe drought since 2010. Across most of continental Chile, we observed a persistent negative trend in water supply and a positive trend in atmospheric water demand since 2000. However, in water-limited ecoregions, we have observed a negative temporal trend in the water demand of vegetation, which intensified over longer time scales. This long-term decrease in water availability and the shift in water demand have led to a decrease in vegetation productivity, especially for the Chilean Matorral and the Valdivian temperate forest ecoregions. We found that this decrease is primarily associated with drought indices associated with soil moisture and actual evapotranspiration at time scales of up to 12 months. Further, our results indicate that drought intensity explains up to 78% of temporal changes in the area of shrublands and 40% of the area of forests across all ecoregions, while the burned area explained 70% of the temporal changes in the area of croplands.  Our results suggest that the impacts of long-term climate change on ecosystems will extend to drought-tolerant vegetation types, necessitating the development of context-specific adaptation strategies for agriculture, biodiversity conservation and natural resource management. 

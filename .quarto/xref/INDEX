@@ -61,5 +61,23 @@
   },
   "projects.qmd": {
     "projects.html": "ca699d9e"
+  },
+  "conferences.qmd": {
+    "conferences.html": "ed04e8e8"
+  },
+  "conferences/articulo_duran-llacer2024b.qmd": {
+    "articulo_duran-llacer2024b.html": "c1682e7c"
+  },
+  "conferences/articulo_zambrano2024b.qmd": {
+    "articulo_zambrano2024b.html": "b3804982"
+  },
+  "conferences/articulo_duran-llacer2024.qmd": {
+    "articulo_duran-llacer2024.html": "558e5ccd"
+  },
+  "conferences/articulo_zambrano2024.qmd": {
+    "articulo_zambrano2024.html": "6f21c1a3"
+  },
+  "conferences/articulo_zambrano2024c.qmd": {
+    "articulo_zambrano2024c.html": "780c4b3c"
   }
 }

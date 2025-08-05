@@ -10,8 +10,12 @@ website:
   navbar:
     background: "#234460"
     left:
-      - href: publications.qmd
-        text: Publications
+      - text: "Research"
+        menu: 
+          - text: "Publications"
+            href: publications.qmd
+          - text: "Conferences"
+            href: conferences.qmd
       - href: teaching.qmd
         text: Teaching
       - href: projects.qmd
