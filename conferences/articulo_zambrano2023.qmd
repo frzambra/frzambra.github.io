@@ -1,0 +1,20 @@
+---
+title: "Water supply and demand drought indices to assess its impact over land cover change and vegetation development in continental Chile for 2000-2023 by ERA5-Land and MODIS datasets"
+author: "Zambrano et al."
+year: "2023"
+publication: "AGU Fall Meeting 2023"
+materials: "https://agu.confex.com/agu/fm23/meetingapp.cgi/Paper/1349203"
+toc: false
+categories:
+  - verbal
+  - article
+---
+
+## Citation (APA 7)
+
+>  Zambrano, F., Meza, F., & Raab, N. (2023). Water supply and demand drought indices to assess its impact over land cover change and vegetation development in continental Chile for 2000-2023 by ERA5-Land and MODIS datasets. 2023, H43F-2151. https://ui.adsabs.harvard.edu/abs/2023AGUFM.H43F2151Z
+ 
+
+## Abstract
+
+ Central Chile has been affected by a persistent drought which is impacting the hydrological system and vegetation development. The region has been the focus of research studies due to a persistent period of water scarcity which has been defined as a "mega drought". Our goal is to analyze the impact of drought, measured by drought indices of water supply/demand in the LULCC (land use land cover change) and vegetation development, over continental Chile. We divided Continental Chile into five zones according to a latitudinal gradient: "Norte Grande", "Norte Chico", "Zona Central", "Zona Sur", and "Zona Austral". We used monthly climatic reanalysis variables for precipitation, temperature, and soil moisture for 1981-2023 from ERA5-Land; and MODIS (Moderate-Resolution Imaging Spectroradiometer) product MCD12Q1 for land cover for 2001-2021, and the NDVI vegetation index from product MOD13A2 for 2000-2023, both from collection 6.1. We derived the drought indices SPI (Standardized Precipitation Index), SPEI (Standardized Precipitation Evapotranspiration Index), EDDI (Evaporative Demand Drought Index), zcSM (standardized anomaly of cumulative soil moisture), and the zcNDVI (standardized anomaly of cumulative NDVI). These indices were calculated for time scales between 1 and 36 months, except for zcNDVI (< 6 months). We analyzed the temporal correlation of SPI, SPEI, EDDI, and zcSM with zcNDVI. Our results show that the EDDI was the least correlated index for the five macro zones and the five types of land cover, showing that the variation of temperature in Chile has had little impact on vegetation development. Higher r-squared values, between 0.5 and 0.8, were reached at "Norte Chico" and "Zona Central" for the land cover types of savanna, shrubland, grassland, and croplands for the indices SPEI and zcSM at time scales of 12 and 24 months. The results indicate that the "Norte Chico" and "Zona Central" are the most sensitive to water supply. 

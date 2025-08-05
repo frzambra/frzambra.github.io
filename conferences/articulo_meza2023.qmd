@@ -1,0 +1,29 @@
+---
+title: " Multivariate Drought Index Combining Meteorological Information, Remote Sensing data and >Biophysical Crop Simulation Models: Application in the Araucanía Region, Chile"
+author: "Meza et al."
+year: "2023"
+publication: "AGU Fall Meeting 2023"
+materials: "https://agu.confex.com/agu/fm23/meetingapp.cgi/Paper/1349203"
+toc: false
+categories:
+  - verbal
+  - article
+---
+
+## Citation (APA 7)
+
+>  Meza, F., Raab, N., & Zambrano, F. (2023). Multivariate Drought Index Combining Meteorological Information, Remote Sensing data and >Biophysical Crop Simulation Models: Application in the Araucanía Region, Chile. 2023, H43F-2148. https://ui.adsabs.harvard.edu/abs/2023AGUFM.H43F2148M
+
+ 
+
+## Abstract
+
+Droughts are extreme meteorological events that can cause profound impact on socioeconomic activities and ecosystems. The ongoing Megadrought in Central Chile (starting in 2010) has risen the attention of researchers and policy makers as it has negatively affected the Central region of the country as no other drought during the last century, and its expansion southwards is unprecedented from 1950 on. Climate change projections indicate that drought will become more severe and frequent in the coming decades, thus the need to improve early waring systems and monitoring tools that help to understand and anticipate their consequences has become a national priority.
+
+One key element has been the implementation of drought indices such as the Standardized Precipitation Index and the Standardized Soil Moisture Index. However these indices have limitations and do not capture the real magnitude of the impacts on sensible sectors like agriculture, being necessary to improve them and complement their information with data that captures the behaviour of vegetation under limiting water availability.
+
+Here we combine existing meteorological indices with remote sensing about vegetation, via an accumulated value of NDVI, and results from a biophysical model that represents the growth and development of annual crops.
+
+We apply this framework in the Araucanía Region that holds 40% of the production of economically important annual crops (wheat, oats, barley) of the country. The multivariate drought index is tested against historical records of regional yields available since 1980 outperforming purely based meteorological indices withy Pearson correlation values greater than 0.75.
+
+In addition, this multivariate index can be easily adapted to produce forecasts of future yields being run with observed data of accumulated NDVI and seasonal climate forecasts generating actionable information for resource mobilization and drought risk management. 
