@@ -73,4 +73,4 @@ Key topics include:
 
 By the end of the course, students will be able to process and analyze spatial datasets, create publication-quality maps, and apply reproducible workflows for spatial modeling in R.
 
-**[Unit website](https://francisco-zambrano.cl/METE133-2024)**
+**[Course website](https://francisco-zambrano.cl/METE133-2024)**
