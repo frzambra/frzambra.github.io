@@ -4,7 +4,7 @@ title: "About me"
 
 ## Bio
 
->**Francisco Zambrano** is a researcher based in Santiago, Chile. His work focuses on environmental sciences, particularly the intersection of climate variability, drought monitoring, and water resource management. I specialize in using remote sensing, geospatial analysis, and climate data to understand how environmental changes impact ecosystems and agriculture.
+>**Francisco Zambrano** is a spatial data scientist and researcher based in Santiago, Chile. His work focuses on environmental sciences, particularly the intersection of climate variability, drought monitoring, and water resource management. I specialize in using remote sensing, geospatial analysis, and climate data to understand how environmental changes impact ecosystems and agriculture.
 He hold a doctorate in agricultural engineer and have published extensively on topics such as vegetation dynamics, long-term drought assessments, and land use change. His research has been cited widely and contributes to both academic knowledge and practical decision-making in climate resilience and sustainable land management.
 Whether through scientific publications, collaborative projects, or open-source development, He aim to bridge the gap between data, science, and policy to support more informed environmental decisions.
 
