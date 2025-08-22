@@ -21,13 +21,11 @@ toc: false
 <div class="about-link-text">
 **Francisco Zambrano**<br>
 Spatial Data Scientist<br>
-[Hemera Centro de Observación de la Tierra](https://hemera.umayor.cl)<br>
-[Universidad Mayor](https://umayor.cl), Chile.
 </div>
 
 ## Bio
 
-I am a researcher based in Santiago, Chile, currently working at Universidad Mayor. My work focuses on environmental sciences, particularly the intersection of climate variability, drought monitoring, and water resource management. I specialize in using remote sensing, geospatial analysis, and climate data to understand how environmental changes impact ecosystems and agriculture.
+I am a researcher based in Santiago, Chile. My work focuses on environmental sciences, particularly the intersection of climate variability, drought monitoring, and water resource management. I specialize in using remote sensing, geospatial analysis, and climate data to understand how environmental changes impact ecosystems and agriculture.
 I hold a doctorate in agricultural engineer and have published extensively on topics such as vegetation dynamics, long-term drought assessments, and land use change. My research has been cited widely and contributes to both academic knowledge and practical decision-making in climate resilience and sustainable land management.
 Whether through scientific publications, collaborative projects, or open-source development, My aim is to bridge the gap between data, science, and policy to support more informed environmental decisions.
 
