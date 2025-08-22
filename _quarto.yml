@@ -20,6 +20,8 @@ website:
         text: Teaching
       - href: projects.qmd
         text: Projects
+      - href: posts.qmd
+        text: Blog
       # - href: about.qmd
       #   text: About
     right:

@@ -91,5 +91,11 @@
   },
   "conferences/articulo_zambrano2018.qmd": {
     "articulo_zambrano2018.html": "25fc1b57"
+  },
+  "posts.qmd": {
+    "posts.html": "37a52b3e"
+  },
+  "posts/2025-08-22-ENSO_match_score_pattern/index.qmd": {
+    "index.html": "b9bd1007"
   }
 }

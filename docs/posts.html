@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>Francisco Zambrano</title>
+<title>My Blog – Francisco Zambrano</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -31,18 +31,17 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-search/quarto-search.js"></script>
 <meta name="quarto:offset" content="./">
 <link href="./img/fzb_selfie.ico" rel="icon">
+<script src="site_libs/quarto-listing/list.min.js"></script>
+<script src="site_libs/quarto-listing/quarto-listing.js"></script>
 <script src="site_libs/quarto-html/quarto.js"></script>
 <script src="site_libs/quarto-html/popper.min.js"></script>
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
+<script src="site_libs/quarto-html/anchor.min.js"></script>
 <link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
 <link href="site_libs/quarto-html/quarto-syntax-highlighting-47708def744f7d6bf9e6ade08d3fbeef.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
 <link href="site_libs/bootstrap/bootstrap-27089841b29612b0d4c40f59322fb13d.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
-<link href="site_libs/quarto-contrib/academicons-1.9.4/all.css" rel="stylesheet">
-<link href="site_libs/quarto-contrib/academicons-1.9.4/size.css" rel="stylesheet">
-<link href="site_libs/quarto-contrib/fontawesome6-1.2.0/all.min.css" rel="stylesheet">
-<link href="site_libs/quarto-contrib/fontawesome6-1.2.0/latex-fontsize.css" rel="stylesheet">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -70,16 +69,90 @@ ul.task-list li input[type="checkbox"] {
     "search-label": "Search"
   }
 }</script>
+<script>
+
+  window.document.addEventListener("DOMContentLoaded", function (_event) {
+    const listingTargetEl = window.document.querySelector('#listing-listing .list');
+    if (!listingTargetEl) {
+      // No listing discovered, do not attach.
+      return; 
+    }
+
+    const options = {
+      valueNames: ['listing-title','listing-author','listing-date','listing-image','listing-description','listing-categories',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
+      
+      searchColumns: ["listing-title","listing-author","listing-date","listing-image","listing-description","listing-categories"],
+    };
+
+    window['quarto-listings'] = window['quarto-listings'] || {};
+    window['quarto-listings']['listing-listing'] = new List('listing-listing', options);
+
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  });
+
+  window.addEventListener('hashchange',() => {
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  })
+  </script>
 <link href="https://fonts.googleapis.com/css?family=Fira+Sans|Merriweather" rel="stylesheet">
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/hack-font@3/build/web/hack-subset.css">
 
+  <script>window.backupDefine = window.define; window.define = undefined;</script><script src="https://cdn.jsdelivr.net/npm/katex@latest/dist/katex.min.js"></script>
+  <script>document.addEventListener("DOMContentLoaded", function () {
+ var mathElements = document.getElementsByClassName("math");
+ var macros = [];
+ for (var i = 0; i < mathElements.length; i++) {
+  var texText = mathElements[i].firstChild;
+  if (mathElements[i].tagName == "SPAN") {
+   katex.render(texText.data, mathElements[i], {
+    displayMode: mathElements[i].classList.contains('display'),
+    throwOnError: false,
+    macros: macros,
+    fleqn: false
+   });
+}}});
+  </script>
+  <script>window.define = window.backupDefine; window.backupDefine = undefined;</script><link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@latest/dist/katex.min.css">
 
-<meta property="og:title" content="Francisco Zambrano">
-<meta property="og:description" content="">
+<script type="text/javascript">
+const typesetMath = (el) => {
+  if (window.MathJax) {
+    // MathJax Typeset
+    window.MathJax.typeset([el]);
+  } else if (window.katex) {
+    // KaTeX Render
+    var mathElements = el.getElementsByClassName("math");
+    var macros = [];
+    for (var i = 0; i < mathElements.length; i++) {
+      var texText = mathElements[i].firstChild;
+      if (mathElements[i].tagName == "SPAN") {
+        window.katex.render(texText.data, mathElements[i], {
+          displayMode: mathElements[i].classList.contains('display'),
+          throwOnError: false,
+          macros: macros,
+          fleqn: false
+        });
+      }
+    }
+  }
+}
+window.Quarto = {
+  typesetMath
+};
+</script>
+
+<meta property="og:title" content="My Blog – Francisco Zambrano">
+<meta property="og:image" content="https://francisco-zambrano.com/posts/2025-08-22-ENSO_match_score_pattern/ENSO_ONI_match_score.png">
 <meta property="og:site_name" content="Francisco Zambrano">
+<meta property="og:image:height" content="1485">
+<meta property="og:image:width" content="3093">
 </head>
 
-<body class="nav-fixed fullcontent">
+<body class="nav-fixed">
 
 <div id="quarto-search-results"></div>
   <header id="quarto-header" class="headroom fixed-top">
@@ -120,7 +193,7 @@ ul.task-list li input[type="checkbox"] {
 <span class="menu-text">Projects</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./posts.html"> 
+    <a class="nav-link active" href="./posts.html" aria-current="page"> 
 <span class="menu-text">Blog</span></a>
   </li>  
 </ul>
@@ -146,51 +219,81 @@ ul.task-list li input[type="checkbox"] {
 <div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
 <!-- sidebar -->
 <!-- margin-sidebar -->
-    
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
+        
+    <h5 class="quarto-listing-category-title">Categories</h5><div class="quarto-listing-category category-default"><div class="category" data-category="">All <span class="quarto-category-count">(1)</span></div><div class="category" data-category="Q2hpbGU=">Chile <span class="quarto-category-count">(1)</span></div><div class="category" data-category="RU5TTw==">ENSO <span class="quarto-category-count">(1)</span></div><div class="category" data-category="U3BhdGlhbCUyMHBhdHRlcm4=">Spatial pattern <span class="quarto-category-count">(1)</span></div><div class="category" data-category="VVNB">USA <span class="quarto-category-count">(1)</span></div></div></div>
 <!-- main -->
-<div class="quarto-about-trestles">
-  <div class="about-entity">
-    <img src="img/foto_perfil.jpeg" class="about-image
-  rounded " style="width: 20em;">
-<header id="title-block-header" class="quarto-title-block"></header>
-    <div class="about-links">
-  <a href="https://scholar.google.com/citations?user=mKQRdOEAAAAJ&amp;hl=es" class="about-link" rel="" target="">
-     <span class="about-link-text"><i class="ai  ai-google-scholar" aria-label="google-scholar"></i></span>
-  </a>
-  <a href="https://bsky.app/profile/frzambra.bsky.social" class="about-link" rel="" target="">
-     <span class="about-link-text"><i class="fa-brands fa-bluesky" aria-label="bluesky"></i></span>
-  </a>
-  <a href="https://github.com/frzambra" class="about-link" rel="" target="">
-     <span class="about-link-text"><i class="fa-brands fa-github" aria-label="github"></i></span>
-  </a>
-  <a href="https://linkedin.com/in/frzambra" class="about-link" rel="" target="">
-     <span class="about-link-text"><i class="fa-brands fa-linkedin" aria-label="linkedin"></i></span>
-  </a>
-  <a href="mailto:francisco.zambrano@umayor.cl" class="about-link" rel="" target="">
-     <span class="about-link-text"><i class="fa-solid fa-envelope" aria-label="envelope"></i></span>
-  </a>
+<main class="content" id="quarto-document-content">
+
+<header id="title-block-header" class="quarto-title-block default">
+<div class="quarto-title">
+<h1 class="title">My Blog</h1>
 </div>
+
+
+
+<div class="quarto-title-meta">
+
+    
+  
+    
   </div>
-  <div class="about-contents"><main class="content" id="quarto-document-content">
-<div class="about-link-text">
-<p><strong>Francisco Zambrano</strong><br> Spatial Data Scientist<br></p>
-</div>
-<section id="bio" class="level2">
-<h2 data-anchor-id="bio">Bio</h2>
-<p>I am a researcher based in Santiago, Chile. My work focuses on environmental sciences, particularly the intersection of climate variability, drought monitoring, and water resource management. I specialize in using remote sensing, geospatial analysis, and climate data to understand how environmental changes impact ecosystems and agriculture. I hold a doctorate in agricultural engineer and have published extensively on topics such as vegetation dynamics, long-term drought assessments, and land use change. My research has been cited widely and contributes to both academic knowledge and practical decision-making in climate resilience and sustainable land management. Whether through scientific publications, collaborative projects, or open-source development, My aim is to bridge the gap between data, science, and policy to support more informed environmental decisions.</p>
-</section>
-<section id="address" class="level2">
-<h2 data-anchor-id="address">Address</h2>
-<p><strong>Mail:</strong> <a href="https://hemera.umayor.cl/">Hemera Centro de Observación de la Tierra</a>, <a href="https://umayor.cl/">Universidad Mayor</a>, Santiago, Chile.</p>
-<p><strong>Office:</strong> Campus Oriente, <a href="https://umayor.cl/">Universidad Mayor</a>, Av. Apoquindo 6901-6947, 7570008 Las Condes, Región Metropolitana, Chile.</p>
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d5737.456669745213!2d-70.56030748702727!3d-33.40793509522815!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x9662cec241761341%3A0xf601ad71e2d186c4!2sCampus%20Oriente%20Universidad%20Mayor!5e1!3m2!1ses-419!2scl!4v1754057780120!5m2!1ses-419!2scl" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade">
-</iframe>
+  
 
 
-</section>
-</main></div>
+</header>
+
+
+
+
+
+
+<div class="quarto-listing quarto-listing-container-grid" id="listing-listing">
+<div class="list grid quarto-listing-cols-3">
+<div class="g-col-1" data-index="0" data-categories="RU5TTyUyQ1NwYXRpYWwlMjBwYXR0ZXJuJTJDQ2hpbGUlMkNVU0E=" data-listing-date-sort="1791428400000" data-listing-file-modified-sort="1755878075431" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="4" data-listing-word-count-sort="674">
+<a href="./posts/2025-08-22-ENSO_match_score_pattern/index.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img loading="lazy" src="./posts/2025-08-22-ENSO_match_score_pattern/ENSO_ONI_match_score.png" class="thumbnail-image card-img" style="height: 150px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Precipitation spatial pattern expected by ENSO
+</h5>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('RU5TTw=='); return false;">
+ENSO
 </div>
- <!-- /main -->
+<div class="listing-category" onclick="window.quartoListingCategory('U3BhdGlhbCUyMHBhdHRlcm4='); return false;">
+Spatial pattern
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('Q2hpbGU='); return false;">
+Chile
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('VVNB'); return false;">
+USA
+</div>
+</div>
+<div class="card-text listing-description">
+Based on Michelle L’Heureux’s analysis from NOAA, I remade it for the USA, applied it to Chile, and then compared the two results
+</div>
+<div class="card-attribution card-text-small justify">
+<div class="listing-author">
+Francisco Zambrano
+</div>
+<div class="listing-date">
+Oct 8, 2026
+</div>
+</div>
+</div>
+</div>
+</a>
+</div>
+</div>
+<div class="listing-no-matching d-none">
+No matching items
+</div>
+</div></main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
 window.document.addEventListener("DOMContentLoaded", function (event) {
   const toggleBodyColorMode = (bsSheetEl) => {
@@ -211,6 +314,13 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     }
   }
   toggleBodyColorPrimary();  
+  const icon = "";
+  const anchorJS = new window.AnchorJS();
+  anchorJS.options = {
+    placement: 'right',
+    icon: icon
+  };
+  anchorJS.add('.anchored');
   const isCodeAnnotation = (el) => {
     for (const clz of el.classList) {
       if (clz.startsWith('code-annotation-')) {                     

@@ -26,5 +26,11 @@
       "/conferences/articulo_zambrano2023.html",
       "/conferences/articulo_zambrano2018.html"
     ]
+  },
+  {
+    "listing": "/posts.html",
+    "items": [
+      "/posts/2025-08-22-ENSO_match_score_pattern/index.html"
+    ]
   }
 ]

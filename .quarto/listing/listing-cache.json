@@ -6,6 +6,9 @@
     "conferences.qmd": [
       "conferences/*/**.qmd",
       "conferences/**.qmd"
+    ],
+    "posts.qmd": [
+      "posts"
     ]
   }
 }
