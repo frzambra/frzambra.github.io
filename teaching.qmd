@@ -5,7 +5,7 @@ number-sections: true
 toc-depth: 1
 ---
 
-# IMSD1020: Introduction to Geographical Information Systems (GIS) {toc-text='GIS'}
+# Introduction to Geographical Information Systems (GIS) {toc-text='GIS'}
 
 This course provides an overview of Geographic Information System (GIS) concepts and their components. Both the theory and practical application of GIS will be emphasized in this course. The course's objective is to teach students the concepts for managing geographic information systems, as well as the use of QGIS geographic information systems software and its application in environmental engineering.
 
@@ -23,7 +23,7 @@ Learning Objectives
 
 * * *
 
-# IMSD1025: Advanced Geographical Information Systems (GIS) with R Programming {toc-text='GIS with R'}
+# Advanced Geographical Information Systems (GIS) with R Programming {toc-text='GIS with R'}
 
 This introductory course offers a hands-on foundation in Geographical Information Systems (GIS) using the R programming language. Designed for students and professionals with little or no prior experience in spatial analysis or coding, the course guides participants through the essential concepts, tools, and techniques for working with geographic data.
 
@@ -53,7 +53,7 @@ Course Format:
 
 * * *
 
-# METE1305: Programming and Spatial Analysis with R {toc-text='Spatial analysis with R'}
+# Programming and Spatial Analysis with R {toc-text='Spatial analysis with R'}
 
 Master’s in Remote Sensing – Universidad Mayor
 
