@@ -6,7 +6,7 @@ author:
   - name: Francisco Zambrano
     url: https://francisco-zambrano.cl/
     orcid: 0000-0001-6896-8534
-date: 22-08-2025
+date: 2025-08-22
 categories: [ENSO, Spatial pattern, Chile, USA]
 image: ENSO_ONI_match_score.png
 draft: false
