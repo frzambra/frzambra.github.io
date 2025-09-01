@@ -7,7 +7,7 @@ published-title: CV last updated
 engine: knitr
 freeze: false
 cv:
-  pdf: "resume_es_academico_ago2025.pdf"
+  pdf: "resume_en_academico_aug2025.pdf"
 ---
 
 ```{css, echo=FALSE}
