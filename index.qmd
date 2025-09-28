@@ -14,7 +14,7 @@ about:
     # - text: "{{< ai cv >}}"
     #   href: https://cdn.jsdelivr.net/gh/robjhyndman/CV@main/RobHyndmanCV.pdf
     - text: "{{< fa envelope >}}"
-      href: mailto:francisco.zambrano@umayor.cl
+      href: mailto:frzambra@gmail.com
 toc: false
 ---
 
