@@ -49,7 +49,7 @@ Course Format:
 
 * No prior experience in GIS or R required — just curiosity and motivation to learn
 
-**[Course website](https://francisco-zambrano.cl/SIG2-UMayor)**
+**[Course website](http://francisco-zambrano.cl/curso_SIG-con-R/)**
 
 * * *
 
