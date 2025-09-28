@@ -19,7 +19,7 @@ Learning Objectives
 
 * Demonstrate proficiency in using the GIS software QGIS.
 
-**[Course website](https://francisco-zambrano.cl/SIG1-UMayor)**
+**[Course website](http://francisco-zambrano.cl/curso_intro-SIG/)**
 
 * * *
 
