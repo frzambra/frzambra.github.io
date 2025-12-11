@@ -103,5 +103,18 @@
   },
   "publications/articles/articulo_zambrano2025b.qmd": {
     "articulo_zambrano2025b.html": "8d9152dd"
+  },
+  "posts/2025-10-01-comparing-languages-01/index.qmd": {
+    "index.html": "30102a14"
+  },
+  "posts/2025-10-01-comparing-languages-01/test.qmd": {
+    "test.html": "5bfc5b18",
+    "test.embed.ipynb": "2626ecc9"
+  },
+  "posts/2025-10-01-comparing-languages-01/test.embed.ipynb": {
+    "test.embed-preview.html": "8efca98e"
+  },
+  ".quarto/embed/posts/2025-10-01-comparing-languages-01/test.embed.ipynb": {
+    "test.embed-preview.html": "68b3f615"
   }
 }

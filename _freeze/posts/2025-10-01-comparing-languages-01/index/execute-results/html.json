@@ -1,0 +1,17 @@
+{
+  "hash": "3b2e0a9e6b524b38a6c30e1c383d6a46",
+  "result": {
+    "engine": "knitr",
+    "markdown": "---\ntitle: \"Spatial analysis with R|Python|Julia\"\nsubtitle: \"Loading vectorial data \"\ndescription: \"Comparision of R|Python|Julia for loading and mapping vectorial data \"\nauthor:\n  - name: Francisco Zambrano\n    url: https://francisco-zambrano.cl/\n    orcid: 0000-0001-6896-8534\ndate: 2025-10-01\ncategories: [R, Python, Julia, Spatial, data, science]\n#image: \nengine: knitr\n---\n\n# Overview\n\nWrite a description about what will be done\n\nPython need a reticulate package to render with knitr\n# Setup\n\n\n::: {.cell}\n\n```{.r .cell-code}\nsystem(\"which julia\")\n```\n:::\n\n\n",
+    "supporting": [
+      "index_files"
+    ],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

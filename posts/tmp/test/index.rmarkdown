@@ -1,0 +1,33 @@
+---
+title: "Spatial Analysis with R | Python | Julia"
+subtitle: "Loading vector data"
+description: "Comparison of R, Python, and Julia for loading and mapping vector data"
+author:
+  - name: Francisco Zambrano
+    url: https://francisco-zambrano.cl/
+    orcid: 0000-0001-6896-8534
+date: 2025-10-02
+categories: [R, Python, Julia, Spatial, Data, Science]
+format: html
+engine: knitr
+---
+
+```{r}
+library(JuliaCall)
+julia_setup()
+```
+
+```{julia}
+#using GeoDataFrames
+#using Shapefile
+#using Plots
+1+1
+# Load a shapefile (replace with your path)
+# shp = Shapefile.Table("path/to/your/shapefile.shp")
+# gdf = GeoDataFrame(shp)
+
+# For demonstration: simple array plot
+#plot([0, 1, 2], [0, 1, 4], label="Example")
+```
+
+

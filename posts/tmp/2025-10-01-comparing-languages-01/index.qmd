@@ -1,0 +1,28 @@
+---
+title: "Spatial analysis with R|Python|Julia"
+subtitle: "Loading vectorial data "
+description: "Comparision of R|Python|Julia for loading and mapping vectorial data "
+author:
+  - name: Francisco Zambrano
+    url: https://francisco-zambrano.cl/
+    orcid: 0000-0001-6896-8534
+date: 2025-10-01
+categories: [R, Python, Julia, Spatial, data, science]
+#image: 
+engine: julia
+julia:
+  exeflags: ["--project=."]
+
+---
+
+# Overview
+
+Write a description about what will be done
+
+Python need a reticulate package to render with knitr
+# Setup
+
+```{r}
+system("which julia")
+```
+
