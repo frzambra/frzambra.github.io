@@ -1,0 +1,21 @@
+---
+title: "Approach to mapping groundwater-dependent ecosystems through machine learning in central Chile"
+type: "article"
+author: "Dura-Llacer et al."
+year: "2025"
+publication: "Groundwater for Sustainable Development"
+doi: "https://doi.org/10.1016/j.gsd.2025.101526"
+materials: "https://www.sciencedirect.com/science/article/abs/pii/S2352801X25001237"
+toc: false
+categories:
+  - verbal
+  - article
+---
+
+## Citation (APA 7)
+
+> Duran-Llacer, I., Gómez-Escalonilla Canales, V., Aliaga-Alvarado, M., Arumí, J.L., Zambrano, F., Rodríguez-López, L., Martínez-Retureta, R., Martínez-Santos, P., 2025. Approach to mapping groundwater-dependent ecosystems through machine learning in central Chile. Groundwater for Sustainable Development 31, 101526. https://doi.org/10.1016/j.gsd.2025.101526
+
+## Abstract
+
+ Groundwater depletion can significantly impact the ecological integrity of groundwater-dependent ecosystems (GDEs). Identifying and mapping these ecosystems is essential for their effective management and conservation. This study presents a new probabilistic approach that uses machine learning techniques to predict the presence of GDEs zones in the Ligua and Petorca basins, central Chile. A comprehensive set of 21 spatially distributed explanatory variables related to GDEs occurrence was compiled. These include geology, topography, climate, and satellite-based indices. Using a dataset of 3067 GDEs presence/absence points, 16 supervised classification algorithms were trained and evaluated with randomly selected subsets containing 100 %, 75 %, 50 %, and 25 % of the original dataset. This analysis involved collinearity assessment, cross-validation, feature selection, and hyperparameter tuning. Tree-based ensemble models, including Random Forest (RFC), AdaBoost (ABC), Gradient Boosting (GBC), and ExtraTrees (ETC), consistently outperformed other classifiers. In all subsets, regardless of the number of samples included, the models obtained raw scores above 0.90 for metrics such as test score, F1 score and the area under the curve (AUC), with key predictor variables identified as distance to rivers, rainfall, and land use/land cover. The models show high predictive performance consistently exceeding 0.95 on the above metrics. The resulting GDEs map manages to identify areas with a high probability of GDEs presence, clearly differentiating these ecosystems from adjacent agricultural areas. This study provides a robust methodological framework for GDEs mapping and serves as a valuable tool to manage and protect groundwater and GDEs in arid and semi-arid environments.

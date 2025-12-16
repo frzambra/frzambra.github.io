@@ -2,11 +2,11 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://francisco-zambrano.com/index.html</loc>
-    <lastmod>2025-12-16T20:03:08.958Z</lastmod>
+    <lastmod>2025-12-16T21:04:49.859Z</lastmod>
   </url>
   <url>
     <loc>https://francisco-zambrano.com/publications.html</loc>
-    <lastmod>2025-12-16T20:00:56.524Z</lastmod>
+    <lastmod>2025-12-16T21:04:11.226Z</lastmod>
   </url>
   <url>
     <loc>https://francisco-zambrano.com/about.html</loc>
@@ -130,7 +130,7 @@
   </url>
   <url>
     <loc>https://francisco-zambrano.com/publications/articles/articulo_zambrano2025b.html</loc>
-    <lastmod>2025-12-16T20:00:43.300Z</lastmod>
+    <lastmod>2025-12-16T20:01:58.474Z</lastmod>
   </url>
   <url>
     <loc>https://francisco-zambrano.com/posts/2025-10-01-comparing-languages-01/index.html</loc>
@@ -139,5 +139,9 @@
   <url>
     <loc>https://francisco-zambrano.com/posts/2025-10-01-comparing-languages-01/test.html</loc>
     <lastmod>2025-10-02T22:14:02.455Z</lastmod>
+  </url>
+  <url>
+    <loc>https://francisco-zambrano.com/publications/articles/articulo_duran-llacer2025b.html</loc>
+    <lastmod>2025-12-16T21:03:53.750Z</lastmod>
   </url>
 </urlset>
