@@ -19,7 +19,7 @@ toc: false
 ---
 
 ::: about-link-text
-**Francisco Zambrano**<br> Spatial Data Scientist in Agriculture & Climate<br>
+**Francisco Zambrano**<br> Spatial Data Scientist in Agriculture & Water Resources <br>
 :::
 
 ## Bio

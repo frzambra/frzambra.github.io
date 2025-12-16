@@ -4,8 +4,8 @@ type: "article"
 author: "Zambrano et al."
 year: "2025"
 publication: "Earth's Future (AGU)"
-#doi: "https://doi.org/10.1016/j.agwat.2025.109721"
-#materials: "https://osf.io/sfhm2/"
+doi: "https://doi.org/10.1029/2025EF006744"
+materials: "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025EF006744?af=R"
 toc: false
 categories:
   - verbal
@@ -14,7 +14,7 @@ categories:
 
 ## Citation (APA 7)
 
-> Zambrano, F., Vrieling, A., Meza, F., Duran-Llacer, I., Fernández, F., Venegas-González, A., Raab, N., Craven, D. (2025). From Drought to Aridification: Land-cover fingerprints of a drying Chile. Earth's Future (AGU). Under revision
+>Zambrano, F., Anton, V., Meza, F., Duran-llacer, I., Fernández, F., Venegas-González, A., Raab, N., Craven, D., 2025. From Drought to Aridification: Land-cover fingerprints of a drying Chile. Earth’s Future. https://doi.org/10.1029/2025EF006744
 
 
 ## Abstract
