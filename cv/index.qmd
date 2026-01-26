@@ -2,14 +2,12 @@
 title: Curriculum vitæ
 description: "Francisco Zambrano's CV"
 date: 2025-09-29
-#title-block-banner: "#771C6D"
 published-title: CV last updated
 engine: knitr
 freeze: false
-cv:
-  pdf: "resume_en_academico_sep2025.pdf"
-  sidebar:
-    collapse-level: 1
+resources:
+  - resume_en_academico_sep2025.pdf
+  - resume_es_academico_sep2025.pdf
 ---
 
 ```{css, echo=FALSE}
@@ -40,11 +38,12 @@ cv:
 
 ```{=html}
 <p class="text-center">
-  <a class="btn btn-primary btn-lg cv-download" href="`r rmarkdown::metadata$cv$pdf`" target="_blank">
-    <i class="fa-solid fa-file-arrow-down"></i>&ensp;Download current CV
+  <a class="btn btn-primary btn-lg cv-download" id="cv-download-btn" href="resume_en_academico_sep2025.pdf" target="_blank">
+    <i class="fa-solid fa-file-arrow-down"></i>&ensp;<span data-en="Download current CV" data-es="Descargar CV actual">Download current CV</span>
   </a>
 </p>
 
 <div class="embed-container">
- <iframe src="`r rmarkdown::metadata$cv$pdf`#view=FitH&toolbar=0&navpanes=0"></iframe>
+ <iframe id="cv-iframe" src="resume_en_academico_sep2025.pdf#view=FitH&toolbar=0&navpanes=0"></iframe>
 </div>
+```

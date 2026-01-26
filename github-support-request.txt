@@ -1,0 +1,36 @@
+GitHub Support Request - Domain Hijacking
+
+Subject: Domain Hijacking - francisco-zambrano.cl claimed by another repository
+
+---
+
+Hello GitHub Support,
+
+I am the legitimate owner of the domain francisco-zambrano.cl and need help reclaiming it for my GitHub Pages site.
+
+ISSUE:
+- My repository: https://github.com/frzambra/frzambra.github.io
+- My domain: francisco-zambrano.cl (which I own and control the DNS for)
+- Problem: When I try to configure francisco-zambrano.cl as my custom domain in GitHub Pages settings, I get the error "This domain is already taken"
+- Current status: My domain is serving content from another repository (showing "rabbysir" instead of my content)
+
+PROOF OF OWNERSHIP:
+1. I control the DNS for francisco-zambrano.cl
+2. DNS is correctly pointing to GitHub Pages IPs:
+   - A records: 185.199.108.153, 185.199.109.153, 185.199.110.153, 185.199.111.153
+3. www CNAME points to: frzambra.github.io
+4. I can add a TXT record to prove ownership if needed
+
+EVIDENCE OF HIJACKING:
+- Current site serving at francisco-zambrano.cl shows "rabbysir" content (Jekyll site)
+- This is NOT my repository's content
+- Another GitHub Pages repository has claimed my domain without authorization
+
+REQUEST:
+Please remove francisco-zambrano.cl and www.francisco-zambrano.cl from any other repository that has claimed them, and allow me to configure them for my repository: frzambra/frzambra.github.io
+
+Thank you for your help.
+
+Francisco Zambrano
+Repository: https://github.com/frzambra/frzambra.github.io
+Domain: francisco-zambrano.cl

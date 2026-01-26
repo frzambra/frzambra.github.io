@@ -53,6 +53,7 @@ document.addEventListener('DOMContentLoaded', function() {
     updateContent();
     updateNavbar();
     updateButton();
+    updateCV();
   }
 
   // Update button text
@@ -72,6 +73,28 @@ document.addEventListener('DOMContentLoaded', function() {
         item.textContent = navbarTranslations[key][currentLang];
       }
     });
+  }
+
+  // Update CV PDF (if on CV page)
+  function updateCV() {
+    const cvPaths = {
+      en: 'resume_en_academico_sep2025.pdf',
+      es: 'resume_es_academico_sep2025.pdf'
+    };
+
+    const pdfPath = cvPaths[currentLang];
+
+    // Update iframe source
+    const iframe = document.getElementById('cv-iframe');
+    if (iframe) {
+      iframe.src = pdfPath + '#view=FitH&toolbar=0&navpanes=0';
+    }
+
+    // Update download button
+    const downloadBtn = document.getElementById('cv-download-btn');
+    if (downloadBtn) {
+      downloadBtn.href = pdfPath;
+    }
   }
 
   // Update all bilingual content
@@ -105,4 +128,5 @@ document.addEventListener('DOMContentLoaded', function() {
   createToggleButton();
   updateNavbar();
   updateContent();
+  updateCV();
 });
