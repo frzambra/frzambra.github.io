@@ -2,6 +2,12 @@
   "listingMap": {
     "conferences.qmd": [
       "conferences/**.qmd"
+    ],
+    "posts.qmd": [
+      "posts"
+    ],
+    "publications.qmd": [
+      "publications/*/**.qmd"
     ]
   }
 }

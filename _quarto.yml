@@ -49,3 +49,4 @@ format:
     include-after-body:
       - text: |
           <script src="language-toggle.js"></script>
+          <script src="card-collapse.js"></script>

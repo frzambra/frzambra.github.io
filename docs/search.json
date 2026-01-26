@@ -1,0 +1,499 @@
+[
+  {
+    "objectID": "teaching.html",
+    "href": "teaching.html",
+    "title": "Francisco Zambrano",
+    "section": "",
+    "text": "Introduction to Geographical Information Systems (GIS)\n    \n    \n      Beginner\n      QGIS\n    \n  \n\n  \n    This course provides an overview of Geographic Information System (GIS) concepts and their components. Both the theory and practical application of GIS will be emphasized. Students will learn to manage geographic information systems using QGIS software and its application in environmental engineering.\n  \n\n  \n    \n      Learning Objectives\n      \n        Demonstrate theoretical understanding and proficiency in Geographic Information Systems\n        Demonstrate understanding and proficiency in recording, formatting, storing, and editing spatial data\n        Demonstrate understanding and proficiency in map design\n        Demonstrate proficiency in using the GIS software QGIS\n      \n    \n    Read more\n  \n\n  \n    \n      Visit Course Website\n    \n  \n\n\n\n\n  \n    \n      Advanced Geographical Information Systems (GIS) with R Programming\n    \n    \n      Beginner\n      R Programming\n    \n  \n\n  \n    This introductory course offers a hands-on foundation in Geographical Information Systems (GIS) using the R programming language. Designed for students and professionals with little or no prior experience in spatial analysis or coding, the course guides participants through essential concepts, tools, and techniques for working with geographic data.\n  \n\n  \n    \n      What You'll Learn:\n      \n        How to import, explore, and visualize spatial data (vector and raster) using R\n        Basic geoprocessing operations: buffering, clipping, spatial joins, and overlays\n        Creating simple, publication-ready maps using R packages such as sf, terra, and tmap\n        Introduction to spatial data structures and reproducible GIS workflows in R\n      \n\n      Designed For:\n      This course is ideal for beginners in GIS or R who are interested in environmental sciences, urban studies, geography, or data science, and want to develop practical skills in open-source spatial analysis.\n\n      Course Format:\n      \n        Interactive lectures and coding labs using real-world examples\n        Focus on free and open-source tools: RStudio and key spatial R packages\n        No prior experience in GIS or R required — just curiosity and motivation to learn\n      \n    \n    Read more\n  \n\n  \n    \n      Visit Course Website\n    \n  \n\n\n\n\n  \n    \n      Programming and Spatial Analysis with R\n    \n    \n      Graduate\n      R Programming\n      Universidad Mayor\n    \n  \n\n  \n    Program: Master's in Remote Sensing – Universidad Mayor\n  \n\n  \n    This course provides an applied introduction to spatial data analysis and interpolation techniques using the R programming language. Aimed at postgraduate students in environmental and earth sciences, the course combines lectures with hands-on computing labs to develop practical skills in geospatial data handling, visualization, and modeling.\n  \n\n  \n    \n      Key topics include:\n      \n        Fundamentals of spatial data structures and coordinate reference systems\n        Handling and visualizing raster and vector data using R packages such as sf, terra, ggplot2, and tmap\n        Introduction to spatial interpolation using deterministic methods (e.g., Inverse Distance Weighting, regression) and geostatistical techniques (e.g., Kriging, Regression-Kriging)\n        Exploratory spatial data analysis, including autocorrelation and variogram modeling\n        Spatial prediction using machine learning with random forest\n      \n\n      By the end of the course, students will be able to process and analyze spatial datasets, create publication-quality maps, and apply reproducible workflows for spatial modeling in R.\n    \n    Read more\n  \n\n  \n    \n      Visit Course Website"
+  },
+  {
+    "objectID": "publications/articles/articulo_zambrano2025.html",
+    "href": "publications/articles/articulo_zambrano2025.html",
+    "title": "Prediction of the daily spatial variation of stem water potential in cherry orchards using weather and Sentinel-2 data",
+    "section": "",
+    "text": "Zambrano, F., Herrera, A., Olguín, M., Miranda, M., Garrido, J., & Almeida, A. M. (2025). Prediction of the daily spatial variation of stem water potential in cherry orchards using weather and Sentinel-2 data. Agricultural Water Management, 318, 109721. https://doi.org/10.1016/j.agwat.2025.109721"
+  },
+  {
+    "objectID": "publications/articles/articulo_zambrano2025.html#citation-apa-7",
+    "href": "publications/articles/articulo_zambrano2025.html#citation-apa-7",
+    "title": "Prediction of the daily spatial variation of stem water potential in cherry orchards using weather and Sentinel-2 data",
+    "section": "",
+    "text": "Zambrano, F., Herrera, A., Olguín, M., Miranda, M., Garrido, J., & Almeida, A. M. (2025). Prediction of the daily spatial variation of stem water potential in cherry orchards using weather and Sentinel-2 data. Agricultural Water Management, 318, 109721. https://doi.org/10.1016/j.agwat.2025.109721"
+  },
+  {
+    "objectID": "publications/articles/articulo_zambrano2025.html#abstract",
+    "href": "publications/articles/articulo_zambrano2025.html#abstract",
+    "title": "Prediction of the daily spatial variation of stem water potential in cherry orchards using weather and Sentinel-2 data",
+    "section": "Abstract",
+    "text": "Abstract\nThe common practice for irrigation management is to apply the water lost by evapotranspiration. However, we could manage the irrigation by monitoring the plant’s water status by measuring the stem water potential (Ψ_s), which is currently costly and time ‐consuming. The primary goal of this work is to predict the daily spatial variation of Ψ_s using machine learning models. We measured Ψ_s in two orchards planted with sweet cherry tree variety Regina, and we monitored 30 trees weekly and biweekly in the central part of Chile, during two seasons, 2022‐2023 and 2023‐2024, and between October and April. To predict the Ψ_s, we used the random forest (RF), extreme gradient boosting (XGBoost), and support vector machine (SVM) models. We selected vapor pressure deficit (VPD), reference evapotranspiration (ET0), relative humidity, and temperature as weather predictors. Also, we used as predictors spectral vegetation indices (VIs) and biophysical parameters derived from Sentinel‐2. We compared two schemes, one for estimation and another for prediction. We discovered that XGboost and RF worked best for both. The estimation had an R^2 of 0.76 and an RMSE of 0.24 MPa. The prediction, on the other hand, had an R2 of 0.59 and an RMSE of 0.36 MPa. The analysis of importance variables reveals that weather predictors, such as VPD, ET_o, and temperature, have a higher weight in the model. These are followed by VIs that use short‐wave infrared regions, which highlight the moisture stress index (MSI) and the disease and water stress index (DWSI)."
+  },
+  {
+    "objectID": "publications/articles/articulo_zambrano2018.html",
+    "href": "publications/articles/articulo_zambrano2018.html",
+    "title": "Prediction of drought-induced reduction of agricultural productivity in Chile from MODIS, rainfall estimates, and climate oscillation indices",
+    "section": "",
+    "text": "Zambrano, F., Vrieling, A., Nelson, A., Meroni, M., & Tadesse, T. (2018). Prediction of drought-induced reduction of agricultural productivity in Chile from MODIS, rainfall estimates, and climate oscillation indices. Remote Sensing of Environment, 219, 15–30. https://doi.org/10.1016/j.rse.2018.10.006"
+  },
+  {
+    "objectID": "publications/articles/articulo_zambrano2018.html#citation-apa-7",
+    "href": "publications/articles/articulo_zambrano2018.html#citation-apa-7",
+    "title": "Prediction of drought-induced reduction of agricultural productivity in Chile from MODIS, rainfall estimates, and climate oscillation indices",
+    "section": "",
+    "text": "Zambrano, F., Vrieling, A., Nelson, A., Meroni, M., & Tadesse, T. (2018). Prediction of drought-induced reduction of agricultural productivity in Chile from MODIS, rainfall estimates, and climate oscillation indices. Remote Sensing of Environment, 219, 15–30. https://doi.org/10.1016/j.rse.2018.10.006"
+  },
+  {
+    "objectID": "publications/articles/articulo_zambrano2018.html#abstract",
+    "href": "publications/articles/articulo_zambrano2018.html#abstract",
+    "title": "Prediction of drought-induced reduction of agricultural productivity in Chile from MODIS, rainfall estimates, and climate oscillation indices",
+    "section": "Abstract",
+    "text": "Abstract\nGlobal food security is negatively affected by drought. Climate projections show that drought frequency and intensity may increase in different parts of the globe. These increases are particularly hazardous for developing countries. Early season forecasts on drought occurrence and severity could help to better mitigate the negative consequences of drought. The objective of this study was to assess if interannual variability in agricultural productivity in Chile can be accurately predicted from freely-available, near real-time data sources. As the response variable, we used the standard score of seasonal cumulative NDVI (zcNDVI), based on 2000–2017 data from Moderate Resolution Imaging Spectroradiometer (MODIS), as a proxy for anomalies of seasonal primary productivity. The predictions were performed with forecast lead times from one- to six-month before the end of the growing season, which varied between census units in Chile. Predictor variables included the zcNDVI obtained by cumulating NDVI from season start up to prediction time; standardised precipitation indices derived from satellite rainfall estimates, for time-scales of 1, 3, 6, 12 and 24 months; the Pacific Decadal Oscillation and the Multivariate ENSO oscillation indices; the length of the growing season, and latitude and longitude. For each of the 758 census units considered, the time series of the response and the predictor variables were averaged for agricultural areas resulting in a 17-season time series per unit for each variable. We used two prediction approaches: (i) optimal linear regression (OLR) whereby for each census unit the single predictor was selected that best explained the interannual zcNDVI variability, and (ii) a multi-layer feedforward neural network architecture, often called deep learning (DL), where all predictors for all units were combined in a single spatio-temporal model. Both approaches were evaluated with a leave-one-year-out cross-validation procedure. Both methods showed good prediction accuracies for small lead times and similar values for all lead times. The mean Rcv2 values for OLR were 0.95, 0.83, 0.68, 0.56, 0.46 and 0.37, against 0.96, 0.84, 0.65, 0.54, 0.46 and 0.38 for DL, for one, two, three, four, five, and six months lead time, respectively. Given the wide range of climates and vegetation types covered within the study area, we expect that the presented models can contribute to an improved early warning system for agricultural drought in different geographical settings around the globe."
+  },
+  {
+    "objectID": "publications/articles/articulo_zambrano2016.html",
+    "href": "publications/articles/articulo_zambrano2016.html",
+    "title": "Sixteen Years of Agricultural Drought Assessment of the BioBío Region in Chile Using a 250 m Resolution Vegetation Condition Index (VCI)",
+    "section": "",
+    "text": "Zambrano, F., Lillo-Saavedra, M., Verbist, K., & Lagos, O. (2016). Sixteen Years of Agricultural Drought Assessment of the BioBío Region in Chile Using a 250 m Resolution Vegetation Condition Index (VCI). Remote Sensing, 8(6), 530. https://doi.org/10.3390/rs8060530"
+  },
+  {
+    "objectID": "publications/articles/articulo_zambrano2016.html#citation-apa-7",
+    "href": "publications/articles/articulo_zambrano2016.html#citation-apa-7",
+    "title": "Sixteen Years of Agricultural Drought Assessment of the BioBío Region in Chile Using a 250 m Resolution Vegetation Condition Index (VCI)",
+    "section": "",
+    "text": "Zambrano, F., Lillo-Saavedra, M., Verbist, K., & Lagos, O. (2016). Sixteen Years of Agricultural Drought Assessment of the BioBío Region in Chile Using a 250 m Resolution Vegetation Condition Index (VCI). Remote Sensing, 8(6), 530. https://doi.org/10.3390/rs8060530"
+  },
+  {
+    "objectID": "publications/articles/articulo_zambrano2016.html#abstract",
+    "href": "publications/articles/articulo_zambrano2016.html#abstract",
+    "title": "Sixteen Years of Agricultural Drought Assessment of the BioBío Region in Chile Using a 250 m Resolution Vegetation Condition Index (VCI)",
+    "section": "Abstract",
+    "text": "Abstract\nDrought is one of the most complex natural hazards because of its slow onset and long-term impact; it has the potential to negatively affect many people. There are several advantages to using remote sensing to monitor drought, especially in developing countries with limited historical meteorological records and a low weather station density. In the present study, we assessed agricultural drought in the croplands of the BioBío Region in Chile. The vegetation condition index (VCI) allows identifying the temporal and spatial variations of vegetation conditions associated with stress because of rainfall deficit. The VCI was derived at a 250 m spatial resolution for the 2000–2015 period with the Moderate Resolution Imaging Spectroradiometer (MODIS) MOD13Q1 product. We evaluated VCI for cropland areas using the land cover MCD12Q1 version 5.1 product and compared it to the in situ Standardized Precipitation Index (SPI) for six-time scales (1–6 months) from 26 weather stations. Results showed that the 3-month SPI (SPI-3), calculated for the modified growing season (November–April) instead of the regular growing season (September–April), has the best Pearson correlation with VCI values with an overall correlation of 0.63 and between 0.40 and 0.78 for the administrative units. These results show a very short-term vegetation response to rainfall deficit in September, which is reflected in the vegetation in November, and also explains to a large degree the variation in vegetation stress. It is shown that for the last 16 years in the BioBío Region we could identify the 2007/2008, 2008/2009, and 2014/2015 seasons as the three most important drought events; this is reflected in both the overall regional and administrative unit analyses. These results concur with drought emergencies declared by the regional government. Future studies are needed to associate the remote sensing values observed at high resolution (250 m) with the measured crop yield to identify more detailed individual crop responses."
+  },
+  {
+    "objectID": "publications/articles/articulo_jopia2020.html",
+    "href": "publications/articles/articulo_jopia2020.html",
+    "title": "Time-Series of Vegetation Indices (VNIR/SWIR) Derived from Sentinel-2 (A/B) to Assess Turgor Pressure in Kiwifruit",
+    "section": "",
+    "text": "Jopia, A., Zambrano, F., Pérez-Martínez, W., Vidal-Páez, P., Molina, J., & de la Hoz Mardones, F. (2020). Time-Series of Vegetation Indices (VNIR/SWIR) Derived from Sentinel-2 (A/B) to Assess Turgor Pressure in Kiwifruit. ISPRS International Journal of Geo-Information, 9(11), 641. https://doi.org/10.3390/ijgi9110641"
+  },
+  {
+    "objectID": "publications/articles/articulo_jopia2020.html#citation-apa-7",
+    "href": "publications/articles/articulo_jopia2020.html#citation-apa-7",
+    "title": "Time-Series of Vegetation Indices (VNIR/SWIR) Derived from Sentinel-2 (A/B) to Assess Turgor Pressure in Kiwifruit",
+    "section": "",
+    "text": "Jopia, A., Zambrano, F., Pérez-Martínez, W., Vidal-Páez, P., Molina, J., & de la Hoz Mardones, F. (2020). Time-Series of Vegetation Indices (VNIR/SWIR) Derived from Sentinel-2 (A/B) to Assess Turgor Pressure in Kiwifruit. ISPRS International Journal of Geo-Information, 9(11), 641. https://doi.org/10.3390/ijgi9110641"
+  },
+  {
+    "objectID": "publications/articles/articulo_jopia2020.html#abstract",
+    "href": "publications/articles/articulo_jopia2020.html#abstract",
+    "title": "Time-Series of Vegetation Indices (VNIR/SWIR) Derived from Sentinel-2 (A/B) to Assess Turgor Pressure in Kiwifruit",
+    "section": "Abstract",
+    "text": "Abstract\nFor more than ten years, Central Chile has faced drought conditions, which impact crop production and quality, increasing food security risk. Under this scenario, implementing management practices that allow increasing water use efficiency is urgent. The study was carried out on kiwifruit trees, located in the O’Higgins region, Chile for season 2018–2019 and 2019–2020. We evaluate the time-series of nine vegetation indices in the VNIR and SWIR regions derived from Sentinel-2 (A/B) satellites to establish how much variability in the canopy water status there was. Over the study’s site, eleven sensors were installed in five trees, which continuously measured the leaf’s turgor pressure (Yara Water-Sensor). A strong Spearman’s (𝜌 ) correlation between turgor pressure and vegetation indices was obtained, having −0.88 with EVI and −0.81 with GVMI for season 2018–2019, and lower correlation for season 2019–2020, reaching −0.65 with Rededge1 and −0.66 with EVI. However, the NIR range’s indices were influenced by the vegetative development of the crop rather than its water status. The red-edge showed better performance as the vegetative growth did not affect it. It is necessary to expand the study to consider higher variability in kiwifruit’s water conditions and incorporate the sensitivity of different wavelengths."
+  },
+  {
+    "objectID": "publications/articles/articulo_duran-llacer2025b.html",
+    "href": "publications/articles/articulo_duran-llacer2025b.html",
+    "title": "Approach to mapping groundwater-dependent ecosystems through machine learning in central Chile",
+    "section": "",
+    "text": "Duran-Llacer, I., Gómez-Escalonilla Canales, V., Aliaga-Alvarado, M., Arumí, J.L., Zambrano, F., Rodríguez-López, L., Martínez-Retureta, R., Martínez-Santos, P., 2025. Approach to mapping groundwater-dependent ecosystems through machine learning in central Chile. Groundwater for Sustainable Development 31, 101526. https://doi.org/10.1016/j.gsd.2025.101526"
+  },
+  {
+    "objectID": "publications/articles/articulo_duran-llacer2025b.html#citation-apa-7",
+    "href": "publications/articles/articulo_duran-llacer2025b.html#citation-apa-7",
+    "title": "Approach to mapping groundwater-dependent ecosystems through machine learning in central Chile",
+    "section": "",
+    "text": "Duran-Llacer, I., Gómez-Escalonilla Canales, V., Aliaga-Alvarado, M., Arumí, J.L., Zambrano, F., Rodríguez-López, L., Martínez-Retureta, R., Martínez-Santos, P., 2025. Approach to mapping groundwater-dependent ecosystems through machine learning in central Chile. Groundwater for Sustainable Development 31, 101526. https://doi.org/10.1016/j.gsd.2025.101526"
+  },
+  {
+    "objectID": "publications/articles/articulo_duran-llacer2025b.html#abstract",
+    "href": "publications/articles/articulo_duran-llacer2025b.html#abstract",
+    "title": "Approach to mapping groundwater-dependent ecosystems through machine learning in central Chile",
+    "section": "Abstract",
+    "text": "Abstract\nGroundwater depletion can significantly impact the ecological integrity of groundwater-dependent ecosystems (GDEs). Identifying and mapping these ecosystems is essential for their effective management and conservation. This study presents a new probabilistic approach that uses machine learning techniques to predict the presence of GDEs zones in the Ligua and Petorca basins, central Chile. A comprehensive set of 21 spatially distributed explanatory variables related to GDEs occurrence was compiled. These include geology, topography, climate, and satellite-based indices. Using a dataset of 3067 GDEs presence/absence points, 16 supervised classification algorithms were trained and evaluated with randomly selected subsets containing 100 %, 75 %, 50 %, and 25 % of the original dataset. This analysis involved collinearity assessment, cross-validation, feature selection, and hyperparameter tuning. Tree-based ensemble models, including Random Forest (RFC), AdaBoost (ABC), Gradient Boosting (GBC), and ExtraTrees (ETC), consistently outperformed other classifiers. In all subsets, regardless of the number of samples included, the models obtained raw scores above 0.90 for metrics such as test score, F1 score and the area under the curve (AUC), with key predictor variables identified as distance to rivers, rainfall, and land use/land cover. The models show high predictive performance consistently exceeding 0.95 on the above metrics. The resulting GDEs map manages to identify areas with a high probability of GDEs presence, clearly differentiating these ecosystems from adjacent agricultural areas. This study provides a robust methodological framework for GDEs mapping and serves as a valuable tool to manage and protect groundwater and GDEs in arid and semi-arid environments."
+  },
+  {
+    "objectID": "publications.html",
+    "href": "publications.html",
+    "title": "Francisco Zambrano",
+    "section": "",
+    "text": "Home\n    Publications\n  \n\n\n\n   \n    \n    \n      Order By\n      Default\n      \n        Title\n      \n      \n        Author\n      \n      \n        Publication\n      \n      \n        Year\n      \n    \n  \n    \n      \n      \n    \n\n\n\n  \n    Approach to mapping groundwater-dependent ecosystems through machine learning in central Chile\n    Dura-Llacer et al.\n    Groundwater for Sustainable Development\n    (2025)\n    \n      Details\n    \n    \n    \n      DOI\n    \n    \n    \n    \n    \n       Materials\n    \n    \n  \n\n  \n    From Drought to Aridification: Land-cover fingerprints of a drying Chile\n    Zambrano et al.\n    Earth's Future (AGU)\n    (2025)\n    \n      Details\n    \n    \n    \n      DOI\n    \n    \n    \n    \n    \n       Materials\n    \n    \n  \n\n  \n    Influence of Avocado Plantations as Driver of Land Use and Land Cover Change in Chile’s Aconcagua Basin\n    Dura-Llacer et al.\n    Land\n    (2025)\n    \n      Details\n    \n    \n    \n      DOI\n    \n    \n    \n    \n    \n       Materials\n    \n    \n  \n\n  \n    Prediction of the daily spatial variation of stem water potential in cherry orchards using weather and Sentinel-2 data\n    Zambrano et al.\n    Agricultural Water Managament\n    (2025)\n    \n      Details\n    \n    \n    \n      DOI\n    \n    \n    \n    \n  \n\n  \n    Four Decades of Satellite Data for Agricultural Drought Monitoring throughout the Growing Season in Central Chile\n    Zambrano, Francisco\n    Integrated Drought Management, Volume 2\n    (2023)\n    \n      Details\n    \n    \n    \n      DOI\n    \n    \n    \n    \n    \n       Materials\n    \n    \n  \n\n  \n    The economics impacts of long-run droughts: Challenges, gaps, and way forward\n    Fernández et al.\n    Journal of Environmental Management\n    (2023)\n    \n      Details\n    \n    \n    \n      DOI\n    \n    \n    \n    \n    \n       Materials\n    \n    \n  \n\n  \n    Time-Series of Vegetation Indices (VNIR/SWIR) Derived from Sentinel-2 (A/B) to Assess Turgor Pressure in Kiwifruit\n    Jopia et al.\n     ISPRS International Journal of Geo-Information \n    (2020)\n    \n      Details\n    \n    \n    \n      DOI\n    \n    \n    \n    \n    \n       Materials\n    \n    \n  \n\n  \n    Water availability, quality, and use in rural communities of the Chilean Coastal Range\n    Rivas et al.\n    Journal of Soil and Water Conservation\n    (2020)\n    \n      Details\n    \n    \n    \n      DOI\n    \n    \n    \n    \n    \n       Materials\n    \n    \n  \n\n  \n    Prediction of drought-induced reduction of agricultural productivity in Chile from MODIS, rainfall estimates, and climate oscillation indices\n    Zambrano et al.\n    Remote Sensing of Environment\n    (2018)\n    \n      Details\n    \n    \n    \n      DOI\n    \n    \n    \n    \n    \n       Materials\n    \n    \n  \n\n  \n    Evaluating satellite-derived long-term historical precipitation datasets for drought monitoring in Chile\n    Zambrano et al.\n    Atmospheric Research\n    (2017)\n    \n      Details\n    \n    \n    \n      DOI\n    \n    \n    \n    \n    \n       Materials\n    \n    \n  \n\n  \n    Sixteen Years of Agricultural Drought Assessment of the BioBío Region in Chile Using a 250 m Resolution Vegetation Condition Index (VCI)\n    Zambrano et al.\n    Remote Sensing\n    (2016)\n    \n      Details\n    \n    \n    \n      DOI\n    \n    \n    \n    \n    \n       Materials\n    \n    \n  \n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "posts/2025-08-22-ENSO_match_score_pattern/index.html",
+    "href": "posts/2025-08-22-ENSO_match_score_pattern/index.html",
+    "title": "Precipitation spatial pattern expected by ENSO",
+    "section": "",
+    "text": "Michelle L’Heureux’s post on LinkedIn (post here) a few months ago inspired me to replicate it for Chile. At the same time, that post is based on a scientific article published in the journal “Bulletin of the American Meteorological Society”. You can access the article at this link.\nThe figure that got my attention was this one:\n\nThe figure shows the match score versus the Oceanin Niño Index from 1959 to 2024. The “match score” reflected how well the expected spatial pattern of precipitation was modeled based on ENSO (using ONI in this case), adjusted to the observed spatial pattern. For this it used what is called the “pattern correlation”, which, simply, is the linear correlation between all the pixels between precipitation expected (based on ONI) and the observed precipitation. Therefore, as it is a correlation, the Pearson correlation (r) is calculated, which, if it is positive (near 1), reflects a high association with the El Niño spatial pattern, but if the values are negative (near -1), the association is more related to the La Niña spatial pattern. Finally, the plot shows the correlation between the ONI and this match score; in the case of the US, it got an r=0.78.\nIn simple terms, the result means that for the US, when it is under El Niño (ONI&gt;0.5), for example, for winter 2023–24, the spatial pattern has a better fit with the expected precipitation winter pattern (based on ENSO), as the ONI is stronger, as shown in this figure:\n\nWhen the winter is under La Niña (ONI &lt; -0.5), the same thing happens but in the opposite direction; as the La Niña is stronger (more negative), the spatial pattern achieves a higher match score. However, when the winter year is classified as neutral (-0.5 &lt; ONI &lt; 0.5), the match score generally does not indicate a good fit for either La Niña or El Niño, as expected.\nTherefore, my initial question was, how does this pattern work for Chile? To achieve this and ensure that my analysis is correct, I first remade it for the US. The next figure shows my result.\n\nI got an r=0.76 in comparison with the r=0.78 in the article (Fig. 3 here]. But my analysis was based on 1959-2022 instead of 1959-2024, and I used ERA5-Land data. Nevertheless, the two figures are quite similar. Then, I can have trust regarding my approach.\nNow, I made the analysis for winter Chile (June, July, and August), and what I’ve got is shown in the next figure:\n\nTwo things that got my attention on this figure are:\n\nWhat is shown for neutral ENSO conditions and,\nWhat showed the years since 2010\n\nThe correlation between ONI and the match score in this case is r=0.4, mostly due to what is happening under neutral conditions. When conditions are El Niño or La Niña, the match scores tend to align with the expected spatial pattern. But, in neutral conditions, the pattern could be highly aligned with El Niño or La Niña, which are mostly equally likely. But if we consider the years since 2010 (dots in orange), a period that has been called a “megadrought,” we can see that all the years have been aligned with La Niña, except 2020, and 2015 (Niño Godzilla) has no correlation between ONI and match score.\nIn summary, the expected spatial pattern of winter precipitation in the US, based on ENSO, shows a strong correlation with the observed patterns for Niño, Niña, and neutral conditions. For Chile, the correlation is higher for Niño and Niña, but under neutral conditions anything could happen. What has been happening since 2010 is that for neutral and Niña, the pattern is associated with what is expected for Niña. Moreover, the 2015 event, which was called the Niño Godzilla due to its magnitude, did not align with the expected Niño pattern.\nAs an example, these are the expected precipitation anomaly (JJA) patterns for 1997 (Niño) and 1998 (Niña) over central Chile.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nFinally, the plots for the US and Chile combined,"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Francisco Zambrano",
+    "section": "",
+    "text": "Francisco Zambrano Spatial Data Scientist in Agriculture & Water Resources"
+  },
+  {
+    "objectID": "index.html#bio",
+    "href": "index.html#bio",
+    "title": "Francisco Zambrano",
+    "section": "Bio",
+    "text": "Bio\n\nI am a spatial data scientist and researcher based in Santiago, Chile. My work focuses on environmental sciences, particularly the intersection of climate variability, drought monitoring, water resource management, and agriculture. I specialize in using remote sensing, geospatial analysis, and climate data to understand how environmental changes impact agriculture and ecosystems. I hold a doctorate in agricultural engineer and have published on topics such as vegetation dynamics, long-term drought assessments, and land use change. My research has been cited widely and contributes to both academic knowledge and practical decision-making in climate resilience and sustainable land management. Whether through scientific publications, collaborative projects, or open-source development, My aim is to bridge the gap between data, science, and policy to support more informed environmental decisions."
+  },
+  {
+    "objectID": "conferences/articulo_zambrano2025.html",
+    "href": "conferences/articulo_zambrano2025.html",
+    "title": "Shifts in water supply and demand shape land cover change across Chile",
+    "section": "",
+    "text": "Zambrano, F., Vrieling, A., Meza, F., Duran-Llacer, I., Fernández, F., Venegas-González, A., Raab, N., and Craven, D.: Shifts in water supply and demand shape land cover change across Chile, EGU General Assembly 2025, Vienna, Austria, 27 Apr–2 May 2025, EGU25-20588, https://doi.org/10.5194/egusphere-egu25-20588, 2025."
+  },
+  {
+    "objectID": "conferences/articulo_zambrano2025.html#citation-apa-7",
+    "href": "conferences/articulo_zambrano2025.html#citation-apa-7",
+    "title": "Shifts in water supply and demand shape land cover change across Chile",
+    "section": "",
+    "text": "Zambrano, F., Vrieling, A., Meza, F., Duran-Llacer, I., Fernández, F., Venegas-González, A., Raab, N., and Craven, D.: Shifts in water supply and demand shape land cover change across Chile, EGU General Assembly 2025, Vienna, Austria, 27 Apr–2 May 2025, EGU25-20588, https://doi.org/10.5194/egusphere-egu25-20588, 2025."
+  },
+  {
+    "objectID": "conferences/articulo_zambrano2025.html#abstract",
+    "href": "conferences/articulo_zambrano2025.html#abstract",
+    "title": "Shifts in water supply and demand shape land cover change across Chile",
+    "section": "Abstract",
+    "text": "Abstract\nGlobally, droughts are becoming longer, more frequent, and more severe, and their impacts are multidimensional. These impacts typically extend beyond the water balance, as long-term, cumulative changes in the water balance can lead to regime shifts in land cover. Here, we assess the effects of temporal changes in water supply and demand over multiple time scales on vegetation productivity and land cover changes in continental Chile, which has experienced a severe drought since 2010. Across most of continental Chile, we observed a persistent negative trend in water supply and a positive trend in atmospheric water demand since 2000. However, in water-limited ecoregions, we have observed a negative temporal trend in the water demand of vegetation, which intensified over longer time scales. This long-term decrease in water availability and the shift in water demand have led to a decrease in vegetation productivity, especially for the Chilean Matorral and the Valdivian temperate forest ecoregions. We found that this decrease is primarily associated with drought indices associated with soil moisture and actual evapotranspiration at time scales of up to 12 months. Further, our results indicate that drought intensity explains up to 78% of temporal changes in the area of shrublands and 40% of the area of forests across all ecoregions, while the burned area explained 70% of the temporal changes in the area of croplands. Our results suggest that the impacts of long-term climate change on ecosystems will extend to drought-tolerant vegetation types, necessitating the development of context-specific adaptation strategies for agriculture, biodiversity conservation and natural resource management."
+  },
+  {
+    "objectID": "conferences/articulo_zambrano2024b.html",
+    "href": "conferences/articulo_zambrano2024b.html",
+    "title": "Comparison of crop water demand derived from sen-ET for orchards within the Aconcagua’s river basin in Chile",
+    "section": "",
+    "text": "Zambrano, F., Vidal-Páez, P., & Hernández, B. (2024). Comparison of crop water demand derived from sen-ET for orchards within the Aconcagua’s river basin in Chile. IGARSS 2024 - 2024 IEEE International Geoscience and Remote Sensing Symposium, 3631–3634. https://doi.org/10.1109/IGARSS53475.2024.10642732"
+  },
+  {
+    "objectID": "conferences/articulo_zambrano2024b.html#citation-apa-7",
+    "href": "conferences/articulo_zambrano2024b.html#citation-apa-7",
+    "title": "Comparison of crop water demand derived from sen-ET for orchards within the Aconcagua’s river basin in Chile",
+    "section": "",
+    "text": "Zambrano, F., Vidal-Páez, P., & Hernández, B. (2024). Comparison of crop water demand derived from sen-ET for orchards within the Aconcagua’s river basin in Chile. IGARSS 2024 - 2024 IEEE International Geoscience and Remote Sensing Symposium, 3631–3634. https://doi.org/10.1109/IGARSS53475.2024.10642732"
+  },
+  {
+    "objectID": "conferences/articulo_zambrano2024b.html#abstract",
+    "href": "conferences/articulo_zambrano2024b.html#abstract",
+    "title": "Comparison of crop water demand derived from sen-ET for orchards within the Aconcagua’s river basin in Chile",
+    "section": "Abstract",
+    "text": "Abstract\nEstimating the actual evapotranspiration of a crop (ET) is essential to determining the availability of water that plants need for proper growth. For this, remote sensors have an important role since they allow obtaining the daily ET of the crops. This research presents the estimate of ET, calculated using data from the Sentinel-2 and Sentinel-3 satellites, ERA-5 reanalysis data, land cover, and the Digital Elevation Model. For this, we used the algorithm Sen-ET. The ET was estimated in the five main orchards regarding the surface planted in the Aconcagua’s river basin (avocado, walnut, mandarin, grape vine, and peach). The period of time analyzed was from September 2022 to May 2023. We evaluate the spatio-temporal variation and calculate the total ET for the season per crop. Avocados reach the highest ET with 114.6 mm/season. The rest of the crops had between 95.4% and 83.3% of the demand for avocado. This study is the first approach to using sen-ET to evaluate the water requirements of crops in Chile. We need to advance further to improve the input data used (e.g., landcover) and validate the results."
+  },
+  {
+    "objectID": "conferences/articulo_zambrano2023.html",
+    "href": "conferences/articulo_zambrano2023.html",
+    "title": "Water supply and demand drought indices to assess its impact over land cover change and vegetation development in continental Chile for 2000-2023 by ERA5-Land and MODIS datasets",
+    "section": "",
+    "text": "Zambrano, F., Meza, F., & Raab, N. (2023). Water supply and demand drought indices to assess its impact over land cover change and vegetation development in continental Chile for 2000-2023 by ERA5-Land and MODIS datasets. 2023, H43F-2151. https://ui.adsabs.harvard.edu/abs/2023AGUFM.H43F2151Z"
+  },
+  {
+    "objectID": "conferences/articulo_zambrano2023.html#citation-apa-7",
+    "href": "conferences/articulo_zambrano2023.html#citation-apa-7",
+    "title": "Water supply and demand drought indices to assess its impact over land cover change and vegetation development in continental Chile for 2000-2023 by ERA5-Land and MODIS datasets",
+    "section": "",
+    "text": "Zambrano, F., Meza, F., & Raab, N. (2023). Water supply and demand drought indices to assess its impact over land cover change and vegetation development in continental Chile for 2000-2023 by ERA5-Land and MODIS datasets. 2023, H43F-2151. https://ui.adsabs.harvard.edu/abs/2023AGUFM.H43F2151Z"
+  },
+  {
+    "objectID": "conferences/articulo_zambrano2023.html#abstract",
+    "href": "conferences/articulo_zambrano2023.html#abstract",
+    "title": "Water supply and demand drought indices to assess its impact over land cover change and vegetation development in continental Chile for 2000-2023 by ERA5-Land and MODIS datasets",
+    "section": "Abstract",
+    "text": "Abstract\nCentral Chile has been affected by a persistent drought which is impacting the hydrological system and vegetation development. The region has been the focus of research studies due to a persistent period of water scarcity which has been defined as a “mega drought”. Our goal is to analyze the impact of drought, measured by drought indices of water supply/demand in the LULCC (land use land cover change) and vegetation development, over continental Chile. We divided Continental Chile into five zones according to a latitudinal gradient: “Norte Grande”, “Norte Chico”, “Zona Central”, “Zona Sur”, and “Zona Austral”. We used monthly climatic reanalysis variables for precipitation, temperature, and soil moisture for 1981-2023 from ERA5-Land; and MODIS (Moderate-Resolution Imaging Spectroradiometer) product MCD12Q1 for land cover for 2001-2021, and the NDVI vegetation index from product MOD13A2 for 2000-2023, both from collection 6.1. We derived the drought indices SPI (Standardized Precipitation Index), SPEI (Standardized Precipitation Evapotranspiration Index), EDDI (Evaporative Demand Drought Index), zcSM (standardized anomaly of cumulative soil moisture), and the zcNDVI (standardized anomaly of cumulative NDVI). These indices were calculated for time scales between 1 and 36 months, except for zcNDVI (&lt; 6 months). We analyzed the temporal correlation of SPI, SPEI, EDDI, and zcSM with zcNDVI. Our results show that the EDDI was the least correlated index for the five macro zones and the five types of land cover, showing that the variation of temperature in Chile has had little impact on vegetation development. Higher r-squared values, between 0.5 and 0.8, were reached at “Norte Chico” and “Zona Central” for the land cover types of savanna, shrubland, grassland, and croplands for the indices SPEI and zcSM at time scales of 12 and 24 months. The results indicate that the “Norte Chico” and “Zona Central” are the most sensitive to water supply."
+  },
+  {
+    "objectID": "conferences/articulo_meza2023.html",
+    "href": "conferences/articulo_meza2023.html",
+    "title": "Multivariate Drought Index Combining Meteorological Information, Remote Sensing data and >Biophysical Crop Simulation Models: Application in the Araucanía Region, Chile",
+    "section": "",
+    "text": "Meza, F., Raab, N., & Zambrano, F. (2023). Multivariate Drought Index Combining Meteorological Information, Remote Sensing data and &gt;Biophysical Crop Simulation Models: Application in the Araucanía Region, Chile. 2023, H43F-2148. https://ui.adsabs.harvard.edu/abs/2023AGUFM.H43F2148M"
+  },
+  {
+    "objectID": "conferences/articulo_meza2023.html#citation-apa-7",
+    "href": "conferences/articulo_meza2023.html#citation-apa-7",
+    "title": "Multivariate Drought Index Combining Meteorological Information, Remote Sensing data and >Biophysical Crop Simulation Models: Application in the Araucanía Region, Chile",
+    "section": "",
+    "text": "Meza, F., Raab, N., & Zambrano, F. (2023). Multivariate Drought Index Combining Meteorological Information, Remote Sensing data and &gt;Biophysical Crop Simulation Models: Application in the Araucanía Region, Chile. 2023, H43F-2148. https://ui.adsabs.harvard.edu/abs/2023AGUFM.H43F2148M"
+  },
+  {
+    "objectID": "conferences/articulo_meza2023.html#abstract",
+    "href": "conferences/articulo_meza2023.html#abstract",
+    "title": "Multivariate Drought Index Combining Meteorological Information, Remote Sensing data and >Biophysical Crop Simulation Models: Application in the Araucanía Region, Chile",
+    "section": "Abstract",
+    "text": "Abstract\nDroughts are extreme meteorological events that can cause profound impact on socioeconomic activities and ecosystems. The ongoing Megadrought in Central Chile (starting in 2010) has risen the attention of researchers and policy makers as it has negatively affected the Central region of the country as no other drought during the last century, and its expansion southwards is unprecedented from 1950 on. Climate change projections indicate that drought will become more severe and frequent in the coming decades, thus the need to improve early waring systems and monitoring tools that help to understand and anticipate their consequences has become a national priority.\nOne key element has been the implementation of drought indices such as the Standardized Precipitation Index and the Standardized Soil Moisture Index. However these indices have limitations and do not capture the real magnitude of the impacts on sensible sectors like agriculture, being necessary to improve them and complement their information with data that captures the behaviour of vegetation under limiting water availability.\nHere we combine existing meteorological indices with remote sensing about vegetation, via an accumulated value of NDVI, and results from a biophysical model that represents the growth and development of annual crops.\nWe apply this framework in the Araucanía Region that holds 40% of the production of economically important annual crops (wheat, oats, barley) of the country. The multivariate drought index is tested against historical records of regional yields available since 1980 outperforming purely based meteorological indices withy Pearson correlation values greater than 0.75.\nIn addition, this multivariate index can be easily adapted to produce forecasts of future yields being run with observed data of accumulated NDVI and seasonal climate forecasts generating actionable information for resource mobilization and drought risk management."
+  },
+  {
+    "objectID": "conferences/articulo_duran-llacer2024.html",
+    "href": "conferences/articulo_duran-llacer2024.html",
+    "title": "Analysis of Drought in Agriculture and Natural Vegetation Areas in Central Chile",
+    "section": "",
+    "text": "Duran-Llacer, I., Zambrano, F., Rodríguez-López, L., Martínez-Retureta, R., & Arumí, J. L. (2024). Analysis of Drought in Agriculture and Natural Vegetation Areas in Central Chile. IGARSS 2024 - 2024 IEEE International Geoscience and Remote Sensing Symposium, 3643–3646. https://doi.org/10.1109/IGARSS53475.2024.10642727"
+  },
+  {
+    "objectID": "conferences/articulo_duran-llacer2024.html#citation-apa-7",
+    "href": "conferences/articulo_duran-llacer2024.html#citation-apa-7",
+    "title": "Analysis of Drought in Agriculture and Natural Vegetation Areas in Central Chile",
+    "section": "",
+    "text": "Duran-Llacer, I., Zambrano, F., Rodríguez-López, L., Martínez-Retureta, R., & Arumí, J. L. (2024). Analysis of Drought in Agriculture and Natural Vegetation Areas in Central Chile. IGARSS 2024 - 2024 IEEE International Geoscience and Remote Sensing Symposium, 3643–3646. https://doi.org/10.1109/IGARSS53475.2024.10642727"
+  },
+  {
+    "objectID": "conferences/articulo_duran-llacer2024.html#abstract",
+    "href": "conferences/articulo_duran-llacer2024.html#abstract",
+    "title": "Analysis of Drought in Agriculture and Natural Vegetation Areas in Central Chile",
+    "section": "Abstract",
+    "text": "Abstract\nSince 2010, central Chile has been experiencing a megadrought that has affected the hydrological cycle, agriculture, and people. This phenomenon can not only affect the agriculture but can also impact the sustainability of ecosystems. Therefore, the objective of this research is to preliminarily analyze the response of agricultural and natural vegetation areas to the megadrought in the Aconcagua basin. The Normalized Difference Vegetation Index (NDVI) was obtained in Google Earth Engine and a drought index was calculated. Finally, statistical analyzes were carried out. The drought effect was evidenced in the study basin (r ≥ 0.5), mainly in natural vegetation areas, and a tendency of NDVI to decrease was reflected. Therefore, a sustainable management of water resources and ecosystems in the Aconcagua River is essential in the face of drought processes."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About me",
+    "section": "",
+    "text": "Francisco Zambrano is a spatial data scientist and researcher based in Santiago, Chile. His work focuses on environmental sciences, particularly the intersection of climate variability, drought monitoring, and water resource management. I specialize in using remote sensing, geospatial analysis, and climate data to understand how environmental changes impact ecosystems and agriculture. He hold a doctorate in agricultural engineer and have published extensively on topics such as vegetation dynamics, long-term drought assessments, and land use change. His research has been cited widely and contributes to both academic knowledge and practical decision-making in climate resilience and sustainable land management. Whether through scientific publications, collaborative projects, or open-source development, He aim to bridge the gap between data, science, and policy to support more informed environmental decisions."
+  },
+  {
+    "objectID": "about.html#bio",
+    "href": "about.html#bio",
+    "title": "About me",
+    "section": "",
+    "text": "Francisco Zambrano is a spatial data scientist and researcher based in Santiago, Chile. His work focuses on environmental sciences, particularly the intersection of climate variability, drought monitoring, and water resource management. I specialize in using remote sensing, geospatial analysis, and climate data to understand how environmental changes impact ecosystems and agriculture. He hold a doctorate in agricultural engineer and have published extensively on topics such as vegetation dynamics, long-term drought assessments, and land use change. His research has been cited widely and contributes to both academic knowledge and practical decision-making in climate resilience and sustainable land management. Whether through scientific publications, collaborative projects, or open-source development, He aim to bridge the gap between data, science, and policy to support more informed environmental decisions."
+  },
+  {
+    "objectID": "conferences.html",
+    "href": "conferences.html",
+    "title": "Francisco Zambrano",
+    "section": "",
+    "text": "Home\n    Publications\n  \n\n\n\n   \n    \n    \n      Order By\n      Default\n      \n        Title\n      \n      \n        Author\n      \n      \n        Publication\n      \n      \n        Year\n      \n    \n  \n    \n      \n      \n    \n\n\n\n  \n    Shifts in water supply and demand shape land cover change across Chile\n    Zambrano et al.\n    EGU General Assembly 2025\n    (2025)\n    \n      Details\n    \n    \n    \n      DOI\n    \n    \n    \n    \n    \n       Materials\n    \n    \n  \n\n  \n    Analysis of Drought in Agriculture and Natural Vegetation Areas in Central Chile\n    Duran-Llacer et al.\n    IGARSS 2024\n    (2024)\n    \n      Details\n    \n    \n    \n      DOI\n    \n    \n    \n    \n    \n       Materials\n    \n    \n  \n\n  \n    Assessment of drought in continental Chile for 1981–2023 by climate variables of water supply and demand, soil moisture, and vegetation\n    Zambrano et al.\n    IGARSS 2024\n    (2024)\n    \n      Details\n    \n    \n    \n      DOI\n    \n    \n    \n    \n    \n       Materials\n    \n    \n  \n\n  \n    Comparison of crop water demand derived from sen-ET for orchards within the Aconcagua’s river basin in Chile\n    Zambrano et al.\n    IGARSS 2024\n    (2024)\n    \n      Details\n    \n    \n    \n      DOI\n    \n    \n    \n    \n    \n       Materials\n    \n    \n  \n\n  \n    Drought's trends over continental Chile using climatic variables of water demand and supply, soil moisture, and vegetation productivity\n    Zambrano et al.\n    EGU General Assembly 2024\n    (2024)\n    \n      Details\n    \n    \n    \n      DOI\n    \n    \n    \n    \n    \n       Materials\n    \n    \n  \n\n  \n    The response of Groundwater-Dependent Ecosystems to drought in central Chile\n    Duran-Llacer et al.\n    EGU General Assembly 2024\n    (2024)\n    \n      Details\n    \n    \n    \n      DOI\n    \n    \n    \n    \n    \n       Materials\n    \n    \n  \n\n  \n    Multivariate Drought Index Combining Meteorological Information, Remote Sensing data and &gt;Biophysical Crop Simulation Models: Application in the Araucanía Region, Chile\n    Meza et al.\n    AGU Fall Meeting 2023\n    (2023)\n    \n      Details\n    \n    \n    \n    \n    \n       Materials\n    \n    \n  \n\n  \n    Water supply and demand drought indices to assess its impact over land cover change and vegetation development in continental Chile for 2000-2023 by ERA5-Land and MODIS datasets\n    Zambrano et al.\n    AGU Fall Meeting 2023\n    (2023)\n    \n      Details\n    \n    \n    \n    \n    \n       Materials\n    \n    \n  \n\n  \n    Prediction of agricultural drought in Chile from multiple spatio-temporal data sources\n    Zambrano et al.\n    AGU Fall Meeting 2018\n    (2018)\n    \n      Details\n    \n    \n    \n    \n    \n       Materials\n    \n    \n  \n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "conferences/articulo_duran-llacer2024b.html",
+    "href": "conferences/articulo_duran-llacer2024b.html",
+    "title": "The response of Groundwater-Dependent Ecosystems to drought in central Chile",
+    "section": "",
+    "text": "Duran-Llacer, I., Zambrano, F., Gómez-Escalonilla Canales, V., Martínez Santos, P., Aliagada Alvarado, M., Rodríguez-López, L., Martínez-Retureta, R., and Arumí, J. L.: The response of Groundwater-Dependent Ecosystems to drought in central Chile, EGU General Assembly 2024, Vienna, Austria, 14–19 Apr 2024, EGU24-20738, https://doi.org/10.5194/egusphere-egu24-20738, 2024."
+  },
+  {
+    "objectID": "conferences/articulo_duran-llacer2024b.html#citation-apa-7",
+    "href": "conferences/articulo_duran-llacer2024b.html#citation-apa-7",
+    "title": "The response of Groundwater-Dependent Ecosystems to drought in central Chile",
+    "section": "",
+    "text": "Duran-Llacer, I., Zambrano, F., Gómez-Escalonilla Canales, V., Martínez Santos, P., Aliagada Alvarado, M., Rodríguez-López, L., Martínez-Retureta, R., and Arumí, J. L.: The response of Groundwater-Dependent Ecosystems to drought in central Chile, EGU General Assembly 2024, Vienna, Austria, 14–19 Apr 2024, EGU24-20738, https://doi.org/10.5194/egusphere-egu24-20738, 2024."
+  },
+  {
+    "objectID": "conferences/articulo_duran-llacer2024b.html#abstract",
+    "href": "conferences/articulo_duran-llacer2024b.html#abstract",
+    "title": "The response of Groundwater-Dependent Ecosystems to drought in central Chile",
+    "section": "Abstract",
+    "text": "Abstract\nDrought is considered the main climate limitation that affects the hydrological cycle, agriculture, people, and ecosystems. Since 2010, central Chile has been experiencing an uninterrupted sequence of dry years that has been classified as a megadrought, which has conditioned major social problems. This problem can’t only affect agriculture, people, and access to drinking water in Chilean basins, but it can also affect the ecological integrity of ecosystems, particularly those known as groundwater-dependent ecosystems (GDE). The main objective of this research is to examine the relationship between groundwater-dependent ecosystems and drought using satellite data in the Aconcagua basin in central Chile.\nStandardized Precipitation Index (SPI), Standardized Evapotranspiration Index (SPEI), Normalized Difference Vegetation Index (NDVI) and Land Surface Temperature (LST) were calculated to analyses relationship between groundwater-dependent ecosystem and drought. In addition, these parameters were analysed throughout the basin. To obtain and process these indicators between the years 2002 and 2022, the Google Earth Engine platform and the R environment were used. Subsequently, statistical analysis of the time series was performed, including Pearson correlation, Mann Kendall test, and Sen slope estimator. The results show that the SPI-SPEI at 12-24 months had a moderate correlation with the NDVI in much of the basin (&gt;4) and high in the GDEs (&gt;0.5). The slope of the Sen was more pronounced in the GDE zones, and the trend was decreasing with respect to the NDVI. LST and SPEI increased in the GDEs. In conclusion, the GDE zones were affected by drought processes, which demonstrates the need for sustainable management of these important ecosystems."
+  },
+  {
+    "objectID": "conferences/articulo_zambrano2018.html",
+    "href": "conferences/articulo_zambrano2018.html",
+    "title": "Prediction of agricultural drought in Chile from multiple spatio-temporal data sources",
+    "section": "",
+    "text": "Zambrano, F., Vrieling, A., Nelson, A., Meroni, M., & Tadesse, T. (2018). Prediction of agricultural drought in Chile from multiple spatio-temporal data sources. 2018, GC51H-0882. https://ui.adsabs.harvard.edu/abs/2018AGUFMGC51H0882Z"
+  },
+  {
+    "objectID": "conferences/articulo_zambrano2018.html#citation-apa-7",
+    "href": "conferences/articulo_zambrano2018.html#citation-apa-7",
+    "title": "Prediction of agricultural drought in Chile from multiple spatio-temporal data sources",
+    "section": "",
+    "text": "Zambrano, F., Vrieling, A., Nelson, A., Meroni, M., & Tadesse, T. (2018). Prediction of agricultural drought in Chile from multiple spatio-temporal data sources. 2018, GC51H-0882. https://ui.adsabs.harvard.edu/abs/2018AGUFMGC51H0882Z"
+  },
+  {
+    "objectID": "conferences/articulo_zambrano2018.html#abstract",
+    "href": "conferences/articulo_zambrano2018.html#abstract",
+    "title": "Prediction of agricultural drought in Chile from multiple spatio-temporal data sources",
+    "section": "Abstract",
+    "text": "Abstract\nGlobal food security is negatively affected by drought. Climate projections show that drought frequency and intensity may increase in different parts of the globe. Early season forecasts on drought occurrence and severity could help to better mitigate the negative consequences of drought. The objective of this study was to assess if interannual variability in agricultural productivity in Chile can be accurately predicted from freely-available, near real-time data sources. As the response variable, we used the standard score of seasonal cumulative NDVI (zcNDVI), based on 2000-2017 data from Moderate Resolution Imaging Spectroradiometer (MODIS), as a proxy for anomalies of seasonal primary productivity. The predictions were performed with forecast lead-times from one- to six-month before the end of the growing season, which varied between census units in Chile. Predictor variables included the zcNDVI obtained by cumulating NDVI from season start up to prediction time; standardised precipitation indices, derived from satellite rainfall estimates, for time-scales of 1, 3, 6, 12 and 24 months; the Pacific Decadal Oscillation and the Multivariate ENSO oscillation indices; the length of the growing season, and latitude and longitude. We used two prediction approaches: (i) optimal linear regression (OLR) whereby for each census unit the single predictor was selected that best explained the interannual zcNDVI variability, and (ii) a multi-layer feedforward neural network architecture, often called deep learning (DL), where all predictors for all units were combined in a single spatio-temporal model. Both approaches were evaluated with a leave-one-year-out cross-validation procedure. Both methods showed good prediction accuracies for small lead times and similar values for all lead times. The mean R2cv values for OLR were 0.95, 0.83, 0.68, 0.56, 0.46 and 0.37, against 0.96, 0.84, 0.65, 0.54, 0.46 and 0.38 for DL, for one, two, three, four, five, and six months lead time, respectively. Given the wide range of climates and vegetation types covered within the study area, we expect that the presented models can contribute to an improved early warning system for agricultural drought in different geographical settings around the globe."
+  },
+  {
+    "objectID": "conferences/articulo_zambrano2024.html",
+    "href": "conferences/articulo_zambrano2024.html",
+    "title": "Assessment of drought in continental Chile for 1981–2023 by climate variables of water supply and demand, soil moisture, and vegetation",
+    "section": "",
+    "text": "Zambrano, F., & Duran-Llacer, I. (2024). Assessment of drought in continental Chile for 1981–2023 by climate variables of water supply and demand, soil moisture, and vegetation. IGARSS 2024 - 2024 IEEE International Geoscience and Remote Sensing Symposium, 2764–2768. https://doi.org/10.1109/IGARSS53475.2024.10641240"
+  },
+  {
+    "objectID": "conferences/articulo_zambrano2024.html#citation-apa-7",
+    "href": "conferences/articulo_zambrano2024.html#citation-apa-7",
+    "title": "Assessment of drought in continental Chile for 1981–2023 by climate variables of water supply and demand, soil moisture, and vegetation",
+    "section": "",
+    "text": "Zambrano, F., & Duran-Llacer, I. (2024). Assessment of drought in continental Chile for 1981–2023 by climate variables of water supply and demand, soil moisture, and vegetation. IGARSS 2024 - 2024 IEEE International Geoscience and Remote Sensing Symposium, 2764–2768. https://doi.org/10.1109/IGARSS53475.2024.10641240"
+  },
+  {
+    "objectID": "conferences/articulo_zambrano2024.html#abstract",
+    "href": "conferences/articulo_zambrano2024.html#abstract",
+    "title": "Assessment of drought in continental Chile for 1981–2023 by climate variables of water supply and demand, soil moisture, and vegetation",
+    "section": "Abstract",
+    "text": "Abstract\nA persistent drought is impacting Chile. It affects the hydrological system and vegetation development. Research studies have focused on the central part of the country. This is due to a persistent period of water scarcity. This scarcity has been found to be a megadrought. This megadrought was defined by the Standardized Precipitation Index (SPI) of twelve months in December. The SPI only considers precipitation as a drought indicator. It does not account for atmospheric evaporative demand (AED), soil moisture, or their combined vegetation productivity. We present a developing database (DDS4Chl) of drought indices for continental Chile since 1981. The indices measure water demand, supply and its impact on vegetation. We derived the SPI for water demand. We also derived the Evaporative Demand Drought Index (EDDI) for water supply. The Standardized Precipitation Evapotranspiration Index (SPEI) shows the combined effect of AED and precipitation. We estimate the standardized anomaly of cumulative soil moisture at one meter (zcSM) and the standardized anomaly of cumulative NDVI (zcNDVI) to show the impact of water demand and supply. We present the historical linear trend of the drought indices in continental Chile. Also we calculated the temporal correlation between the indices of water supply and demand, and soil moisture with the zcNDVI (proxy of vegetation productivity). The dought index for soil moisture acummulated at 12 months (zcSM-12) showed to be the best predictor of vegetation productivity around continental Chile."
+  },
+  {
+    "objectID": "conferences/articulo_zambrano2024c.html",
+    "href": "conferences/articulo_zambrano2024c.html",
+    "title": "Drought’s trends over continental Chile using climatic variables of water demand and supply, soil moisture, and vegetation productivity",
+    "section": "",
+    "text": "Zambrano, F., Meza, F., Raab, N., and Duran-Llacer, I.: Drought’s trends over continental Chile using climatic variables of water demand and supply, soil moisture, and vegetation productivity, EGU General Assembly 2024, Vienna, Austria, 14–19 Apr 2024, EGU24-19099, https://doi.org/10.5194/egusphere-egu24-19099, 2024."
+  },
+  {
+    "objectID": "conferences/articulo_zambrano2024c.html#citation-apa-7",
+    "href": "conferences/articulo_zambrano2024c.html#citation-apa-7",
+    "title": "Drought’s trends over continental Chile using climatic variables of water demand and supply, soil moisture, and vegetation productivity",
+    "section": "",
+    "text": "Zambrano, F., Meza, F., Raab, N., and Duran-Llacer, I.: Drought’s trends over continental Chile using climatic variables of water demand and supply, soil moisture, and vegetation productivity, EGU General Assembly 2024, Vienna, Austria, 14–19 Apr 2024, EGU24-19099, https://doi.org/10.5194/egusphere-egu24-19099, 2024."
+  },
+  {
+    "objectID": "conferences/articulo_zambrano2024c.html#abstract",
+    "href": "conferences/articulo_zambrano2024c.html#abstract",
+    "title": "Drought’s trends over continental Chile using climatic variables of water demand and supply, soil moisture, and vegetation productivity",
+    "section": "Abstract",
+    "text": "Abstract\nEstimating the actual evapotranspiration of a crop (ET) is essential to determining the availability of water that plants need for proper growth. For this, remote sensors have an important role since they allow obtaining the daily ET of the crops. This research presents the estimate of ET, calculated using data from the Sentinel-2 and Sentinel-3 satellites, ERA-5 reanalysis data, land cover, and the Digital Elevation Model. For this, we used the algorithm Sen-ET. The ET was estimated in the five main orchards regarding the surface planted in the Aconcagua’s river basin (avocado, walnut, mandarin, grape vine, and peach). The period of time analyzed was from September 2022 to May 2023. We evaluate the spatio-temporal variation and calculate the total ET for the season per crop. Avocados reach the highest ET with 114.6 mm/season. The rest of the crops had between 95.4% and 83.3% of the demand for avocado. This study is the first approach to using sen-ET to evaluate the water requirements of crops in Chile. We need to advance further to improve the input data used (e.g., landcover) and validate the results."
+  },
+  {
+    "objectID": "cv/index.html",
+    "href": "cv/index.html",
+    "title": "Curriculum vitæ",
+    "section": "",
+    "text": "Download current CV"
+  },
+  {
+    "objectID": "posts.html",
+    "href": "posts.html",
+    "title": "My Blog",
+    "section": "",
+    "text": "Precipitation spatial pattern expected by ENSO\n\n\n\nENSO\n\nSpatial pattern\n\nChile\n\nUSA\n\n\n\nBased on Michelle L’Heureux’s analysis from NOAA, I remade it for the USA, applied it to Chile, and then compared the two results\n\n\n\nFrancisco Zambrano\n\n\nAug 22, 2025\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Francisco Zambrano",
+    "section": "",
+    "text": "Impact of climate change on avocado phenology and native sclerophyllous forest according to access to potential groundwater in the Aconcagua River basin\n    \n    \n      2025\n      $5M CLP\n      Ongoing\n    \n  \n\n  \n    Fund: CREA Ciencia 2030\n    Agency: ANID\n  \n\n  \n    Climate change is having two primary impacts in Chile. First, through the sustained reduction in precipitation, and second, through rising temperatures. This has led to a significant reduction in water resources, affecting both ecosystems and agricultural production, especially in the Aconcagua River basin.\n  \n\n  \n    \n      Rising temperatures have an impact by increasing vegetation demand for water and by shifting vegetation phenological development stages. This threatens biodiversity and agricultural security, particularly in crops such as avocado, which require up to 18,000 m³/ha annually in certain areas.\n\n      To address this problem, a comprehensive system is proposed that combines groundwater zoning with a phenological analysis of avocado orchards and native forests. The objective is to determine the relationship between potential groundwater zones and the phenology of avocado trees and native sclerophyllous forests in the Aconcagua Basin, using zonation techniques and phenological analysis using remote sensing and artificial intelligence.\n    \n    Read more\n  \n\n\n\n\n  \n    \n      A multi-scale drought observatory for Chile: an early warning system to mitigate agricultural and ecological impacts\n    \n    \n      2021\n      $300M CLP\n      Ongoing\n    \n  \n\n  \n    Fund: Redes, Estrategia y Conocimiento\n    Agency: ANID\n  \n\n  \n    Since 2010, central Chile is experiencing a multi-dimensional crisis due to the pervasive impacts of the ongoing mega drought. We propose the development of a multi-scale drought observatory for Chile that will help mitigate agricultural and ecological impacts.\n  \n\n  \n    \n      Using a macrosystems perspective, this observatory will integrate global climate and land satellite data with in-situ measurements from national weather stations. It will have two main components: i) monitoring climate and land variables and their impacts on agricultural and socio-ecological systems, and ii) a drought early warning system (DEWS).\n\n      The platforms will target three user groups – the general public, decision makers, and the scientific community - and will comply with FAIR data principles to enhance usability of all products.\n    \n    Read more\n  \n\n  \n    \n      Visit Project Website\n    \n  \n\n\n\n\n  \n    \n      SatOri: Satellite System for Irrigation Optimization\n    \n    \n      2020\n      $200M CLP\n      Completed\n    \n  \n\n  \n    Fund: FONDEF IDeA I+D\n    Agency: ANID\n  \n\n  \n    Water scarcity due to climate change has severely impacted agriculture in central Chile. This project developed SatOri, a low-cost, satellite-based decision-support service to optimize irrigation in kiwi and cherry orchards.\n  \n\n  \n    \n      The innovation integrates two key components: (1) determination of optimal deficit irrigation strategies (RDC) that reduce water use without compromising yield or fruit quality, and (2) estimation of canopy water status through machine learning models based on multispectral and radar satellite data (Sentinel-1, Sentinel-2, Landsat 8).\n\n      By focusing on plant response rather than indirect climatic indicators, SatOri promises a scalable, farmer-friendly tool for adaptive irrigation under increasing water limitations.\n    \n    Read more\n  \n\n  \n    \n      Visit Project Website\n    \n  \n\n\n\n\n  \n    \n      The impact of weather variability on wheat and maize production: an improved early warning model for agricultural drought\n    \n    \n      2019\n      $100M CLP\n      Completed\n    \n  \n\n  \n    Fund: FONDECYT de Iniciación en Investigación\n    Agency: ANID\n  \n\n  \n    This project developed a near-real-time seasonal prediction model for agricultural drought impact on maize and wheat in central Chile. Using high-resolution satellite data and environmental variables, the model helps anticipate crop losses and improve early warning systems.\n  \n\n  \n    \n      The project analyzed high spatial resolution satellite data from Sentinel-2 and Landsat 8 using the sen2-Agri system to retrieve phenology and vegetation indices. A biomass estimation model was developed and validated with field measurements, allowing for reconstruction of historical yield records (2000-2022).\n\n      The prediction model uses satellite environmental data of soil moisture, precipitation, land surface temperature and biomass proxies, with a prediction lead-time of one to six months before the end of season. As the data used are publicly available globally, the models obtained could be adopted around the globe.\n    \n    Read more"
+  },
+  {
+    "objectID": "publications/articles/articulo_duran-llacer2025.html",
+    "href": "publications/articles/articulo_duran-llacer2025.html",
+    "title": "Influence of Avocado Plantations as Driver of Land Use and Land Cover Change in Chile’s Aconcagua Basin",
+    "section": "",
+    "text": "Duran-Llacer, I., Salazar, A. A., Mondaca, P., Rodríguez-López, L., Martínez-Retureta, R., Zambrano, F., Llanos, F., & Frappart, F. (2025). Influence of Avocado Plantations as Driver of Land Use and Land Cover Change in Chile’s Aconcagua Basin. Land, 14(4), 750. https://doi.org/10.3390/land14040750"
+  },
+  {
+    "objectID": "publications/articles/articulo_duran-llacer2025.html#citation-apa-7",
+    "href": "publications/articles/articulo_duran-llacer2025.html#citation-apa-7",
+    "title": "Influence of Avocado Plantations as Driver of Land Use and Land Cover Change in Chile’s Aconcagua Basin",
+    "section": "",
+    "text": "Duran-Llacer, I., Salazar, A. A., Mondaca, P., Rodríguez-López, L., Martínez-Retureta, R., Zambrano, F., Llanos, F., & Frappart, F. (2025). Influence of Avocado Plantations as Driver of Land Use and Land Cover Change in Chile’s Aconcagua Basin. Land, 14(4), 750. https://doi.org/10.3390/land14040750"
+  },
+  {
+    "objectID": "publications/articles/articulo_duran-llacer2025.html#abstract",
+    "href": "publications/articles/articulo_duran-llacer2025.html#abstract",
+    "title": "Influence of Avocado Plantations as Driver of Land Use and Land Cover Change in Chile’s Aconcagua Basin",
+    "section": "Abstract",
+    "text": "Abstract\nLand use and land cover (LULC) change is a dynamic process influenced by various factors, including agricultural expansion. In Chile’s Aconcagua Basin, avocado plantations are potentially driving territorial transformations. However, current land cover data lacks the resolution required to accurately assess this impact. Accordingly, our study used advanced geospatial analysis techniques to address this gap. Through a detailed analysis of the spatial and temporal changes, it was determined that the most significant expansion of avocado plantations occurred between 2003 and 2013, with an increase of 402%. This growth primarily took place at the expense of native vegetation, particularly sclerophyllous shrubland, as well as other agricultural lands, near agricultural and urban lands. By 2023, changes in avocado plantation were significantly slower, with minimal alterations in LULC (5%), suggesting a possible influence of drought on small-scale farmers. However, the small loss of avocado plantation was mainly replaced by fruit farm land. Moreover, our findings suggest that while avocado plantations have become larger, more dominant, and more isolated, native vegetation has become more fragmented and reduced in patch size. Based on these results, sustainable land management practices were proposed. These findings provide a crucial foundation for developing sustainable land management strategies that balance agricultural production with environmental sustainability, landscape transformation and the well-being of local communities."
+  },
+  {
+    "objectID": "publications/articles/articulo_fernandez2023.html",
+    "href": "publications/articles/articulo_fernandez2023.html",
+    "title": "The economics impacts of long-run droughts: Challenges, gaps, and way forward",
+    "section": "",
+    "text": "Zambrano, F., Meza, F., Raab, N., and Duran-Llacer, I.: Drought’s trends over continental Chile using climatic variables of water demand and supply, soil moisture, and vegetation productivity, EGU General Assembly 2024, Vienna, Austria, 14–19 Apr 2024, EGU24-19099, https://doi.org/10.5194/egusphere-egu24-19099, 2024."
+  },
+  {
+    "objectID": "publications/articles/articulo_fernandez2023.html#citation-apa-7",
+    "href": "publications/articles/articulo_fernandez2023.html#citation-apa-7",
+    "title": "The economics impacts of long-run droughts: Challenges, gaps, and way forward",
+    "section": "",
+    "text": "Zambrano, F., Meza, F., Raab, N., and Duran-Llacer, I.: Drought’s trends over continental Chile using climatic variables of water demand and supply, soil moisture, and vegetation productivity, EGU General Assembly 2024, Vienna, Austria, 14–19 Apr 2024, EGU24-19099, https://doi.org/10.5194/egusphere-egu24-19099, 2024."
+  },
+  {
+    "objectID": "publications/articles/articulo_fernandez2023.html#abstract",
+    "href": "publications/articles/articulo_fernandez2023.html#abstract",
+    "title": "The economics impacts of long-run droughts: Challenges, gaps, and way forward",
+    "section": "Abstract",
+    "text": "Abstract\nQuantifying drought’s economic impacts has been key for decision-making to build future strategies and improve the development and implementation of proactive plans. However, climate change is changing drought frequency, intensity, and durability. These changes imply modifications of their economic impact, as longer droughts result in greater cumulative economic losses for water users. Though the longer the drought lasts, other factors also play a crucial role in its economic outcomes, such as Infrastructure capacity (IC), the Amount of Water in Storage (AWS) in reservoirs and aquifers, and short- and long-term responses to it. This study proposes and applies an analytical framework for the economic assessment of long-run droughts, assessing and explaining central Chile megadrought economic effects through the factors that begin to influence the economic impact level in this setting. High levels of both IC and the AWS, as well as short- and long-term responses of water users, allow for high resilience to long-run droughts, tolerating extraordinary water disruption in its society with relatively low total economic impacts. Despite this adaptability, long-term droughts bring places to a water-critical threshold where long-term adaptation strategies may be less flexible than short-term strategies, escalating the adverse economic effects. This fact suggests that the economic evaluation of megadrought needs to focus on future tipping points (substantial water scarcity). The tipping point depends on the IC, how water users manage the AWS, and adaptation strategies. Establishing the tipping point should be a priority for future interdisciplinary research."
+  },
+  {
+    "objectID": "publications/articles/articulo_rivas2020.html",
+    "href": "publications/articles/articulo_rivas2020.html",
+    "title": "Water availability, quality, and use in rural communities of the Chilean Coastal Range",
+    "section": "",
+    "text": "Rivas, Y., Rivera, D., Gallardo, R., Lagos, E., Yevenes, M., Zambrano, F., & Mendoza, J. (2020). Water availability, quality, and use in rural communities of the Chilean Coastal Range. Journal of Soil and Water Conservation, 75(1), 75–90. https://doi.org/10.2489/jswc.75.1.75"
+  },
+  {
+    "objectID": "publications/articles/articulo_rivas2020.html#citation-apa-7",
+    "href": "publications/articles/articulo_rivas2020.html#citation-apa-7",
+    "title": "Water availability, quality, and use in rural communities of the Chilean Coastal Range",
+    "section": "",
+    "text": "Rivas, Y., Rivera, D., Gallardo, R., Lagos, E., Yevenes, M., Zambrano, F., & Mendoza, J. (2020). Water availability, quality, and use in rural communities of the Chilean Coastal Range. Journal of Soil and Water Conservation, 75(1), 75–90. https://doi.org/10.2489/jswc.75.1.75"
+  },
+  {
+    "objectID": "publications/articles/articulo_rivas2020.html#abstract",
+    "href": "publications/articles/articulo_rivas2020.html#abstract",
+    "title": "Water availability, quality, and use in rural communities of the Chilean Coastal Range",
+    "section": "Abstract",
+    "text": "Abstract\nWater availability, use, and quality in dispersed rural communities in a rural watershed within the Chilean Coastal Range were investigated through participatory research involving the local community, also called “citizen science.” Research included the quantification of recharge water and water use at the household level; monitoring of water quality of streams, community water intakes, and household faucets; and the determination of land use and water quality interactions. A group of mainly women along with the children of three local rural elementary schools were involved in the principal aspects of the research, from design to implementation and remediation options. The study area receives considerable, but highly variable, rainfall, and the hydrogeological setting does not offer enough interannual natural storage to cope with increasing demand and variable water viability. Our results also showed that chemical quality of the water is relatively good, except for the high concentration of iron (Fe; &gt;0.3 mg L−1), manganese (Mn; &gt;0.1 mg L−1), and turbidity (&gt;5 nephlometric turbidity units [NTU]). From the microbiological point of view, the water is of poor quality. The low water quality could be related to the lack of maintenance of water collection systems, nonmaintenance of septic tanks, animal traffic, and low coverage of associated riparian vegetation. In the present approach the involvement of children in research helped to stimulate the improved management of both land and water resources by the community, and this practice could be applied in small rural watersheds in developed or developing countries."
+  },
+  {
+    "objectID": "publications/articles/articulo_zambrano2017.html",
+    "href": "publications/articles/articulo_zambrano2017.html",
+    "title": "Evaluating satellite-derived long-term historical precipitation datasets for drought monitoring in Chile",
+    "section": "",
+    "text": "Zambrano, F., Wardlow, B., Tadesse, T., Lillo-Saavedra, M., & Lagos, O. (2017). Evaluating satellite-derived long-term historical precipitation datasets for drought monitoring in Chile. Atmospheric Research, 186, 26–42. https://doi.org/10.1016/j.atmosres.2016.11.006"
+  },
+  {
+    "objectID": "publications/articles/articulo_zambrano2017.html#citation-apa-7",
+    "href": "publications/articles/articulo_zambrano2017.html#citation-apa-7",
+    "title": "Evaluating satellite-derived long-term historical precipitation datasets for drought monitoring in Chile",
+    "section": "",
+    "text": "Zambrano, F., Wardlow, B., Tadesse, T., Lillo-Saavedra, M., & Lagos, O. (2017). Evaluating satellite-derived long-term historical precipitation datasets for drought monitoring in Chile. Atmospheric Research, 186, 26–42. https://doi.org/10.1016/j.atmosres.2016.11.006"
+  },
+  {
+    "objectID": "publications/articles/articulo_zambrano2017.html#abstract",
+    "href": "publications/articles/articulo_zambrano2017.html#abstract",
+    "title": "Evaluating satellite-derived long-term historical precipitation datasets for drought monitoring in Chile",
+    "section": "Abstract",
+    "text": "Abstract\nPrecipitation is a key parameter for the study of climate change and variability and the detection and monitoring of natural disaster such as drought. Precipitation datasets that accurately capture the amount and spatial variability of rainfall is critical for drought monitoring and a wide range of other climate applications. This is challenging in many parts of the world, which often have a limited number of weather stations and/or historical data records. Satellite-derived precipitation products offer a viable alternative with several remotely sensed precipitation datasets now available with long historical data records (+30years), which include the Climate Hazards Group InfraRed Precipitation with Station (CHIRPS) and Precipitation Estimation from Remotely Sensed Information using Artificial Neural Networks-Climate Data Record (PERSIANN-CDR) datasets. This study presents a comparative analysis of three historical satellite-based precipitation datasets that include Tropical Rainfall Measuring Mission (TRMM) Multi-satellite Precipitation Analysis (TMPA) 3B43 version 7 (1998–2015), PERSIANN-CDR (1983–2015) and CHIRPS 2.0 (1981–2015) over Chile to assess their performance across the country and for the case of the two long-term products the applicability for agricultural drought were evaluated when used in the calculation of commonly used drought indicator as the Standardized Precipitation Index (SPI). In this analysis, 278 weather stations of in situ rainfall measurements across Chile were initially compared to the satellite data. The study area (Chile) was divided into five latitudinal zones: North, North-Central, Central, South-Central and South to determine if there were a regional difference among these satellite products, and nine statistics were used to evaluate their performance to estimate the amount and spatial distribution of historical rainfall across Chile. Hierarchical cluster analysis, k-means and singular value decomposition were used to analyze these datasets to better understand their similarities and differences in characterizing rainfall patterns across Chile. Monthly analysis showed that all satellite products highly overestimated rainfall in the arid North zone. However, there were no major difference between all three products from North to South-Central zones. Though, in the South zone, PERSIANN-CDR shows the lowest fit with high underestimation, while CHIRPS 2.0 and TMPA 3B43 v7 had better agreement with in situ measurements. The accuracy of satellite products were highly dependent on the amount of monthly rainfall with the best results found during winter seasons and in zones (Central to South) with higher amounts of precipitation. PERSIANN-CDR and CHIRPS 2.0 were used to derive SPI at time-scale of 1, 3 and 6 months, both satellite products presented similar results when it was compared in situ against satellite SPI’s. Because of its higher spatial resolution that allows better characterizing of spatial variation in precipitation pattern, the CHIRPS 2.0 was used to mapping the SPI-3 over Chile. The results of this study show that in order to use the CHIRPS 2.0 and PERSIANN-CDR datasets in Chile to monitor spatial patterns in the rainfall and drought intensity conditions, these products should be calibrated to adjust for the overestimation/underestimation of rainfall geographically specially in the North zone and seasonally during the summer and spring months in the other zones."
+  },
+  {
+    "objectID": "publications/articles/articulo_zambrano2023.html",
+    "href": "publications/articles/articulo_zambrano2023.html",
+    "title": "Four Decades of Satellite Data for Agricultural Drought Monitoring throughout the Growing Season in Central Chile",
+    "section": "",
+    "text": "Zambrano, F. (2023). Four decades of satellite data for agricultural drought monitoring throughout the growing season in Central Chile. In R. M. Vijay P. Singh Deepak Jhajharia & R. Kumar (Eds.), Integrated Drought Management, Two Volume Set (p. 28). CRC Press."
+  },
+  {
+    "objectID": "publications/articles/articulo_zambrano2023.html#citation-apa-7",
+    "href": "publications/articles/articulo_zambrano2023.html#citation-apa-7",
+    "title": "Four Decades of Satellite Data for Agricultural Drought Monitoring throughout the Growing Season in Central Chile",
+    "section": "",
+    "text": "Zambrano, F. (2023). Four decades of satellite data for agricultural drought monitoring throughout the growing season in Central Chile. In R. M. Vijay P. Singh Deepak Jhajharia & R. Kumar (Eds.), Integrated Drought Management, Two Volume Set (p. 28). CRC Press."
+  },
+  {
+    "objectID": "publications/articles/articulo_zambrano2023.html#abstract",
+    "href": "publications/articles/articulo_zambrano2023.html#abstract",
+    "title": "Four Decades of Satellite Data for Agricultural Drought Monitoring throughout the Growing Season in Central Chile",
+    "section": "Abstract",
+    "text": "Abstract\nThe chapter describes the monitoring of agricultural drought in Central Chile. It discusses the Standardized Precipitation Index (SPI), the standardized anomaly of the Normalized Difference Vegetation Index (zNDVI), and the Vegetation Condition Index (VCI) used in Chile for agricultural drought. The chapter also describes some of the most relevant long-term data sets from Earth observation for agricultural drought, such as MODIS, AVHRR, and CHIRPS. The standardized anomaly of cumulative NDVI within the growing season index (zcNDVI) as a well-fit index for agriculture is presented. Finally, the zcNDVI and SPI at the end of the season for the vegetation in Central Chile are analyzed beginning with the year 1981."
+  },
+  {
+    "objectID": "publications/articles/articulo_zambrano2025b.html",
+    "href": "publications/articles/articulo_zambrano2025b.html",
+    "title": "From Drought to Aridification: Land-cover fingerprints of a drying Chile",
+    "section": "",
+    "text": "Zambrano, F., Anton, V., Meza, F., Duran-llacer, I., Fernández, F., Venegas-González, A., Raab, N., Craven, D., 2025. From Drought to Aridification: Land-cover fingerprints of a drying Chile. Earth’s Future. https://doi.org/10.1029/2025EF006744"
+  },
+  {
+    "objectID": "publications/articles/articulo_zambrano2025b.html#citation-apa-7",
+    "href": "publications/articles/articulo_zambrano2025b.html#citation-apa-7",
+    "title": "From Drought to Aridification: Land-cover fingerprints of a drying Chile",
+    "section": "",
+    "text": "Zambrano, F., Anton, V., Meza, F., Duran-llacer, I., Fernández, F., Venegas-González, A., Raab, N., Craven, D., 2025. From Drought to Aridification: Land-cover fingerprints of a drying Chile. Earth’s Future. https://doi.org/10.1029/2025EF006744"
+  },
+  {
+    "objectID": "publications/articles/articulo_zambrano2025b.html#abstract",
+    "href": "publications/articles/articulo_zambrano2025b.html#abstract",
+    "title": "From Drought to Aridification: Land-cover fingerprints of a drying Chile",
+    "section": "Abstract",
+    "text": "Abstract\nChile has endured a decade-long “mega-drought”, yet it remains unclear whether this represents a temporary climate anomaly or the onset of long-term aridification. While droughts are typically temporary events, persistent or recurrent droughts can indicate a transition toward aridification, i.e., a gradual shift to drier conditions. We assessed how temporal changes in water supply and demand at multiple time scales affect vegetation productivity and land cover changes in continental Chile to diagnose the region’s climate trajectory from drought to aridification. Since 2000, much of the region has seen a continuous decrease in water supply alongside a rise in atmospheric water demand. Further, in water-limited ecoregions, evapotranspiration, likely reflecting reduced transpiration or vegetation cover, has declined over time, with this trend intensifying over longer time scales. A long-term decline in water availability and shifting demand have led to declining vegetation productivity, especially in the Chilean Matorral and the Valdivian temperate forest ecoregions. We found that drought indices related to soil moisture and actual evapotranspiration at time scales of up to 12 months primarily explain these declines. Further, our results indicate that the trends in drought indices account for up to 78% of shrubland and 40% of forest area changes across all ecoregions. The most important variable explaining cropland changes is the burned area. Our findings suggest that Chile is undergoing a transition from episodic drought to aridification, underscoring the need for adaptation strategies aligned with this emerging baseline."
+  }
+]
