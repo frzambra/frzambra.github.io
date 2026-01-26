@@ -78,8 +78,8 @@ document.addEventListener('DOMContentLoaded', function() {
   // Update CV PDF (if on CV page)
   function updateCV() {
     const cvPaths = {
-      en: 'resume_en_academico_sep2025.pdf',
-      es: 'resume_es_academico_sep2025.pdf'
+      en: 'resume_en_academico_ene2026.pdf',
+      es: 'resume_es_academico_ene2026.pdf'
     };
 
     const pdfPath = cvPaths[currentLang];
