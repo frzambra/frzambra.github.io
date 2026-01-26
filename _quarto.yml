@@ -8,7 +8,7 @@ project:
 website:
   title: "Francisco Zambrano"
   favicon: img/fzb_selfie.ico
-  site-url: "https://francisco-zambrano.com"
+  site-url: "https://francisco-zambrano.cl"
   open-graph: true
   navbar:
     background: "#234460"
