@@ -41,6 +41,7 @@ format:
     theme:
       - tango
       - rjh.scss
+    css: styles.css
     toc: true
     mainfont: "Merriweather, Georgia, serif"
     html-math-method: katex
