@@ -6,8 +6,8 @@ published-title: CV last updated
 engine: knitr
 freeze: false
 resources:
-  - resume_en_academico_sep2025.pdf
-  - resume_es_academico_sep2025.pdf
+  - resume_en_academico_ene2026.pdf
+  - resume_es_academico_ene2026.pdf
 ---
 
 ```{css, echo=FALSE}
