@@ -2,16 +2,16 @@
 
 /* Project and Course Cards */
 .project-grid, .course-grid {
-  display: grid;
-  grid-template-columns: repeat(2, 1fr);
+  display: flex;
+  flex-wrap: wrap;
   gap: 2rem;
   margin-bottom: 2rem;
-  align-items: start;
+  align-items: flex-start;
 }
 
 @media (max-width: 768px) {
   .project-grid, .course-grid {
-    grid-template-columns: 1fr;
+    flex-direction: column;
   }
 }
 
@@ -23,6 +23,8 @@
   transition: box-shadow 0.3s ease, transform 0.3s ease;
   display: flex;
   flex-direction: column;
+  flex: 1 1 calc(50% - 1rem);
+  min-width: 300px;
 }
 
 .project-card:hover, .course-card:hover {
