@@ -1,76 +1,136 @@
 ---
 pagetitle: "Francisco Zambrano - Teaching"
-include-after-body: abbrv_toc.html
-number-sections: true
-toc-depth: 1
+toc: false
 ---
 
-# Introduction to Geographical Information Systems (GIS) {toc-text='GIS'}
+```{=html}
+<div class="course-grid">
 
-This course provides an overview of Geographic Information System (GIS) concepts and their components. Both the theory and practical application of GIS will be emphasized in this course. The course's objective is to teach students the concepts for managing geographic information systems, as well as the use of QGIS geographic information systems software and its application in environmental engineering.
+<!-- Course 1: Intro to GIS -->
+<div class="course-card">
+  <div class="card-header">
+    <h2 class="card-title">
+      <span data-en="Introduction to Geographical Information Systems (GIS)" data-es="Introducción a los Sistemas de Información Geográfica (SIG)">Introduction to Geographical Information Systems (GIS)</span>
+    </h2>
+    <div class="card-badges">
+      <span class="badge-status badge-level" data-en="Beginner" data-es="Principiante">Beginner</span>
+      <span class="badge-status badge-blue" data-en="QGIS" data-es="QGIS">QGIS</span>
+    </div>
+  </div>
 
-Learning Objectives
+  <div class="card-summary">
+    <p data-en-html="This course provides an overview of Geographic Information System (GIS) concepts and their components. Both the theory and practical application of GIS will be emphasized. Students will learn to manage geographic information systems using QGIS software and its application in environmental engineering." data-es-html="Este curso proporciona una visión general de los conceptos de los Sistemas de Información Geográfica (SIG) y sus componentes. Se enfatizará tanto la teoría como la aplicación práctica de los SIG. Los estudiantes aprenderán a gestionar sistemas de información geográfica usando el software QGIS y su aplicación en ingeniería ambiental.">This course provides an overview of Geographic Information System (GIS) concepts and their components. Both the theory and practical application of GIS will be emphasized. Students will learn to manage geographic information systems using QGIS software and its application in environmental engineering.</p>
+  </div>
 
-* Demonstrate theoretical understanding and proficiency in Geographic Information Systems;
+  <div class="card-abstract">
+    <div class="abstract-content">
+      <p><strong><span data-en="Learning Objectives" data-es="Objetivos de Aprendizaje">Learning Objectives</span></strong></p>
+      <ul>
+        <li><span data-en="Demonstrate theoretical understanding and proficiency in Geographic Information Systems" data-es="Demostrar comprensión teórica y competencia en Sistemas de Información Geográfica">Demonstrate theoretical understanding and proficiency in Geographic Information Systems</span></li>
+        <li><span data-en="Demonstrate understanding and proficiency in recording, formatting, storing, and editing spatial data" data-es="Demostrar comprensión y competencia en el registro, formateo, almacenamiento y edición de datos espaciales">Demonstrate understanding and proficiency in recording, formatting, storing, and editing spatial data</span></li>
+        <li><span data-en="Demonstrate understanding and proficiency in map design" data-es="Demostrar comprensión y competencia en diseño cartográfico">Demonstrate understanding and proficiency in map design</span></li>
+        <li><span data-en="Demonstrate proficiency in using the GIS software QGIS" data-es="Demostrar competencia en el uso del software SIG QGIS">Demonstrate proficiency in using the GIS software QGIS</span></li>
+      </ul>
+    </div>
+    <button class="read-more-btn"><span data-en="Read more" data-es="Leer más">Read more</span></button>
+  </div>
 
-* Demonstrate understanding and proficiency in recording, formatting, storing, and editing spatial data;
+  <div class="card-footer">
+    <a href="http://francisco-zambrano.cl/curso_intro-SIG/" class="btn-primary-custom" target="_blank">
+      <span data-en="Visit Course Website" data-es="Visitar Sitio del Curso">Visit Course Website</span>
+    </a>
+  </div>
+</div>
 
-* Demonstrate understanding and proficiency in map design;
+<!-- Course 2: Advanced GIS with R -->
+<div class="course-card">
+  <div class="card-header">
+    <h2 class="card-title">
+      <span data-en="Advanced Geographical Information Systems (GIS) with R Programming" data-es="Sistemas de Información Geográfica (SIG) Avanzados con Programación en R">Advanced Geographical Information Systems (GIS) with R Programming</span>
+    </h2>
+    <div class="card-badges">
+      <span class="badge-status badge-level" data-en="Beginner" data-es="Principiante">Beginner</span>
+      <span class="badge-status badge-green" data-en="R Programming" data-es="Programación R">R Programming</span>
+    </div>
+  </div>
 
-* Demonstrate proficiency in using the GIS software QGIS.
+  <div class="card-summary">
+    <p data-en-html="This introductory course offers a hands-on foundation in Geographical Information Systems (GIS) using the R programming language. Designed for students and professionals with little or no prior experience in spatial analysis or coding, the course guides participants through essential concepts, tools, and techniques for working with geographic data." data-es-html="Este curso introductorio ofrece una base práctica en Sistemas de Información Geográfica (SIG) utilizando el lenguaje de programación R. Diseñado para estudiantes y profesionales con poca o ninguna experiencia previa en análisis espacial o programación, el curso guía a los participantes a través de los conceptos, herramientas y técnicas esenciales para trabajar con datos geográficos.">This introductory course offers a hands-on foundation in Geographical Information Systems (GIS) using the R programming language. Designed for students and professionals with little or no prior experience in spatial analysis or coding, the course guides participants through essential concepts, tools, and techniques for working with geographic data.</p>
+  </div>
 
-**[Course website](http://francisco-zambrano.cl/curso_intro-SIG/)**
+  <div class="card-abstract">
+    <div class="abstract-content">
+      <p><strong><span data-en="What You'll Learn:" data-es="Qué Aprenderás:">What You'll Learn:</span></strong></p>
+      <ul>
+        <li><span data-en="How to import, explore, and visualize spatial data (vector and raster) using R" data-es="Cómo importar, explorar y visualizar datos espaciales (vectoriales y ráster) usando R">How to import, explore, and visualize spatial data (vector and raster) using R</span></li>
+        <li><span data-en="Basic geoprocessing operations: buffering, clipping, spatial joins, and overlays" data-es="Operaciones básicas de geoprocesamiento: buffer, recorte, uniones espaciales y superposiciones">Basic geoprocessing operations: buffering, clipping, spatial joins, and overlays</span></li>
+        <li><span data-en="Creating simple, publication-ready maps using R packages such as sf, terra, and tmap" data-es="Creación de mapas simples listos para publicación usando paquetes de R como sf, terra y tmap">Creating simple, publication-ready maps using R packages such as sf, terra, and tmap</span></li>
+        <li><span data-en="Introduction to spatial data structures and reproducible GIS workflows in R" data-es="Introducción a las estructuras de datos espaciales y flujos de trabajo SIG reproducibles en R">Introduction to spatial data structures and reproducible GIS workflows in R</span></li>
+      </ul>
 
-* * *
+      <p><strong><span data-en="Designed For:" data-es="Diseñado Para:">Designed For:</span></strong></p>
+      <p data-en-html="This course is ideal for beginners in GIS or R who are interested in environmental sciences, urban studies, geography, or data science, and want to develop practical skills in open-source spatial analysis." data-es-html="Este curso es ideal para principiantes en SIG o R que estén interesados en ciencias ambientales, estudios urbanos, geografía o ciencia de datos, y que deseen desarrollar habilidades prácticas en análisis espacial de código abierto.">This course is ideal for beginners in GIS or R who are interested in environmental sciences, urban studies, geography, or data science, and want to develop practical skills in open-source spatial analysis.</p>
 
-# Advanced Geographical Information Systems (GIS) with R Programming {toc-text='GIS with R'}
+      <p><strong><span data-en="Course Format:" data-es="Formato del Curso:">Course Format:</span></strong></p>
+      <ul>
+        <li><span data-en="Interactive lectures and coding labs using real-world examples" data-es="Clases interactivas y laboratorios de programación utilizando ejemplos del mundo real">Interactive lectures and coding labs using real-world examples</span></li>
+        <li><span data-en="Focus on free and open-source tools: RStudio and key spatial R packages" data-es="Enfoque en herramientas gratuitas y de código abierto: RStudio y paquetes espaciales clave de R">Focus on free and open-source tools: RStudio and key spatial R packages</span></li>
+        <li><span data-en="No prior experience in GIS or R required — just curiosity and motivation to learn" data-es="No se requiere experiencia previa en SIG o R, solo curiosidad y motivación para aprender">No prior experience in GIS or R required — just curiosity and motivation to learn</span></li>
+      </ul>
+    </div>
+    <button class="read-more-btn"><span data-en="Read more" data-es="Leer más">Read more</span></button>
+  </div>
 
-This introductory course offers a hands-on foundation in Geographical Information Systems (GIS) using the R programming language. Designed for students and professionals with little or no prior experience in spatial analysis or coding, the course guides participants through the essential concepts, tools, and techniques for working with geographic data.
+  <div class="card-footer">
+    <a href="http://francisco-zambrano.cl/curso_SIG-con-R/" class="btn-primary-custom" target="_blank">
+      <span data-en="Visit Course Website" data-es="Visitar Sitio del Curso">Visit Course Website</span>
+    </a>
+  </div>
+</div>
 
-What You'll Learn:
+<!-- Course 3: Spatial Analysis with R -->
+<div class="course-card">
+  <div class="card-header">
+    <h2 class="card-title">
+      <span data-en="Programming and Spatial Analysis with R" data-es="Programación y Análisis Espacial con R">Programming and Spatial Analysis with R</span>
+    </h2>
+    <div class="card-badges">
+      <span class="badge-status badge-level" data-en="Graduate" data-es="Posgrado">Graduate</span>
+      <span class="badge-status badge-green" data-en="R Programming" data-es="Programación R">R Programming</span>
+      <span class="badge-status badge-yellow" data-en="Universidad Mayor" data-es="Universidad Mayor">Universidad Mayor</span>
+    </div>
+  </div>
 
-* How to import, explore, and visualize spatial data (vector and raster) using R
+  <div class="card-meta">
+    <strong><span data-en="Program:" data-es="Programa:">Program:</span></strong> <span data-en="Master's in Remote Sensing – Universidad Mayor" data-es="Magíster en Teledetección – Universidad Mayor">Master's in Remote Sensing – Universidad Mayor</span>
+  </div>
 
-* Basic geoprocessing operations: buffering, clipping, spatial joins, and overlays
+  <div class="card-summary">
+    <p data-en-html="This course provides an applied introduction to spatial data analysis and interpolation techniques using the R programming language. Aimed at postgraduate students in environmental and earth sciences, the course combines lectures with hands-on computing labs to develop practical skills in geospatial data handling, visualization, and modeling." data-es-html="Este curso proporciona una introducción aplicada al análisis de datos espaciales y técnicas de interpolación utilizando el lenguaje de programación R. Dirigido a estudiantes de posgrado en ciencias ambientales y de la tierra, el curso combina clases magistrales con laboratorios de computación prácticos para desarrollar habilidades prácticas en manejo, visualización y modelado de datos geoespaciales.">This course provides an applied introduction to spatial data analysis and interpolation techniques using the R programming language. Aimed at postgraduate students in environmental and earth sciences, the course combines lectures with hands-on computing labs to develop practical skills in geospatial data handling, visualization, and modeling.</p>
+  </div>
 
-* Creating simple, publication-ready maps using R packages such as sf, terra, and tmap
+  <div class="card-abstract">
+    <div class="abstract-content">
+      <p><strong><span data-en="Key topics include:" data-es="Los temas clave incluyen:">Key topics include:</span></strong></p>
+      <ul>
+        <li><span data-en="Fundamentals of spatial data structures and coordinate reference systems" data-es="Fundamentos de estructuras de datos espaciales y sistemas de referencia de coordenadas">Fundamentals of spatial data structures and coordinate reference systems</span></li>
+        <li><span data-en="Handling and visualizing raster and vector data using R packages such as sf, terra, ggplot2, and tmap" data-es="Manejo y visualización de datos ráster y vectoriales usando paquetes de R como sf, terra, ggplot2 y tmap">Handling and visualizing raster and vector data using R packages such as sf, terra, ggplot2, and tmap</span></li>
+        <li><span data-en="Introduction to spatial interpolation using deterministic methods (e.g., Inverse Distance Weighting, regression) and geostatistical techniques (e.g., Kriging, Regression-Kriging)" data-es="Introducción a la interpolación espacial usando métodos determinísticos (p. ej., Ponderación por Distancia Inversa, regresión) y técnicas geoestadísticas (p. ej., Kriging, Regression-Kriging)">Introduction to spatial interpolation using deterministic methods (e.g., Inverse Distance Weighting, regression) and geostatistical techniques (e.g., Kriging, Regression-Kriging)</span></li>
+        <li><span data-en="Exploratory spatial data analysis, including autocorrelation and variogram modeling" data-es="Análisis exploratorio de datos espaciales, incluyendo autocorrelación y modelado de variogramas">Exploratory spatial data analysis, including autocorrelation and variogram modeling</span></li>
+        <li><span data-en="Spatial prediction using machine learning with random forest" data-es="Predicción espacial usando aprendizaje automático con random forest">Spatial prediction using machine learning with random forest</span></li>
+      </ul>
 
-* Introduction to spatial data structures and reproducible GIS workflows in R
+      <p data-en-html="By the end of the course, students will be able to process and analyze spatial datasets, create publication-quality maps, and apply reproducible workflows for spatial modeling in R." data-es-html="Al finalizar el curso, los estudiantes serán capaces de procesar y analizar conjuntos de datos espaciales, crear mapas de calidad para publicación y aplicar flujos de trabajo reproducibles para modelado espacial en R.">By the end of the course, students will be able to process and analyze spatial datasets, create publication-quality maps, and apply reproducible workflows for spatial modeling in R.</p>
+    </div>
+    <button class="read-more-btn"><span data-en="Read more" data-es="Leer más">Read more</span></button>
+  </div>
 
-Designed For:
+  <div class="card-footer">
+    <a href="https://francisco-zambrano.cl/curso_analisis-espacial-con-R/" class="btn-primary-custom" target="_blank">
+      <span data-en="Visit Course Website" data-es="Visitar Sitio del Curso">Visit Course Website</span>
+    </a>
+  </div>
+</div>
 
-This course is ideal for beginners in GIS or R who are interested in environmental sciences, urban studies, geography, or data science, and want to develop practical skills in open-source spatial analysis.
-
-Course Format:
-
-* Interactive lectures and coding labs using real-world examples
-
-* Focus on free and open-source tools: RStudio and key spatial R packages
-
-* No prior experience in GIS or R required — just curiosity and motivation to learn
-
-**[Course website](http://francisco-zambrano.cl/curso_SIG-con-R/)**
-
-* * *
-
-# Programming and Spatial Analysis with R {toc-text='Spatial analysis with R'}
-
-Master’s in Remote Sensing – Universidad Mayor
-
-This course provides an applied introduction to spatial data analysis and interpolation techniques using the R programming language. Aimed at postgraduate students in environmental and earth sciences, the course combines lectures with hands-on computing labs to develop practical skills in geospatial data handling, visualization, and modeling.
-
-Key topics include:
-
-* Fundamentals of spatial data structures and coordinate reference systems
-
-* Handling and visualizing raster and vector data using R packages such as sf, terra, ggplot2, and tmap
-
-* Introduction to spatial interpolation using deterministic methods (e.g., Inverse Distance Weighting, regression) and geostatistical techniques (e.g., Kriging, Regression-Kriging)
-
-* Exploratory spatial data analysis, including autocorrelation and variogram modeling
-
-* Spatial prediction using machine learning with random forest
-
-By the end of the course, students will be able to process and analyze spatial datasets, create publication-quality maps, and apply reproducible workflows for spatial modeling in R.
-
-**[Course website](https://francisco-zambrano.cl/curso_analisis-espacial-con-R/)**
+</div>
+```
