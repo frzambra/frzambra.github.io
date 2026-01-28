@@ -2,15 +2,14 @@
 
 /* Project and Course Cards */
 .project-grid, .course-grid {
-  display: grid;
-  grid-template-columns: repeat(2, 1fr);
-  gap: 2rem;
+  column-count: 2;
+  column-gap: 2rem;
   margin-bottom: 2rem;
 }
 
 @media (max-width: 768px) {
   .project-grid, .course-grid {
-    grid-template-columns: 1fr;
+    column-count: 1;
   }
 }
 
@@ -20,9 +19,13 @@
   border-radius: 8px;
   padding: 1.5rem;
   transition: box-shadow 0.3s ease;
-  height: 100%;
-  display: flex;
+  display: inline-flex;
   flex-direction: column;
+  width: 100%;
+  margin-bottom: 2rem;
+  break-inside: avoid;
+  page-break-inside: avoid;
+  vertical-align: top;
 }
 
 .project-card:hover, .course-card:hover {
@@ -60,7 +63,6 @@
 }
 
 .card-summary {
-  flex-grow: 1;
   margin-bottom: 1rem;
   line-height: 1.6;
 }
@@ -74,12 +76,13 @@
 .abstract-content {
   max-height: 0;
   overflow: hidden;
-  transition: max-height 0.3s ease;
+  transition: max-height 0.4s ease-in-out;
   line-height: 1.6;
 }
 
 .abstract-content.expanded {
   max-height: 2000px;
+  transition: max-height 0.5s ease-in-out;
 }
 
 .read-more-btn {
@@ -112,7 +115,6 @@
 }
 
 .card-footer {
-  margin-top: auto;
   padding-top: 1rem;
 }
 
