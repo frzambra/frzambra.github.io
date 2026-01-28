@@ -6,6 +6,7 @@
   grid-template-columns: repeat(2, 1fr);
   gap: 2rem;
   margin-bottom: 2rem;
+  align-items: start;
 }
 
 @media (max-width: 768px) {
@@ -19,8 +20,7 @@
   border: 1px solid #ddd;
   border-radius: 8px;
   padding: 1.5rem;
-  transition: box-shadow 0.3s ease;
-  height: 100%;
+  transition: box-shadow 0.3s ease, transform 0.3s ease;
   display: flex;
   flex-direction: column;
 }
@@ -60,7 +60,6 @@
 }
 
 .card-summary {
-  flex-grow: 1;
   margin-bottom: 1rem;
   line-height: 1.6;
 }
@@ -74,12 +73,13 @@
 .abstract-content {
   max-height: 0;
   overflow: hidden;
-  transition: max-height 0.3s ease;
+  transition: max-height 0.4s ease-in-out;
   line-height: 1.6;
 }
 
 .abstract-content.expanded {
   max-height: 2000px;
+  transition: max-height 0.5s ease-in-out;
 }
 
 .read-more-btn {
