@@ -2,16 +2,14 @@
 
 /* Project and Course Cards */
 .project-grid, .course-grid {
-  display: flex;
-  flex-wrap: wrap;
-  gap: 2rem;
+  column-count: 2;
+  column-gap: 2rem;
   margin-bottom: 2rem;
-  align-items: flex-start;
 }
 
 @media (max-width: 768px) {
   .project-grid, .course-grid {
-    flex-direction: column;
+    column-count: 1;
   }
 }
 
@@ -20,11 +18,14 @@
   border: 1px solid #ddd;
   border-radius: 8px;
   padding: 1.5rem;
-  transition: box-shadow 0.3s ease, transform 0.3s ease;
-  display: flex;
+  transition: box-shadow 0.3s ease;
+  display: inline-flex;
   flex-direction: column;
-  flex: 1 1 calc(50% - 1rem);
-  min-width: 300px;
+  width: 100%;
+  margin-bottom: 2rem;
+  break-inside: avoid;
+  page-break-inside: avoid;
+  vertical-align: top;
 }
 
 .project-card:hover, .course-card:hover {
@@ -114,7 +115,6 @@
 }
 
 .card-footer {
-  margin-top: auto;
   padding-top: 1rem;
 }
 
