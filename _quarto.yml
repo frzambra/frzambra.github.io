@@ -46,3 +46,7 @@ format:
     html-math-method: katex
     include-in-header:
       file: header.html
+    include-after-body:
+      - text: |
+          <script src="language-toggle.js"></script>
+          <script src="card-collapse.js"></script>
